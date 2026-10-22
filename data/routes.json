@@ -1,0 +1,94 @@
+[
+  {
+    "id": "route-aral-expedition",
+    "category": "ecological",
+    "name": {
+      "uz": "Nukus – Mo'ynoq – Orol dengizi ekspeditsiyasi",
+      "kaa": "Nókis – Moynaq – Aral teńizi ekspediciyası",
+      "ru": "Экспедиция: Нукус – Муйнак – Аральское море",
+      "en": "Expedition: Nukus – Muynak – Aral Sea"
+    },
+    "distanceKm": 450,
+    "durationDays": 2,
+    "vehicle": "4x4",
+    "stops": [
+      "40-moynoq-kema-qabristoni",
+      "45-sudochye-kollar-tizimi",
+      "42-ustyurt-chinklari-va-kanyonlari",
+      "38-orol-dengizi-garbiy-qirgoq"
+    ],
+    "images": [
+      "assets/images/destinations/42-ustyurt-chinklari-va-kanyonlari.jpg",
+      "assets/images/destinations/40-moynoq-kema-qabristoni.jpg"
+    ]
+  },
+  {
+    "id": "route-golden-fortresses",
+    "category": "historical",
+    "name": {
+      "uz": "Qadimgi Xorazm qal'alari halqasi",
+      "kaa": "Áyyemgi Xorezm qalaları saqıynası",
+      "ru": "Кольцо древних крепостей Хорезма",
+      "en": "Ring of Ancient Khwarazm Fortresses"
+    },
+    "distanceKm": 260,
+    "durationDays": 1,
+    "vehicle": "car",
+    "stops": [
+      "01-chilpik-chilpyk-dakhma",
+      "04-qizil-qala",
+      "05-toproq-qala",
+      "07-ayaz-qala-i"
+    ],
+    "images": [
+      "assets/images/destinations/07-ayaz-qala-i.jpg",
+      "assets/images/destinations/05-toproq-qala.jpg",
+      "assets/images/destinations/01-chilpik-chilpyk-dakhma.jpg"
+    ]
+  },
+  {
+    "id": "route-culture-pilgrimage",
+    "category": "pilgrimage",
+    "name": {
+      "uz": "Nukus san'ati va Mizdaxkan sirlari",
+      "kaa": "Nókis óneri hám Mizdaxqan sırları",
+      "ru": "Искусство Нукуса и святыни Миздахкана",
+      "en": "Art of Nukus & Shrines of Mizdakhkan"
+    },
+    "distanceKm": 75,
+    "durationDays": 1,
+    "vehicle": "car",
+    "stops": [
+      "54-i-v-savitskiy-nomidagi-qoraqalpogiston-davlat-sanat-muzeyi",
+      "20-mizdaxkan-majmuasi",
+      "21-mazlumxon-sulu-maqbarasi",
+      "34-shamun-nabi"
+    ],
+    "images": [
+      "assets/images/destinations/54-i-v-savitskiy-nomidagi-qoraqalpogiston-davlat-sanat-muzeyi.jpg",
+      "assets/images/destinations/20-mizdaxkan-majmuasi.jpg",
+      "assets/images/destinations/21-mazlumxon-sulu-maqbarasi.jpg"
+    ]
+  },
+  {
+    "id": "route-chimboy-crafts",
+    "category": "crafts",
+    "name": {
+      "uz": "Chimboy hunarmandchiligi va Taxtako‘pir etno safari",
+      "kaa": "Shımbay ónermentshiligi hám Taxtakópir etno saparı",
+      "ru": "Ремёсла Чимбая и этнотур по Тахтакупыру",
+      "en": "Chimbay Crafts & Takhtakupir Ethno Tour"
+    },
+    "distanceKm": 160,
+    "durationDays": 1,
+    "vehicle": "car",
+    "stops": [
+      "62-adil-tazhimuratov-zargarlik-ustaxonasi",
+      "64-tax-tepa-etno-qishlogi",
+      "63-qorateran-ekoturizm-kompleksi"
+    ],
+    "images": [
+      "assets/images/destinations/63-qorateran-national-festival-2026.jpg"
+    ]
+  }
+]

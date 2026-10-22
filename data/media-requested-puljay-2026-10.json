@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-21",
+  "scope": "Puljay territory overview, licensed noncommercial satellite imagery",
+  "method": "Primary coordinate evidence and EOX source/license reviewed; exact WMS mosaic downloaded without generative edits.",
+  "records": [
+    {
+      "destinationId": "27-puljay",
+      "sourceUrl": "https://cloudless.eox.at/",
+      "status": "licensed-territory-overview",
+      "identityNote": "Coordinate-centered landscape, not an identified ground photograph of the ruins. UNESCO Tentative List 6903 UZ-17 gives 43°10′37.89″N 58°22′04.10″E (43.177192,58.367806): https://whc.unesco.org/en/tentativelists/6903/. Independent archaeological research agrees: https://evrazstep.ru/index.php/aes/article/view/358 (2018), p.238.",
+      "photos": [
+        {
+          "preferred": true,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "publicationRequested": true,
+          "license": "CC BY-NC-SA 4.0",
+          "rightsStatus": "licensed-noncommercial",
+          "kind": "overview",
+          "sourceType": "eox-sentinel2",
+          "localFile": "assets/images/destinations/research/27-puljay-eox-2024-overview.jpg",
+          "sourceImageUrl": "https://tiles.maps.eox.at/wms?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=s2cloudless-2024_3857&STYLES=&SRS=EPSG%3A3857&BBOX=6493474.443%2C5336481.284%2C6501474.443%2C5341481.284&WIDTH=800&HEIGHT=500&FORMAT=image%2Fjpeg",
+          "sourceUrl": "https://cloudless.eox.at/",
+          "author": "EOX IT Services GmbH (modified Copernicus Sentinel data 2024)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "rightsEvidenceUrl": "https://cloudless.eox.at/license-non-commercial",
+          "captureDate": "2024",
+          "sourceResolutionMeters": 10,
+          "bounds": {
+            "crs": "EPSG:3857",
+            "bbox": [
+              6493474.443,
+              5336481.284,
+              6501474.443,
+              5341481.284
+            ]
+          },
+          "centerCoordinates": {
+            "lat": 43.177192,
+            "lng": 58.367806
+          },
+          "contextVerified": true,
+          "individualStructureVerified": false,
+          "caption": {
+            "uz": "Puljay arxeologik majmuasi atrofidagi Ustyurt hududining 2024-yilgi sun’iy yo‘ldosh ko‘rinishi. Markaz — UNESCO ro‘yxatidagi koordinata; alohida xarobalar bu tasvirda aniqlanmagan.",
+            "kaa": "Puljay arxeologiyalıq kompleksi átirapındaǵı Ústirt aymaǵınıń 2024-jılǵı sputnik kórinisi. Orayı — UNESCO dizimindegi koordinata; jeke qarabaxanalar bul súwrette anıqlanbaǵan.",
+            "ru": "Спутниковый обзор окрестностей археологического комплекса Пулжай на Устюрте, мозаика 2024 года. Центр соответствует координате из предварительного списка UNESCO; отдельные руины не идентифицированы.",
+            "en": "2024 satellite overview of the Ustyurt landscape around the Puljay archaeological complex. Centered on the UNESCO Tentative List coordinate; individual ruins are not identified in this image."
+          },
+          "identityEvidence": "Coordinate-centered landscape, not an identified ground photograph of the ruins. UNESCO Tentative List 6903 UZ-17 gives 43°10′37.89″N 58°22′04.10″E (43.177192,58.367806): https://whc.unesco.org/en/tentativelists/6903/. Independent archaeological research agrees: https://evrazstep.ru/index.php/aes/article/view/358 (2018), p.238.",
+          "visualInspection": "Exact downloaded 800x500 mosaic inspected locally: Ustyurt escarpment, dry terrain, drainage/river channels and agricultural edge. Coordinate-centered geographic context only; individual archaeological ruins are not identified. No AI alteration.",
+          "requiredAttribution": [
+            {
+              "text": "EOxCloudless",
+              "url": "https://cloudless.eox.at"
+            },
+            {
+              "text": "by"
+            },
+            {
+              "text": "EOX IT Services GmbH",
+              "url": "https://eox.at"
+            },
+            {
+              "text": "(Contains modified Copernicus Sentinel data 2024)"
+            }
+          ],
+          "changes": "Coordinate-centered WMS JPEG export from2024 annual mosaic; no generative processing or false landmark identification.",
+          "sha256": "2300ae363142cc00c879f477073a4e7b70c81f615ddf2f2e94089eff9bd2118a",
+          "width": 800,
+          "height": 500,
+          "bytes": 84266
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "phase": 1,
+  "routing": {
+    "liveRoutingEnabled": false,
+    "endpoint": null
+  },
+  "media": {
+    "registry": "data/media-storage.json",
+    "previewProvider": "local",
+    "originalProvider": "google-drive",
+    "localFallback": true
+  }
+}

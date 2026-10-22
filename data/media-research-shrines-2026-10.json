@@ -1,0 +1,447 @@
+{
+  "researchDate": "2026-10-21",
+  "scope": "Focused additional photo research for destinations 28, 30, 31, 35, 36 and 37; research candidates only",
+  "activeCatalogChanged": false,
+  "identitySourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+  "nationalTourismLicenseUrl": "https://uzbekistan.travel/en/license-agreement/",
+  "summary": {
+    "destinationsReviewed": 6,
+    "newExactSubjectPhotoCandidates": 2,
+    "newExactSubjectCandidateDestination": "37-yusuf-eshon-bobo-masjidi",
+    "licensedSharedComplexOverviewCandidates": 1,
+    "rejectedMisidentifiedCommonsImage": 1,
+    "approvedExactSubjectPhotos": 2,
+    "notes": "No candidate was added to the active catalog. Two unchanged publisher-provided mosque poster JPEGs were approved under Muslim.uz's conditional reuse grant after maintainer review. The Sulton Uvays panorama is shared-complex context only, not proof of Valiy Ota's individual mausoleum."
+  },
+  "destinations": [
+    {
+      "destinationId": "28-imam-iyshan",
+      "identity": "Rural Imam Iyshan mausoleum in Qrantau, Aqterek, Nukus district; distinct from the central Nukus Muhammad Imam Ishan mosque",
+      "targetCoordinates": {
+        "lat": 42.638425,
+        "lng": 59.320294
+      },
+      "sourceFlags": {
+        "nationalRegisterIdentityConfirmed": true,
+        "nationalRegisterHasSubjectPhotos": false,
+        "exactReusablePhotoFound": false,
+        "historicalArchivePhotoFound": false
+      },
+      "status": "no-exact-photo-confirmed",
+      "candidates": [],
+      "rejectedLeads": [
+        {
+          "source": "Wikimedia Commons exact-name search for Imam Iyshan",
+          "result": "Six file results depict the central Nukus Muhammad Imam Ishan mosque, not the rural Qrantau mausoleum.",
+          "titles": [
+            "File:Sunset Imam Ishan Mohammed Mosque (cropped).jpg",
+            "File:Muhammad Imam Iyshan mashiti.jpg",
+            "File:Мечеть Имам Ишан Мухаммед (Нукус).jpg",
+            "File:Imam Ishan Mohammed Mosque in Nukus (cropped).jpg",
+            "File:Sunset Imam Ishan Mohammed Mosque.jpg",
+            "File:Imam Ishan Mohammed Mosque in Nukus,The Republic of Karakalpakstan.jpg"
+          ]
+        }
+      ],
+      "additionalIdentitySourceUrl": "https://www.lex.uz/uz/acts/4543266?ONDATE=04.03.2021+01",
+      "decision": "Retain a placeholder. Do not restore the previously misidentified central-mosque photograph."
+    },
+    {
+      "destinationId": "30-qusxana-qabristoni",
+      "identity": "Qusxana cemetery and historical dingi at Qizketken, south of Nukus",
+      "targetCoordinates": {
+        "lat": 42.362973,
+        "lng": 59.626968
+      },
+      "sourceFlags": {
+        "nationalRegisterIdentityConfirmed": true,
+        "nationalRegisterHasSubjectPhotos": false,
+        "exactReusablePhotoFound": false,
+        "historicalArchivePhotoFound": false
+      },
+      "status": "misidentified-commons-file-confirmed",
+      "candidates": [],
+      "rejectedLeads": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qusxana_dingi.jpg",
+          "commonsPageId": 148616818,
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Qusxana_dingi.jpg",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Qusxana_dingi.jpg/1280px-Qusxana_dingi.jpg",
+          "localPath": "assets/images/destinations/research/30-qusxana-commons-preview-2024.jpg",
+          "author": "Oybarchin0302",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceDate": "2024-05-21",
+          "reuseLicenseVerified": true,
+          "subjectVerified": false,
+          "verified": false,
+          "visualInspection": "Modern large blue-domed mosque, minaret, city buildings and a paved canal embankment at sunset. It is not an archaeological dingi/cemetery photograph.",
+          "decision": "Reject for Qusxana despite its filename, uploader description and valid CC license. A filename alone is insufficient evidence of the pictured subject.",
+          "changes": "Wikimedia-generated preview retained unchanged; original download returned HTTP 429."
+        }
+      ],
+      "decision": "Retain a placeholder; never use the mislabeled Commons mosque photograph for this destination."
+    },
+    {
+      "destinationId": "31-sulton-valiy-ota",
+      "identity": "Valiy Ota's separate mausoleum north of Sulton Uvays Bobo within the shared cemetery complex",
+      "targetCoordinates": {
+        "lat": 42.010922,
+        "lng": 60.645334
+      },
+      "sourceFlags": {
+        "nationalRegisterIdentityConfirmed": true,
+        "nationalRegisterHasSubjectPhotos": false,
+        "exactReusablePhotoFound": false,
+        "licensedSharedComplexOverviewFound": true
+      },
+      "status": "licensed-context-overview-only",
+      "candidates": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_%D0%92%D0%B0%D0%B8%D1%81_%D0%91%D0%BE%D0%B1%D0%BE9.jpg",
+          "commonsTitle": "File:Святилище Султан Ваис Бобо9.jpg",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_%D0%92%D0%B0%D0%B8%D1%81_%D0%91%D0%BE%D0%B1%D0%BE9.jpg",
+          "localPath": "assets/images/destinations/research/31-sulton-valiy-shared-complex-overview-candidate.jpg",
+          "author": "Ashirbek14",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceDate": "2021-07-27",
+          "reuseVerified": true,
+          "subjectVerified": false,
+          "contextVerified": true,
+          "verified": false,
+          "kind": "overview",
+          "visualInspection": "Wide cemetery panorama with many graves and a distant domed shrine on the hill; no individual Valiy Ota identification is visible.",
+          "identityEvidence": "Commons identifies the Sulton Uvays Bobo complex in Karakalpakstan. The national register independently places Valiy Ota's separate monument within that shared cemetery complex.",
+          "requiredCaption": "Overview of the shared Sulton Uvays cemetery complex; Valiy Ota's individual mausoleum is not identified in this photograph.",
+          "decision": "Reviewable contextual overview only. Do not relabel it as an exact photograph of Valiy Ota's separate shrine or duplicate destination 25's gallery to satisfy a photo count.",
+          "width": 800,
+          "height": 556,
+          "changes": "None; original JPEG download retained."
+        }
+      ]
+    },
+    {
+      "destinationId": "35-shayx-jalil-bobo",
+      "identity": "Shayx Jalil Bobo mausoleum, Qoybaq, Qoraozak district",
+      "targetCoordinates": {
+        "lat": 42.159566,
+        "lng": 60.249484
+      },
+      "sourceFlags": {
+        "nationalRegisterIdentityConfirmed": true,
+        "nationalRegisterHasSubjectPhotos": false,
+        "exactReusablePhotoFound": false,
+        "historicalArchivePhotoFound": false
+      },
+      "status": "no-exact-reusable-photo-confirmed",
+      "candidates": [],
+      "reviewedLeads": [
+        {
+          "sourceUrl": "https://ziyoratga.uz/uz/mavzolej-shejha-dzhalili-bobo",
+          "subjectIdentitySupported": true,
+          "actualSubjectPhotoFound": false,
+          "result": "Current HTML has no subject photograph; its repeated property-gallery/1.jpg examples are commented-out template placeholders. Footer says All Rights Reserved."
+        },
+        {
+          "sourceUrl": "https://gov.uz/en/uzbektourism/news/view/128887",
+          "subjectIdentitySupported": true,
+          "actualSubjectPhotoFound": false,
+          "result": "Tourism Committee's 2026-02-06 multi-location visit report mentions the shrine. Two inspected gallery files showed a Chimbay handicraft center and riverside boats, not the shrine. They were discarded. Generic gallery captions and government hosting do not establish subject identity or photo reuse permission."
+        }
+      ],
+      "decision": "Retain a placeholder. Do not substitute a similarly named shrine in Fergana, Pakistan or another region."
+    },
+    {
+      "destinationId": "36-eshim-axun",
+      "identity": "Eshim Axun cemetery/shrine at Arzimbetqum, Qanlikol district",
+      "targetCoordinates": {
+        "lat": 42.859587,
+        "lng": 58.905592
+      },
+      "sourceFlags": {
+        "nationalRegisterIdentityConfirmed": true,
+        "nationalRegisterHasSubjectPhotos": false,
+        "exactReusablePhotoFound": false,
+        "historicalArchivePhotoFound": false
+      },
+      "status": "no-exact-photo-confirmed",
+      "candidates": [],
+      "reviewedLeads": [
+        {
+          "sourceUrl": "https://old.muslim.uz/pdf_2029/MASJIDLAR%20ROYXATI.pdf",
+          "result": "Names an Eshim Axun mosque on Amir Temur street in Qanlikol. It does not establish that mosque photographs depict the Arzimbetqum cemetery/shrine at the destination pin."
+        },
+        {
+          "sourceUrl": "https://t.me/s/kanlikulnews?before=53818",
+          "result": "Local-government channel discusses a community meeting at the Eshim Axun congregational mosque. No exact cemetery photo or applicable reuse license was established."
+        }
+      ],
+      "decision": "Retain a placeholder; do not silently replace the cemetery/shrine with a same-name congregational mosque."
+    },
+    {
+      "destinationId": "37-yusuf-eshon-bobo-masjidi",
+      "identity": "Yusuf Eshon Bobo mosque in Mangit, Amudaryo district; distinct from the Yusuf Iyshan cemetery at Xojayli",
+      "targetCoordinates": {
+        "lat": 42.113009,
+        "lng": 60.058938
+      },
+      "sourceFlags": {
+        "nationalRegisterIdentityConfirmed": true,
+        "nationalRegisterHasSubjectPhotos": false,
+        "exactSubjectPublisherPhotosFound": true,
+        "publisherConditionalReuseGrantFound": true,
+        "photoSpecificLicenseScopeReviewedByMaintainer": true
+      },
+      "status": "approved-publisher-photos",
+      "publisherReuseGrant": {
+        "publisher": "O‘zbekiston musulmonlari idorasi / Muslim.uz",
+        "sourceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani?page=4&per-page=1",
+        "location": "Publisher footer",
+        "shortQuote": "Сиз muslim.uz порталидаги маълумотлардан хоҳлаганча фойдаланишингиз мумкин.",
+        "interpretation": "Maintainer review approved reproduction of these publisher-owned, press-service-credited JPEGs under the portal's broad content-reuse grant. This is a custom publisher grant, not a Creative Commons license. Generative restoration is not approved because modification rights are not explicit.",
+        "maintainerApprovalDate": "2026-10-21",
+        "conditions": [
+          "Credit the identified author/press service and source.",
+          "Use the requested publisher-attribution wording, linking 'расмий веб-портали' to https://muslim.uz and 'хабар беради' to the exact source article.",
+          "These originals are publisher-provided JPEGs, not screenshots extracted from YouTube. Do not assume the separate YouTube video's license applies."
+        ]
+      },
+      "candidates": [
+        {
+          "sourceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani",
+          "sourceTitle": "Yusuf eshon bobo jome masjidi. (Amudaryo tumani)",
+          "imageUrl": "https://st.muslim.uz/cache/2/6/0/0/6/2600627d2748e592f6b8b399d48d4759ab96d31f.jpeg",
+          "localPath": "assets/images/destinations/research/37-yusuf-eshon-muslimuz-2019-candidate.jpeg",
+          "author": "O‘zbekiston musulmonlari idorasi matbuot xizmati",
+          "authorEvidence": "Source article press-service byline",
+          "sourceType": "muslim-uz",
+          "license": "Muslim.uz portal reuse terms — author credit and two links",
+          "licenseUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani",
+          "rightsEvidenceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani?page=4&per-page=1",
+          "rightsEvidenceQuote": "Сиз muslim.uz порталидаги маълумотлардан хоҳлаганча фойдаланишингиз мумкин.",
+          "requiredAttributionText": "Ўзбекистон мусулмонлари идораси расмий веб-портали хабар беради",
+          "requiredAttribution": [
+            {
+              "text": "расмий веб-портали",
+              "url": "https://muslim.uz"
+            },
+            {
+              "text": "хабар беради",
+              "url": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani"
+            }
+          ],
+          "preferred": true,
+          "preferredOrder": 2,
+          "archivalCaption": "Yusuf Eshon Bobo masjidining ichki ko‘rinishi; 2019-yil 29-maydagi rasmiy xabardagi surat.",
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "verified": true,
+          "kind": "photo",
+          "visualInspection": "Interior of a columned mosque with congregants; the exact named article supplies this JPEG as its og:image poster.",
+          "identityEvidence": "Publisher identifies the mosque and Amudaryo district in the exact article title; the national register independently identifies the Mangit mosque.",
+          "width": 640,
+          "height": 397,
+          "changes": "None; publisher-provided JPEG downloaded unchanged. Capture date is not independently verified.",
+          "sourcePublishedOn": "2019-05-29"
+        },
+        {
+          "sourceUrl": "https://muslim.uz/uz/e/post/26229-amudaryo-tumani-yusuf-eshon-bobo-jome-masjidida-ramazon-hayiti-namozi",
+          "sourceTitle": "Amudaryo tumani Yusuf eshon bobo jome masjidida Ramazon hayiti namozi",
+          "imageUrl": "https://st.muslim.uz/cache/c/e/7/8/6/ce786d2ef48588d6213a62233aa05b7f5370338f.jpeg",
+          "localPath": "assets/images/destinations/research/37-yusuf-eshon-muslimuz-eid-2019-candidate.jpeg",
+          "author": "Qoraqalpog‘iston musulmonlari qoziyoti matbuot xizmati",
+          "authorEvidence": "Source article explicitly credits the regional press service",
+          "sourceType": "muslim-uz",
+          "license": "Muslim.uz portal reuse terms — author credit and two links",
+          "licenseUrl": "https://muslim.uz/uz/e/post/26229-amudaryo-tumani-yusuf-eshon-bobo-jome-masjidida-ramazon-hayiti-namozi",
+          "rightsEvidenceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani?page=4&per-page=1",
+          "rightsEvidenceQuote": "Сиз muslim.uz порталидаги маълумотлардан хоҳлаганча фойдаланишингиз мумкин.",
+          "requiredAttributionText": "Ўзбекистон мусулмонлари идораси расмий веб-портали хабар беради",
+          "requiredAttribution": [
+            {
+              "text": "расмий веб-портали",
+              "url": "https://muslim.uz"
+            },
+            {
+              "text": "хабар беради",
+              "url": "https://muslim.uz/uz/e/post/26229-amudaryo-tumani-yusuf-eshon-bobo-jome-masjidida-ramazon-hayiti-namozi"
+            }
+          ],
+          "preferred": true,
+          "preferredOrder": 1,
+          "archivalCaption": "Yusuf Eshon Bobo masjidining tashqi ko‘rinishi; 2019-yil 7-iyundagi rasmiy xabardagi surat.",
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "verified": true,
+          "kind": "photo",
+          "visualInspection": "Aerial/front exterior view of a yellow mosque with one blue central dome, two green side domes, small corner minarets and a crowd around the building. This is distinct from the interior photograph.",
+          "identityEvidence": "Exact mosque and Amudaryo district are named by the publisher; this file is that article's og:image poster.",
+          "width": 419,
+          "height": 279,
+          "changes": "None; publisher-provided JPEG downloaded unchanged. Small original; do not claim high resolution or apply AI restoration.",
+          "higherResolutionResearch": {
+            "result": "No higher-resolution publisher original was found in the actual source HTML or its documented legacy links.",
+            "legacyArticleUrl": "https://old.muslim.uz/index.php/media-17/videolav-alar/item/15044",
+            "legacyDiscoveryUrl": "https://old.muslim.uz/index.php/hadis/itemlist/user/280-muslimuz?start=2965",
+            "legacyImages": [
+              {
+                "url": "https://old.muslim.uz/media/k2/items/cache/df83bdc15a50b0ef10ac5d5f6c49441d_Generic.jpg",
+                "width": 280,
+                "height": 186
+              },
+              {
+                "url": "https://old.muslim.uz/media/k2/items/cache/df83bdc15a50b0ef10ac5d5f6c49441d_M.jpg",
+                "width": 320,
+                "height": 213
+              }
+            ],
+            "decision": "Retain the current publisher's 419 by 279 JPEG as the best available documented file; legacy files are smaller variants of the same photograph. No speculative URLs were requested."
+          },
+          "sourcePublishedOn": "2019-06-07"
+        }
+      ]
+    }
+  ],
+  "methodNotes": [
+    "The national register was fetched and its HTML inspected. It contains identity/coordinate text but no photographs of these six destinations.",
+    "Searches used Uzbek, Russian, Karakalpak and English aliases, including rural location names, plus exact Wikimedia Commons file searches.",
+    "Targeted British Library / Endangered Archives searches did not establish an exact photograph; a direct EAP query returned no usable response.",
+    "No government-wide or UNESCO-wide photo license was assumed. A National PR-Centre license was not applied to another publisher's domain.",
+    "Downloaded candidate JPEGs were visually inspected using local image reading. Application code, a server, browser and tests were not launched."
+  ],
+  "reviewedOn": "2026-10-21",
+  "records": [
+    {
+      "destinationId": "37-yusuf-eshon-bobo-masjidi",
+      "status": "approved-publisher-photos",
+      "sourceType": "muslim-uz",
+      "sourceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani",
+      "identityNote": "Yusuf Eshon Bobo mosque in Mangit, Amudaryo district; distinct from the Yusuf Iyshan cemetery at Xojayli; exact publisher article titles and inspected poster photographs identify this mosque. The website footer permits reuse with author credit and its prescribed two links.",
+      "photos": [
+        {
+          "sourceUrl": "https://muslim.uz/uz/e/post/26229-amudaryo-tumani-yusuf-eshon-bobo-jome-masjidida-ramazon-hayiti-namozi",
+          "sourceTitle": "Amudaryo tumani Yusuf eshon bobo jome masjidida Ramazon hayiti namozi",
+          "imageUrl": "https://st.muslim.uz/cache/c/e/7/8/6/ce786d2ef48588d6213a62233aa05b7f5370338f.jpeg",
+          "localPath": "assets/images/destinations/research/37-yusuf-eshon-muslimuz-eid-2019-candidate.jpeg",
+          "author": "Qoraqalpog‘iston musulmonlari qoziyoti matbuot xizmati",
+          "authorEvidence": "Source article explicitly credits the regional press service",
+          "sourceType": "muslim-uz",
+          "license": "Muslim.uz portal reuse terms — author credit and two links",
+          "licenseUrl": "https://muslim.uz/uz/e/post/26229-amudaryo-tumani-yusuf-eshon-bobo-jome-masjidida-ramazon-hayiti-namozi",
+          "rightsEvidenceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani?page=4&per-page=1",
+          "rightsEvidenceQuote": "Сиз muslim.uz порталидаги маълумотлардан хоҳлаганча фойдаланишингиз мумкин.",
+          "requiredAttributionText": "Ўзбекистон мусулмонлари идораси расмий веб-портали хабар беради",
+          "requiredAttribution": [
+            {
+              "text": "?????????? ???????????? ???????"
+            },
+            {
+              "text": "расмий веб-портали",
+              "url": "https://muslim.uz"
+            },
+            {
+              "text": "хабар беради",
+              "url": "https://muslim.uz/uz/e/post/26229-amudaryo-tumani-yusuf-eshon-bobo-jome-masjidida-ramazon-hayiti-namozi"
+            }
+          ],
+          "preferred": true,
+          "preferredOrder": 1,
+          "archivalCaption": "Yusuf Eshon Bobo masjidining tashqi ko‘rinishi; 2019-yil 7-iyundagi rasmiy xabardagi surat.",
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "verified": true,
+          "kind": "photo",
+          "visualInspection": "Aerial/front exterior view of a yellow mosque with one blue central dome, two green side domes, small corner minarets and a crowd around the building. This is distinct from the interior photograph.",
+          "identityEvidence": "Exact mosque and Amudaryo district are named by the publisher; this file is that article's og:image poster.",
+          "width": 419,
+          "height": 279,
+          "changes": "None; publisher-provided JPEG downloaded unchanged. Small original; do not claim high resolution or apply AI restoration.",
+          "higherResolutionResearch": {
+            "result": "No higher-resolution publisher original was found in the actual source HTML or its documented legacy links.",
+            "legacyArticleUrl": "https://old.muslim.uz/index.php/media-17/videolav-alar/item/15044",
+            "legacyDiscoveryUrl": "https://old.muslim.uz/index.php/hadis/itemlist/user/280-muslimuz?start=2965",
+            "legacyImages": [
+              {
+                "url": "https://old.muslim.uz/media/k2/items/cache/df83bdc15a50b0ef10ac5d5f6c49441d_Generic.jpg",
+                "width": 280,
+                "height": 186
+              },
+              {
+                "url": "https://old.muslim.uz/media/k2/items/cache/df83bdc15a50b0ef10ac5d5f6c49441d_M.jpg",
+                "width": 320,
+                "height": 213
+              }
+            ],
+            "decision": "Retain the current publisher's 419 by 279 JPEG as the best available documented file; legacy files are smaller variants of the same photograph. No speculative URLs were requested."
+          },
+          "sourcePublishedOn": "2019-06-07",
+          "localFile": "assets/images/destinations/research/37-yusuf-eshon-muslimuz-eid-2019-candidate.jpeg",
+          "sourceImageUrl": "https://st.muslim.uz/cache/c/e/7/8/6/ce786d2ef48588d6213a62233aa05b7f5370338f.jpeg",
+          "bytes": 33837,
+          "sha256": "4f9785c4a6a3033542836854cbdf6a00695ef5234c21771e2982f928daefbba3",
+          "caption": {
+            "uz": "Yusuf Eshon Bobo masjidining tashqi ko?rinishi ? 07.06.2019 sanali rasmiy xabardagi surat. Asl manba: 419 ? 279 px.",
+            "kaa": "Yusuf Eshan Bobo meshitini? s?rtq? k?rinisi ? 07.06.2019 s?neli r?smiy xabarda?? s?wret. As?l derek: 419 ? 279 px.",
+            "ru": "??????? ??? ?????? ???? ???? ???? ? ???? ?? ???????????? ????????? ?? 07.06.2019. ???????? ??????: 419 ? 279 px.",
+            "en": "Yusuf Eshon Bobo mosque exterior ? photograph in the official report of 7 June 2019. Original: 419 ? 279 px."
+          }
+        },
+        {
+          "sourceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani",
+          "sourceTitle": "Yusuf eshon bobo jome masjidi. (Amudaryo tumani)",
+          "imageUrl": "https://st.muslim.uz/cache/2/6/0/0/6/2600627d2748e592f6b8b399d48d4759ab96d31f.jpeg",
+          "localPath": "assets/images/destinations/research/37-yusuf-eshon-muslimuz-2019-candidate.jpeg",
+          "author": "O‘zbekiston musulmonlari idorasi matbuot xizmati",
+          "authorEvidence": "Source article press-service byline",
+          "sourceType": "muslim-uz",
+          "license": "Muslim.uz portal reuse terms — author credit and two links",
+          "licenseUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani",
+          "rightsEvidenceUrl": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani?page=4&per-page=1",
+          "rightsEvidenceQuote": "Сиз muslim.uz порталидаги маълумотлардан хоҳлаганча фойдаланишингиз мумкин.",
+          "requiredAttributionText": "Ўзбекистон мусулмонлари идораси расмий веб-портали хабар беради",
+          "requiredAttribution": [
+            {
+              "text": "?????????? ???????????? ???????"
+            },
+            {
+              "text": "расмий веб-портали",
+              "url": "https://muslim.uz"
+            },
+            {
+              "text": "хабар беради",
+              "url": "https://muslim.uz/uz/e/post/26360-yusuf-eshon-bobo-jome-masjidi-amudaryo-tumani"
+            }
+          ],
+          "preferred": true,
+          "preferredOrder": 2,
+          "archivalCaption": "Yusuf Eshon Bobo masjidining ichki ko‘rinishi; 2019-yil 29-maydagi rasmiy xabardagi surat.",
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "verified": true,
+          "kind": "photo",
+          "visualInspection": "Interior of a columned mosque with congregants; the exact named article supplies this JPEG as its og:image poster.",
+          "identityEvidence": "Publisher identifies the mosque and Amudaryo district in the exact article title; the national register independently identifies the Mangit mosque.",
+          "width": 640,
+          "height": 397,
+          "changes": "None; publisher-provided JPEG downloaded unchanged. Capture date is not independently verified.",
+          "sourcePublishedOn": "2019-05-29",
+          "localFile": "assets/images/destinations/research/37-yusuf-eshon-muslimuz-2019-candidate.jpeg",
+          "sourceImageUrl": "https://st.muslim.uz/cache/2/6/0/0/6/2600627d2748e592f6b8b399d48d4759ab96d31f.jpeg",
+          "bytes": 41275,
+          "sha256": "88ed054023a4f6cb9c605ae11c89e9d6bd978b3a2958d763a5d4d8e040b521fb",
+          "caption": {
+            "uz": "Yusuf Eshon Bobo masjidining ichki ko?rinishi ? 29.05.2019 sanali rasmiy xabardagi surat.",
+            "kaa": "Yusuf Eshan Bobo meshitini? ishki k?rinisi ? 29.05.2019 s?neli r?smiy xabarda?? s?wret.",
+            "ru": "???????? ?????? ???? ???? ???? ? ???? ?? ???????????? ????????? ?? 29.05.2019.",
+            "en": "Yusuf Eshon Bobo mosque interior ? photograph in the official report of 29 May 2019."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "coordinates": [
+    [
+      59.616603,
+      42.460187
+    ],
+    [
+      59.615493,
+      42.460032
+    ],
+    [
+      59.61467,
+      42.45991
+    ],
+    [
+      59.614566,
+      42.459893
+    ],
+    [
+      59.614536,
+      42.459988
+    ],
+    [
+      59.614482,
+      42.460113
+    ],
+    [
+      59.614406,
+      42.460237
+    ],
+    [
+      59.614403,
+      42.460248
+    ],
+    [
+      59.614392,
+      42.460286
+    ],
+    [
+      59.614252,
+      42.460774
+    ],
+    [
+      59.614245,
+      42.460911
+    ],
+    [
+      59.614244,
+      42.460923
+    ],
+    [
+      59.614243,
+      42.460945
+    ],
+    [
+      59.614217,
+      42.461046
+    ],
+    [
+      59.614959,
+      42.461154
+    ]
+  ],
+  "type": "LineString",
+  "routing": {
+    "cacheVersion": 2,
+    "distanceKm": 0.4,
+    "roadDistanceKm": 0.4,
+    "distanceMeters": 364.8,
+    "durationMin": 1,
+    "durationSeconds": 57.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:25.553Z",
+    "expiresAt": "2026-11-20T12:19:25.553Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.017,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.461,
+      "lng": 59.615
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.461154,
+      "lng": 59.614959
+    },
+    "geometryPath": "data/routing/geometry/60-azatbay-otarbayev-musiqa-ustaxonasi.json"
+  }
+}

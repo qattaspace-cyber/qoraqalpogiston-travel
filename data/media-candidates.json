@@ -1,0 +1,1005 @@
+{
+    "targetDistinctImagesPerDestination":  2,
+    "outstanding":  [
+                        {
+                            "destinationId":  "02-sulton-uvays-dag-gyaur-qala",
+                            "number":  2,
+                            "name":  {
+                                         "uz":  "Sulton Uvays Dag Gyaur-qal’a",
+                                         "kaa":  "Sultan Wáyiys Taǵı Gáwir-qala",
+                                         "ru":  "Гяур-кала Султануиздага",
+                                         "en":  "Gyaur-Kala of Sultan Uvays"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/sultan-uvays-dag-gyaur-kala/?lang=en",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The publisher identifies the Gyaur fortress between Chilpik and Jampik, rather than the separate Gyaur at Mizdakhkan. No exact reusable Commons photograph was confirmed. The tourism publisher reserves its photographs."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+                                                    {
+                                                        "destinationId":  "02-sulton-uvays-dag-gyaur-qala",
+                                                        "commonsTitle":  "File:Gyaurqal’a.jpg",
+                                                        "sourceUrl":  "https://commons.wikimedia.org/wiki/File:Gyaurqal%E2%80%99a.jpg",
+                                                        "reason":  "The Commons file description explicitly identifies Xojayli district and Sarishungil OFY. It is the Gyaur at Mizdakhkan, not the Sulton Uvays Dag fortress in destination 2."
+                                                    }
+                                                ],
+                            "currentMediaCount":  10,
+                            "currentPhotographCount":  10,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "03-jampik-qala",
+                            "number":  3,
+                            "name":  {
+                                         "uz":  "Jampik-qal’a",
+                                         "kaa":  "Jampıq-qala",
+                                         "ru":  "Джампык-кала",
+                                         "en":  "Jampyk-Kala"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/jampik-kala/?lang=en",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/03-dzhampyk-kala/img_1515-min-min-min.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "A photograph in the official Jampik gallery. The page identifies the southwest Sultan Uvays branches and surviving citadel. Publication permission is explicitly required by the publisher."
+                                               },
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/jampik-kala/?lang=en",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/03-dzhampyk-kala/img_1530-min-min-min.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "A second distinct official Jampik gallery photograph; it remains a permission-required lead, not a reusable image."
+                                               }
+                                           ],
+                            "searches":  [
+                                             {
+                                                 "destinationId":  "03-jampik-qala",
+                                                 "aliases":  [
+                                                                 "Djampyk",
+                                                                 "Jampyk",
+                                                                 "Jampik",
+                                                                 "Dzhanpik",
+                                                                 "Janpiq",
+                                                                 "Zhampyqqala",
+                                                                 "Dzhampyk",
+                                                                 "Жампык"
+                                                             ],
+                                                 "result":  "No exact subject bitmap established; the broad text query returned an unrelated scanned newspaper."
+                                             }
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  2,
+                            "currentPhotographCount":  2,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "09-ayaz-qala-iii",
+                            "number":  9,
+                            "name":  {
+                                         "uz":  "Ayaz-qal’a III",
+                                         "kaa":  "Ayaz-qala III",
+                                         "ru":  "Аяз-кала III",
+                                         "en":  "Ayaz-Kala III"
+                                     },
+                            "candidates":  [
+
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "11-kichik-qirq-qiz-qala",
+                            "number":  11,
+                            "name":  {
+                                         "uz":  "Kichik Qirq Qiz qal’a",
+                                         "kaa":  "Kishi Qırq Qız qala",
+                                         "ru":  "Малая Кырк-кыз кала",
+                                         "en":  "Lesser Kyrk-Kyz Kala"
+                                     },
+                            "candidates":  [
+
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "12-kurgashin-qala",
+                            "number":  12,
+                            "name":  {
+                                         "uz":  "Kurgashin-qal’a",
+                                         "kaa":  "Qurǵasın-qala",
+                                         "ru":  "Кургашин-кала",
+                                         "en":  "Kurgashin-Kala"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/kurgashin-kala/",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/10-kurgashin-kala/03.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Official Kurgashin gallery photograph. The page distinguishes this fortress north of Djanbas. The publisher explicitly requires permission for photograph reuse."
+                                               },
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/kurgashin-kala/",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/10-kurgashin-kala/02.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "A second photograph from the official Kurgashin gallery. British Library item EAP1075/1/41/6 also names Kurgashin but is limited to CC BY-NC research use; that archive is not an unrestricted replacement."
+                                               }
+                                           ],
+                            "searches":  [
+                                             {
+                                                 "destinationId":  "12-kurgashin-qala",
+                                                 "aliases":  [
+                                                                 "Kurgashin",
+                                                                 "Kurgashinkala",
+                                                                 "Kurgoshin",
+                                                                 "Qoʻrgʻoshinqalʼa",
+                                                                 "Qo‘rg‘oshinqal‘a",
+                                                                 "Qurgoshin",
+                                                                 "Korgasyn",
+                                                                 "Кургашин"
+                                                             ],
+                                                 "result":  "No exact subject photograph; only unrelated Central Asia books in the text results."
+                                             }
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "13-bozor-qala",
+                            "number":  13,
+                            "name":  {
+                                         "uz":  "Bozor-qal’a",
+                                         "kaa":  "Bazar-qala",
+                                         "ru":  "Базар-кала",
+                                         "en":  "Bazar-Kala"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/bazar-kala/",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/11-bazar-kala/01.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Official Bazar-kala gallery photograph. This is the Bozor/Bazar archaeological settlement, not similarly named bazaars or locations outside Karakalpakstan. Permission is required."
+                                               },
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/bazar-kala/",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/11-bazar-kala/02.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Second official gallery view of Bazar-kala. The source page describes its square citadel and defensive towers. No free publication licence was established."
+                                               }
+                                           ],
+                            "searches":  [
+                                             {
+                                                 "destinationId":  "13-bozor-qala",
+                                                 "aliases":  [
+                                                                 "Bazar Kala",
+                                                                 "Bazarkala",
+                                                                 "Bozorqalʼa",
+                                                                 "Bozorqal’a",
+                                                                 "Bozor qala",
+                                                                 "Базар-кала"
+                                                             ],
+                                                 "result":  "No exact subject photograph. Similar bazaar names and sites outside Uzbekistan were rejected."
+                                             }
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  5,
+                            "currentPhotographCount":  5,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "16-angka-qala",
+                            "number":  16,
+                            "name":  {
+                                         "uz":  "Angka-qal’a",
+                                         "kaa":  "Anqa-qala",
+                                         "ru":  "Ангка-кала",
+                                         "en":  "Angka-Kala"
+                                     },
+                            "candidates":  [
+
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "17-eres-qala",
+                            "number":  17,
+                            "name":  {
+                                         "uz":  "Eres-qal’a",
+                                         "kaa":  "Eres-qala",
+                                         "ru":  "Эрес-кала",
+                                         "en":  "Eres-Kala"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/eres-kala/?lang=en",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/15-eres-kala/01.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Official Eres-kala gallery photograph. The source locates the settlement southwest of Turtkul. It is not an Ayaz-kala substitute. The publisher requires permission."
+                                               },
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/archeological-monuments/eres-kala/?lang=en",
+                                                   "imageUrl":  "https://karakalpakstan.travel/data/uploads/03-goroda/15-eres-kala/02.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Second official Eres-kala gallery photograph. No reusable Commons subject photograph was confirmed after expanded spelling searches."
+                                               }
+                                           ],
+                            "searches":  [
+                                             {
+                                                 "destinationId":  "17-eres-qala",
+                                                 "aliases":  [
+                                                                 "Eres Kala",
+                                                                 "Ereskala",
+                                                                 "Eres qala",
+                                                                 "Эрес-кала"
+                                                             ],
+                                                 "result":  "No Commons search result for the exact subject aliases."
+                                             }
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  6,
+                            "currentPhotographCount":  6,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "22-beleuli-karvonsaroyi",
+                            "number":  22,
+                            "name":  {
+                                         "uz":  "Beleuli karvonsaroyi",
+                                         "kaa":  "Beliwli kárwansarayı",
+                                         "ru":  "Караван-сарай Белеули",
+                                         "en":  "Beleuli Caravanserai"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/media-and-resources/media-and-resources-51/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The official illustrated article identifies the Beleuli caravanserai northeast of Zhaslyk, including surviving portal and limestone masonry. Its images are permission-required. No exact freely licensed Commons photograph was found."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "23-kurgancha-davletgirey",
+                            "number":  23,
+                            "name":  {
+                                         "uz":  "Kurgancha (Davletgirey)",
+                                         "kaa":  "Qorǵansha (Dáwletgirey)",
+                                         "ru":  "Курганча (Давлетгирей)",
+                                         "en":  "Kurgancha (Davletgirey)"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/media-and-resources/media-and-resources-12/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The illustrated official article explicitly distinguishes the Ustyurt Davletgirey/Kurgancha outpost from the homonymous fortress near Takhtakupyr. The publisher reserves photograph reuse."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  6,
+                            "currentPhotographCount":  6,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "24-norinjon-bobo",
+                            "number":  24,
+                            "name":  {
+                                         "uz":  "Norinjon Bobo",
+                                         "kaa":  "Narınjan Baba",
+                                         "ru":  "Наринджан-бобо",
+                                         "en":  "Narinjan Bobo"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/norinjon-bobo-majmuasi/",
+                                                   "imageUrl":  "https://uzbekistan.travel/storage/app/media/Otabek/Narinjan%20bobo/cropped-images/narinjon_bobo_1-0-0-0-0-1658727289.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Photograph in the National PR-centre\u0027s Norinjon Bobo article gallery. The source identifies the mausoleum complex and its central gravestone. The site asserts rights over its photographs; publication permission was not established."
+                                               },
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/norinjon-bobo-majmuasi/",
+                                                   "imageUrl":  "https://uzbekistan.travel/storage/app/media/Otabek/Narinjan%20bobo/cropped-images/narinjon_bobo_2-0-0-0-0-1658727301.jpg",
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Second gallery photograph of Norinjon Bobo. Expanded Narynjan/Narindjan/Norindjan/Narinjan/Norinjon searches did not establish a reusable Commons photograph of this subject."
+                                               }
+                                           ],
+                            "searches":  [
+                                             {
+                                                 "destinationId":  "24-norinjon-bobo",
+                                                 "aliases":  [
+                                                                 "Narynjan",
+                                                                 "Narindjan",
+                                                                 "Norindjan",
+                                                                 "Narinjan",
+                                                                 "Norinjon",
+                                                                 "Narinjon",
+                                                                 "Наринджан"
+                                                             ],
+                                                 "result":  "Only unrelated poet/book photographs returned; no exact mausoleum subject photograph."
+                                             }
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  2,
+                            "currentPhotographCount":  2,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "26-berkut-qala",
+                            "number":  26,
+                            "name":  {
+                                         "uz":  "Berkut-qal’a",
+                                         "kaa":  "Búrkis-qala",
+                                         "ru":  "Беркут-кала",
+                                         "en":  "Berkut-Kala"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://searcharchives.bl.uk/catalog/041-004383290",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "noncommercial-research-only",
+                                                   "reuseVerified":  false,
+                                                   "note":  "British Library item EAP1075/1/85/19 belongs to a 1962 aerial survey of the Berkut-Kala oasis. The exact fortress within the individual aerial frame still needs confirmation; archive access is CC BY-NC for research purposes. It is not approved for publication in this project."
+                                               }
+                                           ],
+                            "searches":  [
+                                             {
+                                                 "destinationId":  "26-berkut-qala",
+                                                 "aliases":  [
+                                                                 "Berkutkala",
+                                                                 "Berkut Kala",
+                                                                 "Berkut qala",
+                                                                 "Беркут-кала"
+                                                             ],
+                                                 "result":  "One unrelated Djanbas IV settlement photograph returned; rejected."
+                                             }
+                                         ],
+                            "rejectedMatches":  [
+                                                    {
+                                                        "destinationId":  "26-berkut-qala",
+                                                        "commonsTitle":  "File:Джанбас 4 (поселение-стоянка)2.jpg",
+                                                        "sourceUrl":  "https://commons.wikimedia.org/wiki/Category:Janbas_IV_settlement",
+                                                        "reason":  "Returned by an expanded Berkut alias search, but the subject is Djanbas IV, a separate settlement."
+                                                    }
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "27-puljay",
+                            "number":  27,
+                            "name":  {
+                                         "uz":  "Puljay",
+                                         "kaa":  "Púljay",
+                                         "ru":  "Пульджай",
+                                         "en":  "Puljay"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://whc.unesco.org/en/tentativelists/6903/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The inherited archive records a UNESCO monument lead. No independent exact photograph of Puljay was confirmed in this research. This is a monument-reference lead only, not approval to reuse another fortress photograph."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "28-imam-iyshan",
+                            "number":  28,
+                            "name":  {
+                                         "uz":  "Imam Iyshan",
+                                         "kaa":  "Imam Iyshan",
+                                         "ru":  "Имам Ийшан",
+                                         "en":  "Imam Iyshan"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The official pilgrimage register identifies the Imam Iyshan mausoleum in Qrantau village, Aqterek MFY, Nukus district, at 42.638425, 59.320294. It is distinct from the central Nukus Muhammad Imam Ishan Mosque. No exact licensed shrine photograph was confirmed."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+                                                    {
+                                                        "destinationId":  "28-imam-iyshan",
+                                                        "commonsTitle":  "File:Мечеть Имам Ишан Мухаммед (Нукус).jpg",
+                                                        "sourceUrl":  "https://commons.wikimedia.org/wiki/Category:Imam_Ishan_Mohammed_Mosque",
+                                                        "reason":  "Commons titles and descriptions identify the city mosque. The active destination is the rural Qrantau mausoleum about 30 km away; the city mosque photograph must not be shown as that shrine."
+                                                    }
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "30-qusxana-qabristoni",
+                            "number":  30,
+                            "name":  {
+                                         "uz":  "Qusxana qabristoni",
+                                         "kaa":  "Qusxana qoyımshılıǵı",
+                                         "ru":  "Кладбище Кусхана",
+                                         "en":  "Qusxana Cemetery"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Keep a placeholder until an image can be tied to the Qusxana cemetery at 42.362973, 59.626968. The inherited Commons candidate Qusxana dingi.jpg was visually considered inconsistent with the historical monument and was not approved."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "31-sulton-valiy-ota",
+                            "number":  31,
+                            "name":  {
+                                         "uz":  "Sulton Valiy Ota",
+                                         "kaa":  "Sultan Wáliy Ata",
+                                         "ru":  "Султан Вали Ота",
+                                         "en":  "Sulton Valiy Ota"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "A mausoleum within the Sulton Uvays cemetery complex. Shared coordinates do not prove that a photograph of destination 25 depicts Valiy Ota\u0027s separate monument. No own-subject licensed image was established."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "35-shayx-jalil-bobo",
+                            "number":  35,
+                            "name":  {
+                                         "uz":  "Shayx Jalil Bobo",
+                                         "kaa":  "Shayx Jalil Baba",
+                                         "ru":  "Шейх Джалил-бобо",
+                                         "en":  "Shaykh Jalil Bobo"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The official register names the mausoleum in Qoybaq, Qoraozak district, at 42.159566, 60.249484. It notes a modern rebuilt brick dome. No exact freely licensed photograph was confirmed; a different Shaykh Jalil monument outside Karakalpakstan must not substitute."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "36-eshim-axun",
+                            "number":  36,
+                            "name":  {
+                                         "uz":  "Eshim Axun",
+                                         "kaa":  "Eshim Axun",
+                                         "ru":  "Эшим Ахун",
+                                         "en":  "Eshim Akhun"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Official registry identifies Eshim Axun cemetery in Arzimbetqum, Qanlikol district, at 42.859587, 58.905592. No independently confirmed exact subject photograph was found."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "37-yusuf-eshon-bobo-masjidi",
+                            "number":  37,
+                            "name":  {
+                                         "uz":  "Yusuf Eshon Bobo masjidi",
+                                         "kaa":  "Yusuf Iyshan Baba meshiti",
+                                         "ru":  "Мечеть Юсуф Эшон-бобо",
+                                         "en":  "Yusuf Eshon Bobo Mosque"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The official register identifies the mosque founded in Mangit, Amudarya district, at 42.113009, 60.058938. It separately lists a Yusuf Iyshan cemetery in Xojayli, so images of that cemetery are not interchangeable. No exact licensed mosque photograph was confirmed."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  2,
+                            "currentPhotographCount":  2,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "43-aktumsik-burni",
+                            "number":  43,
+                            "name":  {
+                                         "uz":  "Aktumsik burni",
+                                         "kaa":  "Aqtumsıq burnı",
+                                         "ru":  "Мыс Актумсык",
+                                         "en":  "Cape Aktumsyk"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/media-and-resources/media-and-resources-67/?lang=en",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The official illustrated article names the Aktumsik cape canyons. These ground photographs would be more specific than the NASA orbital overview but the publisher explicitly reserves their reuse."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "47-jiltirbas-zhyltyrbas-koli",
+                            "number":  47,
+                            "name":  {
+                                         "uz":  "Jiltirbas (Zhyltyrbas) ko‘li",
+                                         "kaa":  "Jıltırbas kóli",
+                                         "ru":  "Озеро Жылтырбас",
+                                         "en":  "Zhyltyrbas Lake"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/media-and-resources/media-and-resources-21/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Illustrated official article specifically covers Zhyltirbas lake in Muynak district. Commons searches with Jiltirbas, Zhyltyrbas, Jyltyrbas and Жылтырбас returned no exact subject photograph; a pronunciation audio file was not accepted as an image. Publisher photographs require permission."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "52-amudaryo-deltasi",
+                            "number":  52,
+                            "name":  {
+                                         "uz":  "Amudaryo deltasi",
+                                         "kaa":  "Ámiwdárya deltası",
+                                         "ru":  "Дельта реки Амударья",
+                                         "en":  "Amu Darya Delta"
+                                     },
+                            "candidates":  [
+
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  0,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "53-ayazkol",
+                            "number":  53,
+                            "name":  {
+                                         "uz":  "Ayazko‘l",
+                                         "kaa":  "Ayazkól",
+                                         "ru":  "Озеро Аязколь",
+                                         "en":  "Ayazkol Lake"
+                                     },
+                            "candidates":  [
+
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "55-qoraqalpogiston-respublikasi-tarixi-va-madaniyati-davlat-muzeyi",
+                            "number":  55,
+                            "name":  {
+                                         "uz":  "Qoraqalpog‘iston Respublikasi tarixi va madaniyati davlat muzeyi",
+                                         "kaa":  "Qaraqalpaqstan Respublikası tariyxı hám mádeniyatı mámleketlik muzeyi",
+                                         "ru":  "Государственный музей истории и культуры Республики Каракалпакстан",
+                                         "en":  "State Museum of History and Culture of Karakalpakstan"
+                                     },
+                            "candidates":  [
+
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "56-shamuratovlar-oilasi-uy-muzeyi",
+                            "number":  56,
+                            "name":  {
+                                         "uz":  "Shamuratovlar oilasi uy-muzeyi",
+                                         "kaa":  "Shamuratovlar shańaraǵı úy-muzeyi",
+                                         "ru":  "Дом-музей семьи Шамуратовых",
+                                         "en":  "Shamuratov Family House Museum"
+                                     },
+                            "candidates":  [
+
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "60-azatbay-otarbayev-musiqa-ustaxonasi",
+                            "number":  60,
+                            "name":  {
+                                         "uz":  "Azatbay Otarbayev musiqa ustaxonasi",
+                                         "kaa":  "Azatbay Otarbayev muzıka ustaxanası",
+                                         "ru":  "Мастерская традиционных музыкальных инструментов Азатбая Отарбаева",
+                                         "en":  "Azatbay Otarbayev Musical Instrument Workshop"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The illustrated official article identifies Otarbayev\u0027s musical instrument workshop in Nukus. The source does not establish the dataset\u0027s exact coordinates. Photographs are rights-reserved; generic musical instrument images are not equivalent to this workshop."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  4,
+                            "currentPhotographCount":  4,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "61-orol-dengizi-tarixi-muzeyi",
+                            "number":  61,
+                            "name":  {
+                                         "uz":  "Orol dengizi tarixi muzeyi",
+                                         "kaa":  "Aral teńizi tariyxı muzeyi",
+                                         "ru":  "Музей истории Аральского моря",
+                                         "en":  "Museum of the History of the Aral Sea"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uzbekistan.travel/en/o/republic-karakalpakstan-4-day-tour-program-domestic-pilgrimage-archaeological-tourism/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "no-object-photo-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "Official itinerary separately lists the Aral Sea History Museum and ship cemetery, followed by the Ecological Museum. This establishes that destination 61 must not inherit destination 59\u0027s 2018 interior photographs. No exact licensed photograph was confirmed."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "62-adil-tazhimuratov-zargarlik-ustaxonasi",
+                            "number":  62,
+                            "name":  {
+                                         "uz":  "Adil Tazhimuratov zargarlik ustaxonasi",
+                                         "kaa":  "Ádil Tájimuratov zergerlik ustaxanası",
+                                         "ru":  "Ювелирная мастерская Адиля Тажимуратова",
+                                         "en":  "Adil Tazhimuratov Jewelry Workshop"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://uza.uz/en/posts/jeweler-from-chimboy_523793",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-not-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "UzA\u0027s photographic report identifies the Chimboy jeweller Odilboy/Adil Tojimuratov. The source does not verify the synthetic workshop coordinates in the inherited archive. Reuse rights for the reporter\u0027s photographs were not established."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "63-qorateran-ekoturizm-kompleksi",
+                            "number":  63,
+                            "name":  {
+                                         "uz":  "Qorateran ekoturizm kompleksi",
+                                         "kaa":  "Qarateresteran ekoturizm kompleksi",
+                                         "ru":  "Экотуристический комплекс Каратерен",
+                                         "en":  "Karateran Ecotourism Complex"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://karakalpakstan.travel/media-and-resources/media-and-resources-10/",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-required",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The official illustrated article identifies Karateren at Borshi Tau near Daucara, Takhtakupyr district. It includes complex and lake views. The publisher reserves photographs; neither unrelated Karateren villages nor generic yurt images were accepted."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  1,
+                            "currentPhotographCount":  1,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        },
+                        {
+                            "destinationId":  "64-tax-tepa-etno-qishlogi",
+                            "number":  64,
+                            "name":  {
+                                         "uz":  "Tax-tepa etno qishlog‘i",
+                                         "kaa":  "Tax-tóbe etno awılı",
+                                         "ru":  "Этно-деревня Тах-тепа",
+                                         "en":  "Takh-Tepa Ethno Village"
+                                     },
+                            "candidates":  [
+                                               {
+                                                   "sourceUrl":  "https://gov.uz/oz/icc/news/view/104599",
+                                                   "imageUrl":  null,
+                                                   "rightsStatus":  "permission-not-confirmed",
+                                                   "reuseVerified":  false,
+                                                   "note":  "The official government report names Tax-tepa ethno-village near Beltov in Takhtakupyr district and includes a photographic gallery of its festival and buildings. A licence or express republication permission for the gallery was not established."
+                                               }
+                                           ],
+                            "searches":  [
+
+                                         ],
+                            "rejectedMatches":  [
+
+                                                ],
+                            "currentMediaCount":  5,
+                            "currentPhotographCount":  5,
+                            "status":  "reviewed-media-added",
+                            "explanation":  "New reviewed media and primary-source provenance were added in the 2026-10-21 review. Earlier candidates remain as research history."
+                        }
+                    ],
+    "excludedArchiveMatches":  [
+                                   {
+                                       "destinationId":  "21-mazlumxon-sulu-maqbarasi",
+                                       "sourceTitle":  "Mazlumxan maqbarasi 31.jpg",
+                                       "localArchivePath":  "assets/images/destinations/21-mazlumxon-sulu-maqbarasi.jpg",
+                                       "sourceUrl":  "https://commons.wikimedia.org/wiki/File:Mazlumxan_maqbarasi_31.jpg",
+                                       "license":  "CC BY-SA 4.0",
+                                       "licenseVerified":  true,
+                                       "subjectVerified":  false,
+                                       "reason":  "Commons categorizes this exterior as Shamun Nabi; preserve archive but replace destination gallery with unambiguous Mazlumxon sources."
+                                   },
+                                   {
+                                       "destinationId":  "28-imam-iyshan",
+                                       "sourceTitle":  "Imam Ishan Mohammed Mosque in Nukus,The Republic of Karakalpakstan.jpg",
+                                       "localArchivePath":  "assets/images/destinations/28-imam-iyshan.jpg",
+                                       "sourceUrl":  "https://commons.wikimedia.org/wiki/File:Imam_Ishan_Mohammed_Mosque_in_Nukus,The_Republic_of_Karakalpakstan.jpg",
+                                       "license":  "CC0",
+                                       "licenseVerified":  true,
+                                       "subjectVerified":  false,
+                                       "reason":  "This photograph depicts the Nukus city mosque; the destination is the Qrantau/Aqterek rural shrine at42.63842559.320294."
+                                   }
+                               ],
+    "notes":  [
+                  {
+                      "destinationId":  "15-qoyqirilgan-qala-koi-krilgan-kala",
+                      "note":  "The first media item shows the fortress in an archival aerial photograph. The old NASA regional location illustration remains explicitly kind overview."
+                  },
+                  {
+                      "destinationId":  "43-aktumsik-burni",
+                      "note":  "Only an orbital overview is activated: NASA source feature field names C.AKTUMSYK. No ground photograph reuse rights were confirmed."
+                  },
+                  {
+                      "destinationId":  "52-amudaryo-deltasi",
+                      "note":  "The activated NASA image is explicitly an orbital overview from1994."
+                  },
+                  {
+                      "destinationId":  "59-moynoq-ekologiya-muzeyi",
+                      "note":  "The two activated Commons images show the identified museum exhibition in its former building inAugust2018. They are labelled historical; they do not establish the present entrance location."
+                  },
+                  {
+                      "destinationId":  "41-ustyurt-platosi-ekspeditsiya-markazi",
+                      "note":  "Display names now describe the Ustyurt Plateau. The old unsupported expedition-center wording was removed; stableID is retained."
+                  }
+              ],
+    "summary":  {
+                    "destinations":  64,
+                    "withMedia":  64,
+                    "withoutMedia":  0,
+                    "totalMedia":  131,
+                    "withAtLeastTwoMedia":  43,
+                    "withAtLeastTwoPhotographs":  42,
+                    "overviewCount":  11,
+                    "requestedWithSourceRights":  40
+                },
+    "reviewDate":  "2026-10-21"
+}

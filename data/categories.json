@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ecological",
+    "name": {
+      "uz": "Ekologik turizm",
+      "kaa": "Ekologiyalıq turizm",
+      "ru": "Экологический туризм",
+      "en": "Ecotourism"
+    },
+    "icon": "leaf",
+    "emoji": "🌿",
+    "color": "#2E7D32",
+    "bgColor": "#ecfdf5"
+  },
+  {
+    "id": "historical",
+    "name": {
+      "uz": "Tarixiy meros",
+      "kaa": "Tariyxıy miyras",
+      "ru": "Историческое наследие",
+      "en": "Historical Heritage"
+    },
+    "icon": "fortress",
+    "emoji": "🏛️",
+    "color": "#D97706",
+    "bgColor": "#fffbeb"
+  },
+  {
+    "id": "cultural",
+    "name": {
+      "uz": "Madaniy yodgorliklar",
+      "kaa": "Mádeniy estelikler",
+      "ru": "Культурные памятники",
+      "en": "Cultural Monuments"
+    },
+    "icon": "monument",
+    "emoji": "🏰",
+    "color": "#C96F56",
+    "bgColor": "#fdf2e9"
+  },
+  {
+    "id": "museums",
+    "name": {
+      "uz": "Muzeylar",
+      "kaa": "Muzeyler",
+      "ru": "Музеи",
+      "en": "Museums"
+    },
+    "icon": "museum",
+    "emoji": "🎨",
+    "color": "#0EA5E9",
+    "bgColor": "#f0f9ff"
+  },
+  {
+    "id": "pilgrimage",
+    "name": {
+      "uz": "Ziyoratgohlar",
+      "kaa": "Zıyaratgáhlar",
+      "ru": "Места паломничества",
+      "en": "Pilgrimage Sites"
+    },
+    "icon": "shrine",
+    "emoji": "🕌",
+    "color": "#7C3AED",
+    "bgColor": "#f5f3ff"
+  },
+  {
+    "id": "ethno",
+    "name": {
+      "uz": "Etno-turizm",
+      "kaa": "Etno-turizm",
+      "ru": "Этно-туризм",
+      "en": "Ethno-Tourism"
+    },
+    "icon": "yurt",
+    "emoji": "🛖",
+    "color": "#D97706",
+    "bgColor": "#fffbeb"
+  },
+  {
+    "id": "nature",
+    "name": {
+      "uz": "Tabiat",
+      "kaa": "Tábiyat",
+      "ru": "Природа и ландшафты",
+      "en": "Nature & Landscapes"
+    },
+    "icon": "mountain",
+    "emoji": "⛰️",
+    "color": "#14B8A6",
+    "bgColor": "#f0fdfa"
+  },
+  {
+    "id": "crafts",
+    "name": {
+      "uz": "Hunarmandchilik",
+      "kaa": "Ónermentshilik",
+      "ru": "Ремесла и промыслы",
+      "en": "Traditional Crafts"
+    },
+    "icon": "craft",
+    "emoji": "🧵",
+    "color": "#64748B",
+    "bgColor": "#f8fafc"
+  }
+]

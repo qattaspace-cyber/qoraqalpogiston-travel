@@ -1,0 +1,154 @@
+{
+  "coordinates": [
+    [
+      59.616603,
+      42.460187
+    ],
+    [
+      59.616941,
+      42.460234
+    ],
+    [
+      59.616967,
+      42.460238
+    ],
+    [
+      59.616993,
+      42.460242
+    ],
+    [
+      59.61715,
+      42.460265
+    ],
+    [
+      59.6171,
+      42.460458
+    ],
+    [
+      59.616845,
+      42.46143
+    ],
+    [
+      59.616819,
+      42.461518
+    ],
+    [
+      59.616768,
+      42.461702
+    ],
+    [
+      59.616723,
+      42.461864
+    ],
+    [
+      59.616314,
+      42.463355
+    ],
+    [
+      59.616297,
+      42.463423
+    ],
+    [
+      59.616274,
+      42.463501
+    ],
+    [
+      59.616037,
+      42.464316
+    ],
+    [
+      59.616007,
+      42.464433
+    ],
+    [
+      59.615994,
+      42.464478
+    ],
+    [
+      59.615954,
+      42.464624
+    ],
+    [
+      59.615925,
+      42.464738
+    ],
+    [
+      59.615684,
+      42.464703
+    ],
+    [
+      59.615188,
+      42.46463
+    ],
+    [
+      59.613817,
+      42.464422
+    ],
+    [
+      59.61379,
+      42.464522
+    ],
+    [
+      59.61374,
+      42.46472
+    ],
+    [
+      59.61364,
+      42.464706
+    ],
+    [
+      59.61359,
+      42.464699
+    ],
+    [
+      59.613217,
+      42.464647
+    ]
+  ],
+  "type": "LineString",
+  "routing": {
+    "cacheVersion": 2,
+    "distanceKm": 0.8,
+    "roadDistanceKm": 0.8,
+    "distanceMeters": 807.1,
+    "durationMin": 2,
+    "durationSeconds": 99.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:17.807Z",
+    "expiresAt": "2026-11-20T12:19:17.807Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.091,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.46545,
+      "lng": 59.61301
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.464647,
+      "lng": 59.613217
+    },
+    "geometryPath": "data/routing/geometry/54-i-v-savitskiy-nomidagi-qoraqalpogiston-davlat-sanat-muzeyi.json"
+  }
+}

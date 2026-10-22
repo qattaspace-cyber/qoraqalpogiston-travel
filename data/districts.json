@@ -1,0 +1,20 @@
+[
+  { "id": "all", "name": { "uz": "Barcha tumanlar", "kaa": "Barlıq rayonlar", "ru": "Все районы", "en": "All Districts" } },
+  { "id": "nukus-city", "name": { "uz": "Nukus shahri", "kaa": "Nókis qalası", "ru": "Город Нукус", "en": "Nukus City" } },
+  { "id": "beruniy", "name": { "uz": "Beruniy tumani", "kaa": "Beruniy rayonı", "ru": "Берунийский район", "en": "Beruniy District" } },
+  { "id": "ellikqala", "name": { "uz": "Ellikqal'a tumani", "kaa": "Ellikqala rayonı", "ru": "Элликкалинский район", "en": "Ellikkala District" } },
+  { "id": "muynak", "name": { "uz": "Mo'ynoq tumani", "kaa": "Moynaq rayonı", "ru": "Муйнакский район", "en": "Muynak District" } },
+  { "id": "xojayli", "name": { "uz": "Xo'jayli tumani", "kaa": "Xojeli rayonı", "ru": "Ходжейлийский район", "en": "Khojeyli District" } },
+  { "id": "qungirot", "name": { "uz": "Qo'ng'irot tumani", "kaa": "Qońırat rayonı", "ru": "Кунградский район", "en": "Kungrad District" } },
+  { "id": "chimboy", "name": { "uz": "Chimboy tumani", "kaa": "Shımbay rayonı", "ru": "Чимбайский район", "en": "Chimbay District" } },
+  { "id": "kegeyli", "name": { "uz": "Kegeyli tumani", "kaa": "Kegeyli rayonı", "ru": "Кегейлийский район", "en": "Kegeyli District" } },
+  { "id": "qoraozak", "name": { "uz": "Qorao'zak tumani", "kaa": "Qaraózek rayonı", "ru": "Караузякский район", "en": "Karaozyak District" } },
+  { "id": "taxtakopir", "name": { "uz": "Taxtako'pir tumani", "kaa": "Taxtakópir rayonı", "ru": "Тахтакупырский район", "en": "Takhtakupir District" } },
+  { "id": "turtkol", "name": { "uz": "To'rtko'l tumani", "kaa": "Tórtkúl rayonı", "ru": "Турткульский район", "en": "Turtkul District" } },
+  { "id": "amudaryo", "name": { "uz": "Amudaryo tumani", "kaa": "Ámiwdárya rayonı", "ru": "Амударьинский район", "en": "Amu Darya District" } },
+  { "id": "nukus-district", "name": { "uz": "Nukus tumani", "kaa": "Nókis rayonı", "ru": "Нукусский район", "en": "Nukus District" } },
+  { "id": "kanlikol", "name": { "uz": "Qanliko'l tumani", "kaa": "Qanlıkól rayonı", "ru": "Канлыкульский район", "en": "Kanlykul District" } },
+  { "id": "shumanay", "name": { "uz": "Shumanay tumani", "kaa": "Shomanay rayonı", "ru": "Шуманайский район", "en": "Shumanay District" } },
+  { "id": "bozatau", "name": { "uz": "Bo'zatau tumani", "kaa": "Bozataw rayonı", "ru": "Бозатауский район", "en": "Bozatau District" } },
+  { "id": "taxiatosh", "name": { "uz": "Taxiatosh tumani", "kaa": "Taxıyatas rayonı", "ru": "Тахиаташский район", "en": "Takhiatash District" } }
+]

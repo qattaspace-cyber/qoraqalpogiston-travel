@@ -1,0 +1,142 @@
+{
+  "coordinates": [
+    [
+      59.616603,
+      42.460187
+    ],
+    [
+      59.615493,
+      42.460032
+    ],
+    [
+      59.61467,
+      42.45991
+    ],
+    [
+      59.614566,
+      42.459893
+    ],
+    [
+      59.614413,
+      42.459871
+    ],
+    [
+      59.613258,
+      42.459701
+    ],
+    [
+      59.6122,
+      42.459532
+    ],
+    [
+      59.611591,
+      42.459436
+    ],
+    [
+      59.611478,
+      42.459418
+    ],
+    [
+      59.611358,
+      42.4594
+    ],
+    [
+      59.611332,
+      42.459506
+    ],
+    [
+      59.611314,
+      42.459575
+    ],
+    [
+      59.611212,
+      42.459953
+    ],
+    [
+      59.61104,
+      42.460589
+    ],
+    [
+      59.61102,
+      42.460662
+    ],
+    [
+      59.6108,
+      42.461503
+    ],
+    [
+      59.610734,
+      42.461739
+    ],
+    [
+      59.610713,
+      42.461812
+    ],
+    [
+      59.610519,
+      42.462503
+    ],
+    [
+      59.610502,
+      42.462563
+    ],
+    [
+      59.61058,
+      42.462574
+    ],
+    [
+      59.61064,
+      42.462583
+    ],
+    [
+      59.611029,
+      42.462641
+    ]
+  ],
+  "type": "LineString",
+  "routing": {
+    "cacheVersion": 2,
+    "distanceKm": 0.8,
+    "roadDistanceKm": 0.8,
+    "distanceMeters": 842.6,
+    "durationMin": 1,
+    "durationSeconds": 87.2,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:19.075Z",
+    "expiresAt": "2026-11-20T12:19:19.075Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.042,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.46227,
+      "lng": 59.61113
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.462641,
+      "lng": 59.611029
+    },
+    "geometryPath": "data/routing/geometry/55-qoraqalpogiston-respublikasi-tarixi-va-madaniyati-davlat-muzeyi.json"
+  }
+}

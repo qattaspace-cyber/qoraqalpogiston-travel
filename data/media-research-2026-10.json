@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-21",
+  "researchScope": "15 assigned destinations that had no active media at the start of this web review. Complementary records for the other 7 missing destinations are maintained by the integrating owner.",
+  "method": "Public web search, primary publisher pages and item-specific image/license metadata; downloaded candidates inspected as local images. No application, development server, browser or tests were launched. Searches returning HTTP 429 were not treated as successful results.",
+  "publicationPolicy": "Use only actual subject photographs with item/page provenance and applicable reuse permission. Research candidates do not automatically enter the active catalogue. National PR-centre custom terms apply to its website/subdomains only; they do not extend to karakalpakstan.travel or UZA.",
+  "licenceEvidence": [
+    {
+      "id": "national-pr-centre-tourism-2020",
+      "sourceUrl": "https://uzbekistan.travel/en/license-agreement/",
+      "checkedOn": "2026-10-21",
+      "label": "National PR-centre License Agreement — tourism website use",
+      "version": "May 2020 version displayed by publisher",
+      "scope": "Publicly accessible publisher content may be used on websites giving positive/neutral tourism coverage of Uzbekistan. This is a limited custom grant, not a Creative Commons or unrestricted open-content licence.",
+      "allowedModifications": "Publisher expressly permits derivative works and edits including cropping.",
+      "obligations": "No paid sublicensing; avoid prohibited subject matter/retail uses. Terms may be changed or terminated by publisher. Maintain source/credit and honest modification details.",
+      "shortEvidenceQuote": "for websites, Newspapers, magazines and TV shows that provide positive/neutral coverage of Uzbekistan",
+      "clauseReferences": [
+        "Acceptance (ownership and one-time private/commercial use)",
+        "Sphere of Use — Allowed to Use",
+        "Rights of the User and/or Third Parties"
+      ],
+      "projectApplicability": "Neutral academic tourism and heritage catalogue."
+    },
+    {
+      "id": "undp-beleuli-7848220366",
+      "sourceUrl": "https://www.flickr.com/photos/undpeuropeandcis/7848220366/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en",
+      "label": "CC BY-NC-SA 2.0",
+      "checkedOn": "2026-10-21",
+      "scope": "Attribution, noncommercial use and share-alike apply. User has authorized including noncommercial-license photographs in this academic tourism site."
+    },
+    {
+      "itemSpecificEvidence": "Item HTML contains the Creative Commons BY-NC 4.0 link; the IIIF manifest repeats the same rights URL and connects canvas 6 to the actual downloaded image body.",
+      "id": "british-library-eap1075-1971",
+      "manifestUrl": "https://eap.bl.uk/archive-file/EAP1075-1-41/manifest",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "label": "CC BY-NC 4.0",
+      "accessMethod": "Exact public IIIF image body URL published in the linked manifest. No browser or anti-bot bypass used.",
+      "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-41-6",
+      "reusePolicyUrl": "https://eap.bl.uk/reuse-collections-and-takedown-policy",
+      "checkedOn": "2026-10-21",
+      "reusePolicyNote": "Retain shelfmark, original custodian and copyright-owner credit; noncommercial restriction applies. Generic EAP guidance separately asks users to treat collections and communities respectfully."
+    }
+  ],
+  "summary": {
+    "destinationsResearched": 15,
+    "destinationsWithDownloadedEligiblePhotos": 4,
+    "preferredEligiblePhotos": 6,
+    "eligibleAlternativePhotos": 4,
+    "additionalResearchOnlyDownloads": 6,
+    "remainingWithoutApprovedPhoto": 11
+  },
+  "records": [
+    {
+      "destinationId": "02-sulton-uvays-dag-gyaur-qala",
+      "searches": [
+        "\"Gyaur kala\" \"Flickr\" Uvays",
+        "\"Gyaur\" \"Sultan Uvays\" photo",
+        "site:uzbekistan.travel \"Gyaur-kala\""
+      ],
+      "status": "no-approved-photo",
+      "candidates": [
+        {
+          "sourceUrl": "https://karakalpakstan.travel/archeological-monuments/sultan-uvays-dag-gyaur-kala/",
+          "sourceImageUrl": null,
+          "license": null,
+          "licenseUrl": null,
+          "rightsStatus": "permission-required",
+          "licenseVerified": false,
+          "reuseVerified": false,
+          "identityNote": "The named Sultan Uvays monument is distinct from Gyaur at Mizdakhkan. Publisher page reserves photo reuse."
+        },
+        {
+          "sourceUrl": "https://heritageinstitute.com/zoroastrianism/khvarizem/page2.htm",
+          "rightsStatus": "reuse-not-established",
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Article distinguishes the two Gyaur sites, but no reusable image licence was established."
+        }
+      ],
+      "rejectedMatches": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyaurqal%E2%80%99a.jpg",
+          "reason": "Description identifies Xojayli/Sarishungil; not Sultan Uvays."
+        }
+      ]
+    },
+    {
+      "destinationId": "03-jampik-qala",
+      "searches": [
+        "\"Jampik\" photo Flickr Creative Commons",
+        "\"Janpik\" Flickr",
+        "\"Dzhanpyk-kala\" Flickr",
+        "\"Jampyk kala\" photograph license",
+        "site:uzbekistan.travel Jampik OR Jampyk OR Джампык OR Джанпык"
+      ],
+      "status": "approved-photos-downloaded",
+      "sourceUrl": "https://uzbekistan.travel/en/o/dzhampyk-kala-the-most-beautiful-fortress-of-ancient-khorezm/",
+      "sourceType": "national-tourism",
+      "identityNote": "Official page names this fortress. Downloaded frames visibly show its distinctive rammed-clay towers, wall facade and enclosure. Two preferred frames are separate viewpoints, not duplicate crops.",
+      "licenseEvidenceId": "national-pr-centre-tourism-2020",
+      "photos": [
+        {
+          "localFile": "assets/images/destinations/research/03-jampik-national-04.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/nargiza/cropped-images/krepost-0-0-0-0-1590754189.jpg",
+          "bytes": 130741,
+          "sha256": "f48da3dcd131db797ee163fb0feaf6bd28a28670a09ef4b3916a70895983bc8d",
+          "width": 1100,
+          "height": 733,
+          "caption": "Jampyk-Kala — exterior walls and facade",
+          "kind": "photo",
+          "preferred": true,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        },
+        {
+          "localFile": "assets/images/destinations/research/03-jampik-national-01.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/nargiza/cropped-images/IMG_2562-0-0-0-0-1590754297.jpg",
+          "bytes": 211086,
+          "sha256": "ee9e644bebb7a3c430107e5835cafa2ed6c72ee0058704d07fa5c2d6fd34a6bd",
+          "width": 1100,
+          "height": 733,
+          "caption": "Jampyk-Kala — surviving towers",
+          "kind": "photo",
+          "preferred": true,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        },
+        {
+          "localFile": "assets/images/destinations/research/03-jampik-national-02.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/nargiza/cropped-images/IMG_2595-0-0-0-0-1590754243.jpg",
+          "bytes": 272904,
+          "sha256": "68517a5de490f93c1581f66c42b4e27f711bc168ce506d840f51abd9cd44b6d5",
+          "width": 1100,
+          "height": 733,
+          "caption": "Jampyk-Kala — interior enclosure and opening",
+          "kind": "photo",
+          "preferred": false,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        },
+        {
+          "localFile": "assets/images/destinations/research/03-jampik-national-03.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/nargiza/cropped-images/IMG_2614-0-0-0-0-1590754344.jpg",
+          "bytes": 182730,
+          "sha256": "f1b7d3013dd908718f3f97ae2ec6f7bc5ebc65c14cd25b133b9043733c376b20",
+          "width": 1100,
+          "height": 733,
+          "caption": "Jampyk-Kala — view through a wall opening",
+          "kind": "photo",
+          "preferred": false,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        }
+      ],
+      "otherCandidates": [
+        {
+          "sourceUrl": "https://lori.ru/57655134",
+          "rightsStatus": "purchase-required",
+          "reuseVerified": false,
+          "identityNote": "Photographer Julia Belousova identifies Dzhanpik-Kala, but the stock photograph requires purchase."
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/gballardice/sets/72177720310015851",
+          "rightsStatus": "wrong-kind-for-destination-view",
+          "reuseVerified": false,
+          "identityNote": "The Jampyk-labelled object is a museum bowl. It is not a photograph of the destination fortress."
+        }
+      ]
+    },
+    {
+      "destinationId": "12-kurgashin-qala",
+      "searches": [
+        "Kurgashin kala Wikimedia Commons",
+        "\"Kurgashin\" Flickr",
+        "\"EAP1075\" Kurgashin images",
+        "site:uzbekistan.travel \"Kurgashin\" OR \"Кургашин\" OR \"Qorgasin\" OR \"Qo‘rg‘oshin\""
+      ],
+      "status": "approved-archival-overview-downloaded",
+      "candidates": [
+        {
+          "sourceUrl": "https://karakalpakstan.travel/archeological-monuments/kurgashin-kala/",
+          "sourceImageUrl": "https://karakalpakstan.travel/data/uploads/03-goroda/10-kurgashin-kala/03.jpg",
+          "license": null,
+          "licenseUrl": null,
+          "rightsStatus": "permission-required",
+          "licenseVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Named official gallery; publisher requires permission."
+        },
+        {
+          "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-41-3",
+          "supportingSources": [
+            "https://searcharchives.bl.uk/catalog/041-004381749"
+          ],
+          "sourceImageUrl": "https://images.eap.bl.uk/EAP1075/EAP1075_1_41/3.jp2/full/full/0/default.jpg",
+          "author": "Khorezmian Archaeological-Ethnographic Expedition of the Academy of Sciences of the USSR",
+          "date": "1971",
+          "license": "CC BY-NC 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "licenseVerified": true,
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "rightsStatus": "licensed-wide-aerial-frame-exact-fortress-unconfirmed",
+          "identityNote": "Downloaded and visually inspected on follow-up. This is a broad archival survey frame; the exact fortress is not clearly identified in it, so it is not selected or counted as an eligible destination image.",
+          "localFile": "assets/images/destinations/research/12-kurgashin-eap-1971-03.jpg",
+          "sha256": "a70a98f08ca06778f79f703233a28fa5e17b9043ba72da04db59a35c2e15b603",
+          "bytes": 530427,
+          "preferred": false
+        },
+        {
+          "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-41-6",
+          "sourceImageUrl": "https://images.eap.bl.uk/EAP1075/EAP1075_1_41/6.jp2/full/full/0/default.jpg",
+          "license": "CC BY-NC 4.0",
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "rightsStatus": "approved-noncommercial-archival-overview",
+          "identityNote": "Superseded by the fully evidenced preferred photos entry after successful download and visual inspection.",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "sourceType": "british-library-eap",
+      "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-41-6",
+      "photos": [
+        {
+          "localFile": "assets/images/destinations/research/12-kurgashin-eap-1971-06.jpg",
+          "sourceImageUrl": "https://images.eap.bl.uk/EAP1075/EAP1075_1_41/6.jp2/full/full/0/default.jpg",
+          "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-41-6",
+          "manifestUrl": "https://eap.bl.uk/archive-file/EAP1075-1-41/manifest",
+          "canvasUrl": "https://eap.bl.uk/archive-file/EAP1075-1-41/canvas/6",
+          "bytes": 515750,
+          "sha256": "d7ef50360124316c692953716316800feff623ffc644bdd52bb1ab9335461e6b",
+          "width": 1200,
+          "height": 1191,
+          "manifestCanvasWidth": 4224,
+          "manifestCanvasHeight": 4193,
+          "caption": "Kurgashin-Kala — archival aerial overview, 1971",
+          "kind": "overview",
+          "preferred": true,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "sourceType": "british-library-eap",
+          "author": "Khorezmian Archaeological-Ethnographic Expedition of the Academy of Sciences of the USSR",
+          "credit": "British Library, EAP1075/1/41/6; original held by the Institute of Ethnology and Anthropology, Russian Academy of Sciences, Moscow",
+          "license": "CC BY-NC 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "dateTaken": "1971",
+          "nonCommercialOnly": true,
+          "isArchival": true,
+          "modifications": "Downloaded the published JPEG rendition unchanged; no crop, enhancement or synthetic detail added.",
+          "identityNote": "The item page explicitly names Kurgashin-Kala and sets viewer canvas index 5 (the sixth exposure). Visual inspection confirms a rectangular ruin with projecting towers in the lower-left of this historical aerial frame. Use as an archival aerial overview, not a present-day ground photograph."
+        }
+      ],
+      "identityNote": "Fresh follow-up found the documented IIIF v3 manifest linked by the item page. Its published full-frame image body was downloadable as image/jpeg. Item pages and the manifest explicitly link CC BY-NC 4.0. The initial thumbnail bot-check remains only an earlier failed request; no access control was bypassed.",
+      "licenceEvidenceId": "british-library-eap1075-1971",
+      "additionalResearchOnlyDownloads": [
+        {
+          "width": 1200,
+          "height": 1200,
+          "note": "Licensed survey-area exposure; exact fortress is not visible clearly enough for integration.",
+          "reuseVerified": false,
+          "subjectVerified": false,
+          "preferred": false,
+          "sha256": "1e65f50487af8d543e158c0312015956b902505b8c2ab290e2fc20a56904fc22",
+          "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-41-4",
+          "bytes": 579341,
+          "localFile": "assets/images/destinations/research/12-kurgashin-eap-1971-04.jpg",
+          "sourceImageUrl": "https://images.eap.bl.uk/EAP1075/EAP1075_1_41/4.jp2/full/full/0/default.jpg"
+        },
+        {
+          "width": 1200,
+          "height": 1191,
+          "note": "Licensed survey-area exposure; exact fortress is not visible clearly enough for integration.",
+          "reuseVerified": false,
+          "subjectVerified": false,
+          "preferred": false,
+          "sha256": "c3d42d6c80a59b594d8321b7f26efe87649301e2524c85eff558fde389bf6cb5",
+          "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-41-5",
+          "bytes": 533320,
+          "localFile": "assets/images/destinations/research/12-kurgashin-eap-1971-05.jpg",
+          "sourceImageUrl": "https://images.eap.bl.uk/EAP1075/EAP1075_1_41/5.jp2/full/full/0/default.jpg"
+        }
+      ]
+    },
+    {
+      "destinationId": "13-bozor-qala",
+      "searches": [
+        "site:commons.wikimedia.org \"Bazar Kala\"",
+        "\"Bazar-kala\" Flickr",
+        "site:uzbekistan.travel \"Bozor qal\" OR \"Bazar-kala\" OR \"Базар-кала\""
+      ],
+      "status": "permission-required",
+      "candidates": [
+        {
+          "sourceUrl": "https://karakalpakstan.travel/archeological-monuments/bazar-kala/",
+          "sourceImageUrl": "https://karakalpakstan.travel/data/uploads/03-goroda/11-bazar-kala/01.jpg",
+          "license": null,
+          "licenseUrl": null,
+          "rightsStatus": "permission-required",
+          "licenseVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Official gallery identifies Bazar-Kala; no reuse permission granted by that publisher."
+        }
+      ]
+    },
+    {
+      "destinationId": "17-eres-qala",
+      "searches": [
+        "Eres kala Wikimedia Commons",
+        "\"Eres-kala\" Flickr",
+        "site:uzbekistan.travel \"Eres\" OR \"Эрес\" OR \"Ерес\""
+      ],
+      "status": "permission-required",
+      "candidates": [
+        {
+          "sourceUrl": "https://karakalpakstan.travel/archeological-monuments/eres-kala/?lang=en",
+          "sourceImageUrl": "https://karakalpakstan.travel/data/uploads/03-goroda/15-eres-kala/01.jpg",
+          "license": null,
+          "licenseUrl": null,
+          "rightsStatus": "permission-required",
+          "licenseVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Official Eres-Kala gallery; publisher reserves photographs. Other fortress pictures cannot substitute."
+        }
+      ]
+    },
+    {
+      "destinationId": "22-beleuli-karvonsaroyi",
+      "searches": [
+        "\"Beleuli\" photo Flickr",
+        "\"Beleuli\" Flickr \"fortress\"",
+        "site:uzbekistan.travel \"Beleuli\" OR \"Белеули\" OR \"Белеўли\""
+      ],
+      "status": "approved-noncommercial-photo-downloaded",
+      "sourceUrl": "https://www.flickr.com/photos/undpeuropeandcis/7848220366/",
+      "sourceType": "flickr",
+      "identityNote": "UNDP's own photo page names Beleuli. Visual inspection shows the surviving limestone portal and arch, consistent with the official Beleuli illustrated article. Caption must state 2012 because the official article says the portal has since partly collapsed.",
+      "supportingSources": [
+        "https://karakalpakstan.travel/media-and-resources/media-and-resources-51/"
+      ],
+      "photos": [
+        {
+          "localFile": "assets/images/destinations/research/22-beleuli-undp-7848220366-original.jpg",
+          "sourceImageUrl": "https://live.staticflickr.com/7266/7848220366_de8dc93be3_o.jpg",
+          "sourceDownloadPage": "https://www.flickr.com/photos/undpeuropeandcis/7848220366/sizes/l/",
+          "duplicateWebRenditionLocalFile": "assets/images/destinations/research/22-beleuli-undp-7848220366.jpg",
+          "bytes": 32676,
+          "sha256": "f4644b5802d0497f40fd114c587be4330af43a45c528a2acdb938a08f2d19f36",
+          "width": 640,
+          "height": 426,
+          "caption": "Beleuli Caravanserai — portal photographed in August 2012",
+          "kind": "photo",
+          "preferred": true,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded Flickr's original 640 px image unchanged.",
+          "author": "UNDP in Europe and Central Asia / United Nations Development Programme in Europe and CIS",
+          "license": "CC BY-NC-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+          "licenceEvidenceSource": "https://www.flickr.com/photos/undpeuropeandcis/7848220366/",
+          "dateTaken": "2012-08-23",
+          "nonCommercialOnly": true,
+          "sourceType": "flickr"
+        }
+      ],
+      "aiRestoration": {
+        "tool": "built-in image_gen",
+        "status": "rejected-not-published",
+        "source": "assets/images/destinations/research/22-beleuli-undp-7848220366-original.jpg",
+        "candidate": "assets/images/destinations/research/22-beleuli-restoration-rejected.png",
+        "promptSummary": "Conservative JPEG artifact removal and very restrained sharpening; exact composition, incomplete arch, missing masonry, stones, sky and vegetation must stay unchanged. No reconstruction or invented detail.",
+        "reason": "Visual comparison found a changed/reconnected arch, different stone detail and altered sky/vegetation. This is not an acceptable documentary restoration. The unchanged source photograph remains active."
+      }
+    },
+    {
+      "destinationId": "23-kurgancha-davletgirey",
+      "searches": [
+        "site:commons.wikimedia.org \"Beleuli\" OR \"Белеули\" OR \"Davletgirey\"",
+        "\"Курганча\" \"Давлетгирей\" фото",
+        "\"Kurgancha\" Flickr",
+        "site:uzbekistan.travel \"Kurgancha\" OR \"Давлетгирей\" OR \"Курганча\""
+      ],
+      "status": "permission-required",
+      "candidates": [
+        {
+          "sourceUrl": "https://karakalpakstan.travel/media-and-resources/media-and-resources-12/",
+          "sourceImageUrl": null,
+          "license": null,
+          "licenseUrl": null,
+          "rightsStatus": "permission-required",
+          "licenseVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Named Ustyurt outpost, distinguished from the separate Takhtakupyr Kurgancha; photo reuse requires permission."
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/dimsumreizen/54774588683",
+          "author": "Dimsum Reizen & Pyala Travel",
+          "dateTaken": "2025-09-03",
+          "rightsStatus": "all-rights-reserved",
+          "licenseVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Newer photographer page names Karakalpakstan Kurgancha-Kala, but expressly reserves all rights."
+        }
+      ]
+    },
+    {
+      "destinationId": "24-norinjon-bobo",
+      "searches": [
+        "\"Narinjan\" photo Wikimedia",
+        "\"Norinjon bobo\" \"Creative Commons\"",
+        "\"Narindjan\" \"Creative Commons\"",
+        "\"Норинжон бобо\" фото лицензия"
+      ],
+      "status": "approved-photos-downloaded",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/norinjon-bobo-majmuasi/",
+      "sourceType": "national-tourism",
+      "identityNote": "The official Norinjon Bobo gallery explicitly associates these separate frames with this complex. Visual inspection confirms its main facade, domed courtyard structures, well pavilion and carved doorway. Preferred facade and courtyard photographs are distinct images.",
+      "licenseEvidenceId": "national-pr-centre-tourism-2020",
+      "photos": [
+        {
+          "localFile": "assets/images/destinations/research/24-norinjon-national-04.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/Rasmlar/cropped-images/narinjon_bobo_4-0-0-0-0-1737973410.jpg",
+          "bytes": 348977,
+          "sha256": "d8f69f2bfb19ae3557543405ca99df4098032f52ee2e64c845c8e124411a8737",
+          "width": 1100,
+          "height": 733,
+          "caption": "Norinjon Bobo complex — main facade and courtyard",
+          "kind": "photo",
+          "preferred": true,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        },
+        {
+          "localFile": "assets/images/destinations/research/24-norinjon-national-01.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/Otabek/Narinjan%20bobo/cropped-images/narinjon_bobo_1-0-0-0-0-1658727289.jpg",
+          "bytes": 209447,
+          "sha256": "42224a442fa2e0bfee617794c2686c5053ab926fb67cd57a180bde2d769c21f9",
+          "width": 1100,
+          "height": 736,
+          "caption": "Norinjon Bobo complex — courtyard and domed buildings",
+          "kind": "photo",
+          "preferred": true,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        },
+        {
+          "localFile": "assets/images/destinations/research/24-norinjon-national-02.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/Otabek/Narinjan%20bobo/cropped-images/narinjon_bobo_2-0-0-0-0-1658727301.jpg",
+          "bytes": 369007,
+          "sha256": "096f63eaf4f5b949661ccdf97b985ac28d87082cd69632c943f8a11b42907c00",
+          "width": 1100,
+          "height": 736,
+          "caption": "Norinjon Bobo complex — well pavilion",
+          "kind": "photo",
+          "preferred": false,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        },
+        {
+          "localFile": "assets/images/destinations/research/24-norinjon-national-03.jpg",
+          "sourceImageUrl": "https://uzbekistan.travel/storage/app/media/Otabek/Narinjan%20bobo/cropped-images/narinjon_bobo_3-0-0-0-0-1658727314.jpg",
+          "bytes": 361445,
+          "sha256": "c95b6cf8a50a9bba91d9a259d37de32733933f191934c36eacebca63b1bcb057",
+          "width": 1100,
+          "height": 736,
+          "caption": "Norinjon Bobo complex — carved wooden doorway detail",
+          "kind": "photo",
+          "preferred": false,
+          "subjectVerified": true,
+          "licenseVerified": true,
+          "reuseVerified": true,
+          "modifications": "None; downloaded publisher image unchanged. The publisher URL identifies its own resized/cropped web rendition.",
+          "author": "National PR-centre / Uzbekistan Travel; individual photographer not identified",
+          "license": "National PR-centre License Agreement — tourism website use",
+          "licenseUrl": "https://uzbekistan.travel/en/license-agreement/"
+        }
+      ],
+      "rejectedForIntegration": [
+        {
+          "sourceUrl": "https://dkm.gov.uz/ru/norinzon-bobo-mazmuasi",
+          "localFiles": [
+            "assets/images/destinations/research/24-norinjon-dkm-01.jpg",
+            "assets/images/destinations/research/24-norinjon-dkm-02.jpg"
+          ],
+          "rightsStatus": "third-party-rights-unresolved",
+          "reuseVerified": false,
+          "identityNote": "The government republication says copying needs a source link, but downloaded photos carry UZA watermarks. Do not assume this publisher can relicense third-party UZA images. Prefer the separate National PR-centre gallery."
+        }
+      ]
+    },
+    {
+      "destinationId": "26-berkut-qala",
+      "searches": [
+        "site:commons.wikimedia.org \"Berkut Kala\"",
+        "\"Berkut-kala\" \"photo\" Flickr",
+        "\"Berkut kala\" photograph",
+        "site:uzbekistan.travel \"Berkut\" OR \"Беркут\" OR \"Burgut\""
+      ],
+      "status": "exact-subject-photo-unconfirmed",
+      "candidates": [
+        {
+          "sourceUrl": "https://eap.bl.uk/item/EAP1075-1-85-19",
+          "supportingSources": [
+            "https://searcharchives.bl.uk/catalog/041-004383290"
+          ],
+          "author": "Khorezmian Archaeological-Ethnographic Expedition of the Academy of Sciences of the USSR",
+          "date": "1962",
+          "license": "CC BY-NC (version not stated in item catalogue)",
+          "licenseUrl": null,
+          "licenseVerified": false,
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "rightsStatus": "oasis-overview-exact-fortress-unconfirmed",
+          "identityNote": "Archive identifies the broader Berkut-Kala oasis, not the fortress within this frame. Cannot approve as an exact fortress view without seeing and locating it."
+        },
+        {
+          "sourceUrl": "https://silkadv.com/en/content/teshik-kala-fortress",
+          "rightsStatus": "wrong-monument",
+          "reuseVerified": false,
+          "identityNote": "The photographs depict Teshik-Kala in the wider oasis, not Berkut-Kala fortress."
+        }
+      ]
+    },
+    {
+      "destinationId": "27-puljay",
+      "searches": [
+        "\"Puljay\" photo",
+        "\"Пульджай\" фото",
+        "\"Puljai\" photo",
+        "\"A Mosque and a Caravanserai from Puljay\" pdf",
+        "site:uzbekistan.travel \"Puljay\" OR \"Пульжай\" OR \"Пульджай\""
+      ],
+      "status": "no-approved-photo",
+      "candidates": [
+        {
+          "sourceUrl": "https://www.e-anthropology.com/English/Catalog/Archaeology/Proceedings.aspx",
+          "rightsStatus": "image-reuse-not-established",
+          "reuseVerified": false,
+          "subjectVerified": false,
+          "identityNote": "Publisher lists a Puljay archaeological chapter as free to read. Free access does not establish permission to extract photographs."
+        },
+        {
+          "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+          "rightsStatus": "identity-lead-only",
+          "reuseVerified": false,
+          "subjectVerified": false,
+          "identityNote": "Monument reference does not certify an exact reusable photo."
+        }
+      ]
+    },
+    {
+      "destinationId": "30-qusxana-qabristoni",
+      "searches": [
+        "\"Qusxana\" \"photo\" OR \"rasm\" OR \"dingi\"",
+        "\"Qusxana dingi\" Commons",
+        "\"Qusxana\" cemetery",
+        "site:uzbekistan.travel \"Qusxana\" OR \"Кусхана\""
+      ],
+      "status": "subject-conflict-unresolved",
+      "candidates": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qusxana_dingi.jpg",
+          "author": "Oybarchin0302",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "licenseVerified": true,
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "rightsStatus": "subject-verification-required",
+          "identityNote": "Commons names Qusxana, but the inherited visual rejection remains unresolved. Original download returned HTTP 429; do not promote based only on its filename/heritage tag.",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Qusxana_dingi.jpg"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajiniyoz_Qosiboy_o%CA%BBg%CA%BBli_byusti.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "licenseVerified": true,
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "rightsStatus": "conflicting-subject-metadata",
+          "identityNote": "Its description misleadingly repeats Qusxana, while the title and cross-wiki use identify Ajiniyaz's bust. Reject as cemetery photograph."
+        }
+      ],
+      "supportingSources": [
+        "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/"
+      ]
+    },
+    {
+      "destinationId": "31-sulton-valiy-ota",
+      "searches": [
+        "\"Sulton Valiy\" \"foto\" OR \"rasm\" OR \"maqbara\"",
+        "\"Султан Валий\" фото",
+        "site:uzbekistan.travel \"Sulton Valiy\" OR \"Султан Валий\""
+      ],
+      "status": "exact-subject-photo-unconfirmed",
+      "supportingSources": [
+        "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/"
+      ],
+      "identityNote": "Registry identifies a separate Valiy Ota monument in the Sultan Uvays complex. A photograph of the wider complex does not identify this separate mausoleum.",
+      "candidates": []
+    },
+    {
+      "destinationId": "35-shayx-jalil-bobo",
+      "searches": [
+        "\"Shayx Jalil\" foto OR rasm",
+        "\"Шейх Джалил\" \"фото\" Каракалпакстан",
+        "site:uzbekistan.travel \"Shaykh Jalil\" OR \"Sheikh Jalil\" OR \"Sheykh Jalil\"",
+        "site:uzbekistan.travel \"Жалил\" -5781"
+      ],
+      "status": "no-approved-photo",
+      "supportingSources": [
+        "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/"
+      ],
+      "candidates": [
+        {
+          "sourceUrl": "https://ziyoratga.uz/uz/mavzolej-shejha-dzhalili-bobo",
+          "rightsStatus": "licence-not-established",
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Search identifies a named mausoleum photo, but the page fetch returned 502 and no reusable licence was established."
+        },
+        {
+          "sourceUrl": "https://gov.uz/oz/madaniymeros/news/view/54154",
+          "rightsStatus": "not-a-subject-photo",
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "identityNote": "The primary agency statement concerns this mausoleum, but the article's visible graphic is an official-response card, not a usable mausoleum photograph."
+        }
+      ]
+    },
+    {
+      "destinationId": "36-eshim-axun",
+      "searches": [
+        "\"Eshim Axun\" foto OR rasm",
+        "\"Эшим ахун\" фото",
+        "\"Eshim axun\" -site:uzbekistan.travel -pdf",
+        "site:uzbekistan.travel \"Eshim\" OR \"Эшим\" OR \"Ешим\""
+      ],
+      "status": "exact-subject-photo-unconfirmed",
+      "supportingSources": [
+        "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/"
+      ],
+      "candidates": [
+        {
+          "sourceUrl": "https://t.me/s/kanlikulnews?before=53818",
+          "rightsStatus": "different-subject-and-rights-unconfirmed",
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "identityNote": "The district information-service post concerns an Eshim Axun congregational mosque. The active destination is a cemetery/shrine at Arzimbetqum; same name alone cannot connect them."
+        }
+      ]
+    },
+    {
+      "destinationId": "37-yusuf-eshon-bobo-masjidi",
+      "searches": [
+        "\"Yusuf Eshon Bobo\" masjidi rasm",
+        "site:uzbekistan.travel \"Yusuf Eshon\" \"Image\""
+      ],
+      "status": "licence-not-established",
+      "supportingSources": [
+        "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/"
+      ],
+      "candidates": [
+        {
+          "sourceUrl": "https://www.youtube.com/watch?v=DHGl0RuvjFY",
+          "rightsStatus": "video-still-reuse-unconfirmed",
+          "subjectVerified": false,
+          "reuseVerified": false,
+          "identityNote": "Video title identifies the Amudaryo Yusuf Eshon Bobo mosque. It is a lead for the correct subject, but no reusable video/photo licence was established; no frame was extracted."
+        }
+      ]
+    }
+  ],
+  "latestFollowUp": "2026-10-21: British Library item-specific licence and IIIF access resolved for Kurgashin-Kala; one clearly identified archival aerial overview selected, three broad survey frames retained as unapproved research."
+}

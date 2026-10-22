@@ -1,0 +1,2882 @@
+{
+  "01-chilpik-chilpyk-dakhma": {
+    "cacheVersion": 2,
+    "distanceKm": 49,
+    "roadDistanceKm": 49,
+    "distanceMeters": 49019.3,
+    "durationMin": 53,
+    "durationSeconds": 3151.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:09.007Z",
+    "expiresAt": "2026-11-20T12:18:09.007Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.193,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "near-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.264253,
+      "lng": 60.069767
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.265138,
+      "lng": 60.071784
+    },
+    "geometryPath": "data/routing/geometry/01-chilpik-chilpyk-dakhma.json"
+  },
+  "02-sulton-uvays-dag-gyaur-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 91.1,
+    "roadDistanceKm": 91.1,
+    "distanceMeters": 91055.4,
+    "durationMin": 73,
+    "durationSeconds": 4392.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:10.202Z",
+    "expiresAt": "2026-11-20T12:18:10.202Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.157,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.080556,
+      "lng": 60.275278
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.081733,
+      "lng": 60.276321
+    },
+    "geometryPath": "data/routing/geometry/02-sulton-uvays-dag-gyaur-qala.json"
+  },
+  "03-jampik-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 97.6,
+    "roadDistanceKm": 97.6,
+    "distanceMeters": 97574.2,
+    "durationMin": 98,
+    "durationSeconds": 5850.9,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:11.440Z",
+    "expiresAt": "2026-11-20T12:18:11.440Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.228,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.026861,
+      "lng": 60.326019
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.026701,
+      "lng": 60.328775
+    },
+    "geometryPath": "data/routing/geometry/03-jampik-qala.json"
+  },
+  "04-qizil-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 126.5,
+    "roadDistanceKm": 126.5,
+    "distanceMeters": 126489.9,
+    "durationMin": 100,
+    "durationSeconds": 5983.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:12.729Z",
+    "expiresAt": "2026-11-20T12:18:12.729Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.047,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.930028,
+      "lng": 60.784111
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.929863,
+      "lng": 60.783583
+    },
+    "geometryPath": "data/routing/geometry/04-qizil-qala.json"
+  },
+  "05-toproq-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 127.2,
+    "roadDistanceKm": 127.2,
+    "distanceMeters": 127209.5,
+    "durationMin": 103,
+    "durationSeconds": 6153.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:13.968Z",
+    "expiresAt": "2026-11-20T12:18:13.968Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.353,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.927139,
+      "lng": 60.822917
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.929492,
+      "lng": 60.820049
+    },
+    "geometryPath": "data/routing/geometry/05-toproq-qala.json"
+  },
+  "06-akshaxon-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 142.5,
+    "roadDistanceKm": 142.5,
+    "distanceMeters": 142532.5,
+    "durationMin": 113,
+    "durationSeconds": 6801.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:15.302Z",
+    "expiresAt": "2026-11-20T12:18:15.302Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.683,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.828889,
+      "lng": 60.716917
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.829882,
+      "lng": 60.708786
+    },
+    "geometryPath": "data/routing/geometry/06-akshaxon-qala.json"
+  },
+  "07-ayaz-qala-i": {
+    "cacheVersion": 2,
+    "distanceKm": 160.4,
+    "roadDistanceKm": 160.4,
+    "distanceMeters": 160427,
+    "durationMin": 147,
+    "durationSeconds": 8820.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:16.634Z",
+    "expiresAt": "2026-11-20T12:18:16.634Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.11,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.014186,
+      "lng": 61.028997
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.014157,
+      "lng": 61.030327
+    },
+    "geometryPath": "data/routing/geometry/07-ayaz-qala-i.json"
+  },
+  "08-ayaz-qala-ii": {
+    "cacheVersion": 2,
+    "distanceKm": 158.9,
+    "roadDistanceKm": 158.9,
+    "distanceMeters": 158938.6,
+    "durationMin": 141,
+    "durationSeconds": 8489.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:17.916Z",
+    "expiresAt": "2026-11-20T12:18:17.916Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.174,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.010836,
+      "lng": 61.027175
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.011375,
+      "lng": 61.025197
+    },
+    "geometryPath": "data/routing/geometry/08-ayaz-qala-ii.json"
+  },
+  "09-ayaz-qala-iii": {
+    "cacheVersion": 2,
+    "distanceKm": 158.5,
+    "roadDistanceKm": 158.5,
+    "distanceMeters": 158460.6,
+    "durationMin": 140,
+    "durationSeconds": 8397.2,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:19.210Z",
+    "expiresAt": "2026-11-20T12:18:19.210Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.207,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.0055,
+      "lng": 61.030556
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.007026,
+      "lng": 61.029128
+    },
+    "geometryPath": "data/routing/geometry/09-ayaz-qala-iii.json"
+  },
+  "10-katta-qirq-qiz-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 169.3,
+    "roadDistanceKm": 169.3,
+    "distanceMeters": 169273,
+    "durationMin": 156,
+    "durationSeconds": 9374.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:20.512Z",
+    "expiresAt": "2026-11-20T12:18:20.512Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.194,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.007831,
+      "lng": 61.157581
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.006104,
+      "lng": 61.157912
+    },
+    "geometryPath": "data/routing/geometry/10-katta-qirq-qiz-qala.json"
+  },
+  "11-kichik-qirq-qiz-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 165.8,
+    "roadDistanceKm": 165.8,
+    "distanceMeters": 165836.1,
+    "durationMin": 162,
+    "durationSeconds": 9727.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:21.804Z",
+    "expiresAt": "2026-11-20T12:18:21.804Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.093,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.018108,
+      "lng": 61.101056
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.017439,
+      "lng": 61.100375
+    },
+    "geometryPath": "data/routing/geometry/11-kichik-qirq-qiz-qala.json"
+  },
+  "12-kurgashin-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 183.9,
+    "roadDistanceKm": 183.9,
+    "distanceMeters": 183859.5,
+    "durationMin": 180,
+    "durationSeconds": 10792.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:23.136Z",
+    "expiresAt": "2026-11-20T12:18:23.136Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.066,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.034167,
+      "lng": 61.321778
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.033837,
+      "lng": 61.321116
+    },
+    "geometryPath": "data/routing/geometry/12-kurgashin-qala.json"
+  },
+  "13-bozor-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 183,
+    "roadDistanceKm": 183,
+    "distanceMeters": 182988.8,
+    "durationMin": 174,
+    "durationSeconds": 10461.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:24.432Z",
+    "expiresAt": "2026-11-20T12:18:24.432Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.276,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.823869,
+      "lng": 61.187269
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.823328,
+      "lng": 61.184018
+    },
+    "geometryPath": "data/routing/geometry/13-bozor-qala.json"
+  },
+  "14-jonbos-qala-djanbas-kala": {
+    "cacheVersion": 2,
+    "distanceKm": 193.1,
+    "roadDistanceKm": 193.1,
+    "distanceMeters": 193095.5,
+    "durationMin": 188,
+    "durationSeconds": 11288.9,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:25.759Z",
+    "expiresAt": "2026-11-20T12:18:25.759Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.126,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.858219,
+      "lng": 61.303608
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.85744,
+      "lng": 61.302497
+    },
+    "geometryPath": "data/routing/geometry/14-jonbos-qala-djanbas-kala.json"
+  },
+  "15-qoyqirilgan-qala-koi-krilgan-kala": {
+    "cacheVersion": 2,
+    "distanceKm": 172.1,
+    "roadDistanceKm": 172.1,
+    "distanceMeters": 172103,
+    "durationMin": 157,
+    "durationSeconds": 9416.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:27.056Z",
+    "expiresAt": "2026-11-20T12:18:27.056Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.104,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.755192,
+      "lng": 61.116969
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.754266,
+      "lng": 61.116779
+    },
+    "geometryPath": "data/routing/geometry/15-qoyqirilgan-qala-koi-krilgan-kala.json"
+  },
+  "16-angka-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 175.4,
+    "roadDistanceKm": 175.4,
+    "distanceMeters": 175382.4,
+    "durationMin": 157,
+    "durationSeconds": 9419.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:28.340Z",
+    "expiresAt": "2026-11-20T12:18:28.340Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.102,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.758667,
+      "lng": 61.151167
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.759222,
+      "lng": 61.150187
+    },
+    "geometryPath": "data/routing/geometry/16-angka-qala.json"
+  },
+  "17-eres-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 190.4,
+    "roadDistanceKm": 190.4,
+    "distanceMeters": 190366.1,
+    "durationMin": 160,
+    "durationSeconds": 9579.9,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:29.639Z",
+    "expiresAt": "2026-11-20T12:18:29.639Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.23,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.667331,
+      "lng": 61.091889
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.665797,
+      "lng": 61.090034
+    },
+    "geometryPath": "data/routing/geometry/17-eres-qala.json"
+  },
+  "18-katta-guldursun": {
+    "cacheVersion": 2,
+    "distanceKm": 158.3,
+    "roadDistanceKm": 158.3,
+    "distanceMeters": 158283.7,
+    "durationMin": 127,
+    "durationSeconds": 7645,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:30.952Z",
+    "expiresAt": "2026-11-20T12:18:30.952Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.153,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.693214,
+      "lng": 60.981156
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.692049,
+      "lng": 60.98017
+    },
+    "geometryPath": "data/routing/geometry/18-katta-guldursun.json"
+  },
+  "19-pil-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 145.9,
+    "roadDistanceKm": 145.9,
+    "distanceMeters": 145880.7,
+    "durationMin": 111,
+    "durationSeconds": 6682.9,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:32.293Z",
+    "expiresAt": "2026-11-20T12:18:32.293Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.005,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.705,
+      "lng": 60.748611
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.705019,
+      "lng": 60.748552
+    },
+    "geometryPath": "data/routing/geometry/19-pil-qala.json"
+  },
+  "20-mizdaxkan-majmuasi": {
+    "cacheVersion": 2,
+    "distanceKm": 22.6,
+    "roadDistanceKm": 22.6,
+    "distanceMeters": 22555.5,
+    "durationMin": 26,
+    "durationSeconds": 1565.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:33.533Z",
+    "expiresAt": "2026-11-20T12:18:33.533Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.373,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.401167,
+      "lng": 59.389333
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.40366,
+      "lng": 59.386302
+    },
+    "geometryPath": "data/routing/geometry/20-mizdaxkan-majmuasi.json"
+  },
+  "21-mazlumxon-sulu-maqbarasi": {
+    "cacheVersion": 2,
+    "distanceKm": 22.5,
+    "roadDistanceKm": 22.5,
+    "distanceMeters": 22514.1,
+    "durationMin": 26,
+    "durationSeconds": 1564,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:34.727Z",
+    "expiresAt": "2026-11-20T12:18:34.727Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.186,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.402669,
+      "lng": 59.388194
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.403909,
+      "lng": 59.386676
+    },
+    "geometryPath": "data/routing/geometry/21-mazlumxon-sulu-maqbarasi.json"
+  },
+  "22-beleuli-karvonsaroyi": {
+    "cacheVersion": 2,
+    "distanceKm": 344.9,
+    "roadDistanceKm": 344.9,
+    "distanceMeters": 344862.4,
+    "durationMin": 562,
+    "durationSeconds": 33699.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:36.055Z",
+    "expiresAt": "2026-11-20T12:18:36.055Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.039,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 44.5039,
+      "lng": 57.1156
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 44.50376,
+      "lng": 57.115152
+    },
+    "geometryPath": "data/routing/geometry/22-beleuli-karvonsaroyi.json"
+  },
+  "23-kurgancha-davletgirey": {
+    "cacheVersion": 2,
+    "distanceKm": 321.4,
+    "roadDistanceKm": 321.4,
+    "distanceMeters": 321437.9,
+    "durationMin": 467,
+    "durationSeconds": 28043.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:37.347Z",
+    "expiresAt": "2026-11-20T12:18:37.347Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.084,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 44.5,
+      "lng": 58.1667
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 44.500752,
+      "lng": 58.166851
+    },
+    "geometryPath": "data/routing/geometry/23-kurgancha-davletgirey.json"
+  },
+  "24-norinjon-bobo": {
+    "cacheVersion": 2,
+    "distanceKm": 159.7,
+    "roadDistanceKm": 159.7,
+    "distanceMeters": 159672.4,
+    "durationMin": 135,
+    "durationSeconds": 8106.2,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:38.635Z",
+    "expiresAt": "2026-11-20T12:18:38.635Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.218,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.753743,
+      "lng": 60.983448
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.755596,
+      "lng": 60.984315
+    },
+    "geometryPath": "data/routing/geometry/24-norinjon-bobo.json"
+  },
+  "25-sulton-uvays-bobo": {
+    "cacheVersion": 2,
+    "distanceKm": 113.7,
+    "roadDistanceKm": 113.7,
+    "distanceMeters": 113671.6,
+    "durationMin": 89,
+    "durationSeconds": 5344.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:39.879Z",
+    "expiresAt": "2026-11-20T12:18:39.879Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.028,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "published-shared-complex-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.010922,
+      "lng": 60.645334
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.010788,
+      "lng": 60.645619
+    },
+    "geometryPath": "data/routing/geometry/25-sulton-uvays-bobo.json"
+  },
+  "26-berkut-qala": {
+    "cacheVersion": 2,
+    "distanceKm": 156.6,
+    "roadDistanceKm": 156.6,
+    "distanceMeters": 156566,
+    "durationMin": 136,
+    "durationSeconds": 8170.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:41.431Z",
+    "expiresAt": "2026-11-20T12:18:41.431Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.116,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.787917,
+      "lng": 61.055056
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.788959,
+      "lng": 61.055195
+    },
+    "geometryPath": "data/routing/geometry/26-berkut-qala.json"
+  },
+  "27-puljay": {
+    "cacheVersion": 2,
+    "distanceKm": 149.6,
+    "roadDistanceKm": 149.6,
+    "distanceMeters": 149592.3,
+    "durationMin": 140,
+    "durationSeconds": 8429.9,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:42.923Z",
+    "expiresAt": "2026-11-20T12:18:42.923Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 1.652,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.177192,
+      "lng": 58.367806
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.16242,
+      "lng": 58.365606
+    },
+    "geometryPath": "data/routing/geometry/27-puljay.json"
+  },
+  "28-imam-iyshan": {
+    "cacheVersion": 2,
+    "distanceKm": 40.9,
+    "roadDistanceKm": 40.9,
+    "distanceMeters": 40928.8,
+    "durationMin": 61,
+    "durationSeconds": 3677.6,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:44.150Z",
+    "expiresAt": "2026-11-20T12:18:44.150Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.106,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.638425,
+      "lng": 59.320294
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.638483,
+      "lng": 59.319001
+    },
+    "geometryPath": "data/routing/geometry/28-imam-iyshan.json"
+  },
+  "29-shorsha-baba-qabristoni": {
+    "cacheVersion": 2,
+    "distanceKm": 4,
+    "roadDistanceKm": 4,
+    "distanceMeters": 4020.9,
+    "durationMin": 6,
+    "durationSeconds": 354.1,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:45.364Z",
+    "expiresAt": "2026-11-20T12:18:45.364Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.007,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.494598,
+      "lng": 59.609568
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.494537,
+      "lng": 59.609598
+    },
+    "geometryPath": "data/routing/geometry/29-shorsha-baba-qabristoni.json"
+  },
+  "30-qusxana-qabristoni": {
+    "cacheVersion": 2,
+    "distanceKm": 12.3,
+    "roadDistanceKm": 12.3,
+    "distanceMeters": 12277.5,
+    "durationMin": 19,
+    "durationSeconds": 1160.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:46.596Z",
+    "expiresAt": "2026-11-20T12:18:46.596Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.362973,
+      "lng": 59.626968
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.362973,
+      "lng": 59.626967
+    },
+    "geometryPath": "data/routing/geometry/30-qusxana-qabristoni.json"
+  },
+  "31-sulton-valiy-ota": {
+    "cacheVersion": 2,
+    "distanceKm": 113.7,
+    "roadDistanceKm": 113.7,
+    "distanceMeters": 113671.6,
+    "durationMin": 89,
+    "durationSeconds": 5344.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:47.811Z",
+    "expiresAt": "2026-11-20T12:18:47.811Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.028,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "published-shared-complex-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.010922,
+      "lng": 60.645334
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.010788,
+      "lng": 60.645619
+    },
+    "geometryPath": "data/routing/geometry/31-sulton-valiy-ota.json"
+  },
+  "32-shayx-abbos-valiy": {
+    "cacheVersion": 2,
+    "distanceKm": 113.6,
+    "roadDistanceKm": 113.6,
+    "distanceMeters": 113599.2,
+    "durationMin": 89,
+    "durationSeconds": 5334.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:49.192Z",
+    "expiresAt": "2026-11-20T12:18:49.192Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.27,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.012168,
+      "lng": 60.642818
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.010364,
+      "lng": 60.645011
+    },
+    "geometryPath": "data/routing/geometry/32-shayx-abbos-valiy.json"
+  },
+  "33-kechirmas-bobo": {
+    "cacheVersion": 2,
+    "distanceKm": 156.8,
+    "roadDistanceKm": 156.8,
+    "distanceMeters": 156840.5,
+    "durationMin": 128,
+    "durationSeconds": 7690.9,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:50.493Z",
+    "expiresAt": "2026-11-20T12:18:50.493Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.026,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.718005,
+      "lng": 60.994346
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.717829,
+      "lng": 60.994134
+    },
+    "geometryPath": "data/routing/geometry/33-kechirmas-bobo.json"
+  },
+  "34-shamun-nabi": {
+    "cacheVersion": 2,
+    "distanceKm": 22.6,
+    "roadDistanceKm": 22.6,
+    "distanceMeters": 22555.5,
+    "durationMin": 26,
+    "durationSeconds": 1565.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:51.701Z",
+    "expiresAt": "2026-11-20T12:18:51.701Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.311,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.401576,
+      "lng": 59.388835
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.40366,
+      "lng": 59.386302
+    },
+    "geometryPath": "data/routing/geometry/34-shamun-nabi.json"
+  },
+  "35-shayx-jalil-bobo": {
+    "cacheVersion": 2,
+    "distanceKm": 70.6,
+    "roadDistanceKm": 70.6,
+    "distanceMeters": 70559.4,
+    "durationMin": 70,
+    "durationSeconds": 4175.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:52.899Z",
+    "expiresAt": "2026-11-20T12:18:52.899Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.029,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.159566,
+      "lng": 60.249484
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.159787,
+      "lng": 60.249674
+    },
+    "geometryPath": "data/routing/geometry/35-shayx-jalil-bobo.json"
+  },
+  "36-eshim-axun": {
+    "cacheVersion": 2,
+    "distanceKm": 90.7,
+    "roadDistanceKm": 90.7,
+    "distanceMeters": 90749.8,
+    "durationMin": 84,
+    "durationSeconds": 5042.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:54.115Z",
+    "expiresAt": "2026-11-20T12:18:54.115Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.227,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.859587,
+      "lng": 58.905592
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.861337,
+      "lng": 58.907024
+    },
+    "geometryPath": "data/routing/geometry/36-eshim-axun.json"
+  },
+  "37-yusuf-eshon-bobo-masjidi": {
+    "cacheVersion": 2,
+    "distanceKm": 71.9,
+    "roadDistanceKm": 71.9,
+    "distanceMeters": 71864.1,
+    "durationMin": 62,
+    "durationSeconds": 3718.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:55.322Z",
+    "expiresAt": "2026-11-20T12:18:55.322Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.061,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "matches-published-point",
+    "targetPointVerified": true,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": false,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.113009,
+      "lng": 60.058938
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.113409,
+      "lng": 60.059446
+    },
+    "geometryPath": "data/routing/geometry/37-yusuf-eshon-bobo-masjidi.json"
+  },
+  "38-orol-dengizi-garbiy-qirgoq": {
+    "cacheVersion": 2,
+    "distanceKm": 328,
+    "roadDistanceKm": 328,
+    "distanceMeters": 327999.7,
+    "durationMin": 957,
+    "durationSeconds": 57418.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:56.611Z",
+    "expiresAt": "2026-11-20T12:18:56.611Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 5.838,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 44.85,
+      "lng": 58.9
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 44.860515,
+      "lng": 58.97256
+    },
+    "geometryPath": "data/routing/geometry/38-orol-dengizi-garbiy-qirgoq.json"
+  },
+  "39-aralkum-milliy-tabiat-bogi": {
+    "cacheVersion": 2,
+    "distanceKm": 197,
+    "roadDistanceKm": 197,
+    "distanceMeters": 196994,
+    "durationMin": 383,
+    "durationSeconds": 22972.1,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:57.919Z",
+    "expiresAt": "2026-11-20T12:18:57.919Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 20.53,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.85,
+      "lng": 59.5
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.801239,
+      "lng": 59.253173
+    },
+    "geometryPath": "data/routing/geometry/39-aralkum-milliy-tabiat-bogi.json"
+  },
+  "40-moynoq-kema-qabristoni": {
+    "cacheVersion": 2,
+    "distanceKm": 199.6,
+    "roadDistanceKm": 199.6,
+    "distanceMeters": 199619.9,
+    "durationMin": 195,
+    "durationSeconds": 11686.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:18:59.216Z",
+    "expiresAt": "2026-11-20T12:18:59.216Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.119,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.790139,
+      "lng": 59.033972
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.79032,
+      "lng": 59.032513
+    },
+    "geometryPath": "data/routing/geometry/40-moynoq-kema-qabristoni.json"
+  },
+  "41-ustyurt-platosi-ekspeditsiya-markazi": {
+    "cacheVersion": 2,
+    "distanceKm": 276.3,
+    "roadDistanceKm": 276.3,
+    "distanceMeters": 276273.4,
+    "durationMin": 276,
+    "durationSeconds": 16566.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:00.563Z",
+    "expiresAt": "2026-11-20T12:19:00.563Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.216,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 44,
+      "lng": 57.5
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.998161,
+      "lng": 57.500876
+    },
+    "geometryPath": "data/routing/geometry/41-ustyurt-platosi-ekspeditsiya-markazi.json"
+  },
+  "42-ustyurt-chinklari-va-kanyonlari": {
+    "cacheVersion": 2,
+    "distanceKm": 414.9,
+    "roadDistanceKm": 414.9,
+    "distanceMeters": 414886.3,
+    "durationMin": 1028,
+    "durationSeconds": 61687.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:01.898Z",
+    "expiresAt": "2026-11-20T12:19:01.898Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 1.343,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 45.300476,
+      "lng": 58.39856
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 45.307029,
+      "lng": 58.38414
+    },
+    "geometryPath": "data/routing/geometry/42-ustyurt-chinklari-va-kanyonlari.json"
+  },
+  "43-aktumsik-burni": {
+    "cacheVersion": 2,
+    "distanceKm": 394.2,
+    "roadDistanceKm": 394.2,
+    "distanceMeters": 394207,
+    "durationMin": 904,
+    "durationSeconds": 54245.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:03.245Z",
+    "expiresAt": "2026-11-20T12:19:03.245Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.038,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 45.10184,
+      "lng": 58.32894
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 45.102181,
+      "lng": 58.328986
+    },
+    "geometryPath": "data/routing/geometry/43-aktumsik-burni.json"
+  },
+  "44-barsakelmes-shorxogi": {
+    "cacheVersion": 2,
+    "distanceKm": 218.4,
+    "roadDistanceKm": 218.4,
+    "distanceMeters": 218449,
+    "durationMin": 429,
+    "durationSeconds": 25717.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:04.557Z",
+    "expiresAt": "2026-11-20T12:19:04.557Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 11.332,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.25,
+      "lng": 57.666667
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.160952,
+      "lng": 57.598672
+    },
+    "geometryPath": "data/routing/geometry/44-barsakelmes-shorxogi.json"
+  },
+  "45-sudochye-kollar-tizimi": {
+    "cacheVersion": 2,
+    "distanceKm": 209.6,
+    "roadDistanceKm": 209.6,
+    "distanceMeters": 209597.9,
+    "durationMin": 385,
+    "durationSeconds": 23118,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:05.857Z",
+    "expiresAt": "2026-11-20T12:19:05.857Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 5.148,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.4828,
+      "lng": 58.5203
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.518481,
+      "lng": 58.560969
+    },
+    "geometryPath": "data/routing/geometry/45-sudochye-kollar-tizimi.json"
+  },
+  "46-sudochye-akpetki-davlat-buyurtmaxonasi": {
+    "cacheVersion": 2,
+    "distanceKm": 202.2,
+    "roadDistanceKm": 202.2,
+    "distanceMeters": 202207.1,
+    "durationMin": 341,
+    "durationSeconds": 20466.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:07.162Z",
+    "expiresAt": "2026-11-20T12:19:07.162Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.18,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.489794,
+      "lng": 58.688965
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.488514,
+      "lng": 58.690327
+    },
+    "geometryPath": "data/routing/geometry/46-sudochye-akpetki-davlat-buyurtmaxonasi.json"
+  },
+  "47-jiltirbas-zhyltyrbas-koli": {
+    "cacheVersion": 2,
+    "distanceKm": 127.5,
+    "roadDistanceKm": 127.5,
+    "distanceMeters": 127496.3,
+    "durationMin": 173,
+    "durationSeconds": 10390.2,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:08.467Z",
+    "expiresAt": "2026-11-20T12:19:08.467Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 11.071,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.546514,
+      "lng": 59.807002
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.456116,
+      "lng": 59.749481
+    },
+    "geometryPath": "data/routing/geometry/47-jiltirbas-zhyltyrbas-koli.json"
+  },
+  "48-quyi-amudaryo-davlat-biosfera-rezervati": {
+    "cacheVersion": 2,
+    "distanceKm": 93.5,
+    "roadDistanceKm": 93.5,
+    "distanceMeters": 93523.9,
+    "durationMin": 76,
+    "durationSeconds": 4589.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:09.707Z",
+    "expiresAt": "2026-11-20T12:19:09.707Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.231,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.08,
+      "lng": 60.2547
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.077943,
+      "lng": 60.255104
+    },
+    "geometryPath": "data/routing/geometry/48-quyi-amudaryo-davlat-biosfera-rezervati.json"
+  },
+  "49-saigachiy-qoriqlanadigan-landshafti": {
+    "cacheVersion": 2,
+    "distanceKm": 438.1,
+    "roadDistanceKm": 438.1,
+    "distanceMeters": 438126.5,
+    "durationMin": 1168,
+    "durationSeconds": 70060.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:11.009Z",
+    "expiresAt": "2026-11-20T12:19:11.009Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 4.036,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 45.150556,
+      "lng": 57.729167
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 45.114541,
+      "lng": 57.735558
+    },
+    "geometryPath": "data/routing/geometry/49-saigachiy-qoriqlanadigan-landshafti.json"
+  },
+  "50-janubiy-ustyurt-milliy-tabiat-bogi": {
+    "cacheVersion": 2,
+    "distanceKm": 281,
+    "roadDistanceKm": 281,
+    "distanceMeters": 281031.1,
+    "durationMin": 804,
+    "durationSeconds": 48256.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:12.315Z",
+    "expiresAt": "2026-11-20T12:19:12.315Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 67.527,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": true,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.081389,
+      "lng": 56.664722
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.362666,
+      "lng": 57.391505
+    },
+    "geometryPath": "data/routing/geometry/50-janubiy-ustyurt-milliy-tabiat-bogi.json"
+  },
+  "51-qizilqum-choli-qoraqalpogiston-qismi": {
+    "cacheVersion": 2,
+    "distanceKm": 189.5,
+    "roadDistanceKm": 189.5,
+    "distanceMeters": 189462.9,
+    "durationMin": 189,
+    "durationSeconds": 11367.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:13.627Z",
+    "expiresAt": "2026-11-20T12:19:13.627Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 2.379,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 41.95,
+      "lng": 61.4
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 41.950067,
+      "lng": 61.371228
+    },
+    "geometryPath": "data/routing/geometry/51-qizilqum-choli-qoraqalpogiston-qismi.json"
+  },
+  "52-amudaryo-deltasi": {
+    "cacheVersion": 2,
+    "distanceKm": 133.5,
+    "roadDistanceKm": 133.5,
+    "distanceMeters": 133488.1,
+    "durationMin": 171,
+    "durationSeconds": 10241.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:14.944Z",
+    "expiresAt": "2026-11-20T12:19:14.944Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 2.238,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.2,
+      "lng": 59.2
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.21589,
+      "lng": 59.183057
+    },
+    "geometryPath": "data/routing/geometry/52-amudaryo-deltasi.json"
+  },
+  "53-ayazkol": {
+    "cacheVersion": 2,
+    "distanceKm": 163.1,
+    "roadDistanceKm": 163.1,
+    "distanceMeters": 163052.5,
+    "durationMin": 147,
+    "durationSeconds": 8810.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:16.246Z",
+    "expiresAt": "2026-11-20T12:19:16.246Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 3.399,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.0568,
+      "lng": 61.06678
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.026611,
+      "lng": 61.073272
+    },
+    "geometryPath": "data/routing/geometry/53-ayazkol.json"
+  },
+  "54-i-v-savitskiy-nomidagi-qoraqalpogiston-davlat-sanat-muzeyi": {
+    "cacheVersion": 2,
+    "distanceKm": 0.8,
+    "roadDistanceKm": 0.8,
+    "distanceMeters": 807.1,
+    "durationMin": 2,
+    "durationSeconds": 99.5,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:17.807Z",
+    "expiresAt": "2026-11-20T12:19:17.807Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.091,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.46545,
+      "lng": 59.61301
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.464647,
+      "lng": 59.613217
+    },
+    "geometryPath": "data/routing/geometry/54-i-v-savitskiy-nomidagi-qoraqalpogiston-davlat-sanat-muzeyi.json"
+  },
+  "55-qoraqalpogiston-respublikasi-tarixi-va-madaniyati-davlat-muzeyi": {
+    "cacheVersion": 2,
+    "distanceKm": 0.8,
+    "roadDistanceKm": 0.8,
+    "distanceMeters": 842.6,
+    "durationMin": 1,
+    "durationSeconds": 87.2,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:19.075Z",
+    "expiresAt": "2026-11-20T12:19:19.075Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.042,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.46227,
+      "lng": 59.61113
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.462641,
+      "lng": 59.611029
+    },
+    "geometryPath": "data/routing/geometry/55-qoraqalpogiston-respublikasi-tarixi-va-madaniyati-davlat-muzeyi.json"
+  },
+  "56-shamuratovlar-oilasi-uy-muzeyi": {
+    "cacheVersion": 2,
+    "distanceKm": 1.2,
+    "roadDistanceKm": 1.2,
+    "distanceMeters": 1236.5,
+    "durationMin": 2,
+    "durationSeconds": 122.8,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:20.340Z",
+    "expiresAt": "2026-11-20T12:19:20.340Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.003,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.467463,
+      "lng": 59.611269
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.467469,
+      "lng": 59.611308
+    },
+    "geometryPath": "data/routing/geometry/56-shamuratovlar-oilasi-uy-muzeyi.json"
+  },
+  "57-berdaq-milliy-muzeyi": {
+    "cacheVersion": 2,
+    "distanceKm": 1.8,
+    "roadDistanceKm": 1.8,
+    "distanceMeters": 1780.2,
+    "durationMin": 3,
+    "durationSeconds": 199,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:21.556Z",
+    "expiresAt": "2026-11-20T12:19:21.556Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.043,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.45165,
+      "lng": 59.62526
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.451933,
+      "lng": 59.625618
+    },
+    "geometryPath": "data/routing/geometry/57-berdaq-milliy-muzeyi.json"
+  },
+  "58-moynoq-ochiq-osmon-ostidagi-kemalar-qabristoni-muzeyi": {
+    "cacheVersion": 2,
+    "distanceKm": 199.6,
+    "roadDistanceKm": 199.6,
+    "distanceMeters": 199619.9,
+    "durationMin": 195,
+    "durationSeconds": 11686.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:22.975Z",
+    "expiresAt": "2026-11-20T12:19:22.975Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.119,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "point-needs-independent-verification",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.790139,
+      "lng": 59.033972
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.79032,
+      "lng": 59.032513
+    },
+    "geometryPath": "data/routing/geometry/58-moynoq-ochiq-osmon-ostidagi-kemalar-qabristoni-muzeyi.json"
+  },
+  "59-moynoq-ekologiya-muzeyi": {
+    "cacheVersion": 2,
+    "distanceKm": 197.2,
+    "roadDistanceKm": 197.2,
+    "distanceMeters": 197184.6,
+    "durationMin": 192,
+    "durationSeconds": 11538.7,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:24.324Z",
+    "expiresAt": "2026-11-20T12:19:24.324Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.073,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "museum-location-review-required",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.76633,
+      "lng": 59.02871
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.765677,
+      "lng": 59.02878
+    },
+    "geometryPath": "data/routing/geometry/59-moynoq-ekologiya-muzeyi.json"
+  },
+  "60-azatbay-otarbayev-musiqa-ustaxonasi": {
+    "cacheVersion": 2,
+    "distanceKm": 0.4,
+    "roadDistanceKm": 0.4,
+    "distanceMeters": 364.8,
+    "durationMin": 1,
+    "durationSeconds": 57.3,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:25.553Z",
+    "expiresAt": "2026-11-20T12:19:25.553Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.017,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.461,
+      "lng": 59.615
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.461154,
+      "lng": 59.614959
+    },
+    "geometryPath": "data/routing/geometry/60-azatbay-otarbayev-musiqa-ustaxonasi.json"
+  },
+  "61-orol-dengizi-tarixi-muzeyi": {
+    "cacheVersion": 2,
+    "distanceKm": 199.5,
+    "roadDistanceKm": 199.5,
+    "distanceMeters": 199462.2,
+    "durationMin": 194,
+    "durationSeconds": 11650.1,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:26.894Z",
+    "expiresAt": "2026-11-20T12:19:26.894Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.048,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "exact",
+    "coordinateVerificationStatus": "museum-location-review-required",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.78964,
+      "lng": 59.03242
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.789564,
+      "lng": 59.031829
+    },
+    "geometryPath": "data/routing/geometry/61-orol-dengizi-tarixi-muzeyi.json"
+  },
+  "62-adil-tazhimuratov-zargarlik-ustaxonasi": {
+    "cacheVersion": 2,
+    "distanceKm": 59.2,
+    "roadDistanceKm": 59.2,
+    "distanceMeters": 59150.9,
+    "durationMin": 63,
+    "durationSeconds": 3753.9,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:28.105Z",
+    "expiresAt": "2026-11-20T12:19:28.105Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.099,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 42.9425,
+      "lng": 59.771
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 42.94338,
+      "lng": 59.770792
+    },
+    "geometryPath": "data/routing/geometry/62-adil-tazhimuratov-zargarlik-ustaxonasi.json"
+  },
+  "63-qorateran-ekoturizm-kompleksi": {
+    "cacheVersion": 2,
+    "distanceKm": 139.9,
+    "roadDistanceKm": 139.9,
+    "distanceMeters": 139881.6,
+    "durationMin": 205,
+    "durationSeconds": 12327,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:29.428Z",
+    "expiresAt": "2026-11-20T12:19:29.428Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 0.059,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": false,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.317633,
+      "lng": 60.3757
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.317388,
+      "lng": 60.375055
+    },
+    "geometryPath": "data/routing/geometry/63-qorateran-ekoturizm-kompleksi.json"
+  },
+  "64-tax-tepa-etno-qishlogi": {
+    "cacheVersion": 2,
+    "distanceKm": 128.5,
+    "roadDistanceKm": 128.5,
+    "distanceMeters": 128538.1,
+    "durationMin": 140,
+    "durationSeconds": 8427.4,
+    "durationIsEstimate": true,
+    "expeditionDurationMin": null,
+    "routeType": "road",
+    "source": "OSRM / OpenStreetMap",
+    "routeSelection": "provider-recommended-fastest-driving",
+    "providerUrl": "https://router.project-osrm.org/route/v1/driving",
+    "providerDataVersion": null,
+    "fetchedAt": "2026-10-21T12:19:30.729Z",
+    "expiresAt": "2026-11-20T12:19:30.729Z",
+    "isStraightLine": false,
+    "approachDistanceKm": 2.46,
+    "originApproachDistanceKm": 0.001,
+    "isPartial": true,
+    "coordinateType": "representative",
+    "coordinateVerificationStatus": "representative-point-unverified",
+    "targetPointVerified": false,
+    "entranceVerified": false,
+    "accessVerified": false,
+    "requiresFourByFour": false,
+    "isApproximate": true,
+    "originCoordinates": {
+      "lat": 42.4602,
+      "lng": 59.6166
+    },
+    "targetCoordinates": {
+      "lat": 43.1775,
+      "lng": 60.466667
+    },
+    "routeStartCoordinates": {
+      "lat": 42.460187,
+      "lng": 59.616603
+    },
+    "routeEndCoordinates": {
+      "lat": 43.155378,
+      "lng": 60.466691
+    },
+    "geometryPath": "data/routing/geometry/64-tax-tepa-etno-qishlogi.json"
+  }
+}

@@ -1,0 +1,2148 @@
+{
+  "schemaVersion": 1,
+  "auditedOn": "2026-10-10",
+  "scope": "Independent published-point audit of the 64 active destinations; active coordinates and route geometries are not modified.",
+  "precisionPolicy": "Coordinates may describe a landmark or area. Digits in a source do not establish positional accuracy, an entrance, vehicle access, or safe final-approach navigation.",
+  "matchingPolicy": "Explicit identities were matched to 13 official pilgrimage-registry rows, 16 UNESCO serial-nomination components and the separate Chilpik nomination; unmatched exact claims remain unverified.",
+  "summary": {
+    "total": 64,
+    "publishedPointSupported": 30,
+    "needsIndependentPointVerification": 12,
+    "representativePoints": 22,
+    "definiteCoordinateConflicts": 0,
+    "maxSupportedDifferenceMeters": 31.012
+  },
+  "additionalRegistryLocations": [
+    {
+      "name": "Hakim ota (Sulaymon Boqirg‘oniy)",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "reference": "row 16",
+      "coordinates": {
+        "lat": 43.29797,
+        "lng": 58.93857
+      },
+      "status": "published-point-not-in-active-catalogue"
+    }
+  ],
+  "records": [
+    {
+      "destinationId": "01-chilpik-chilpyk-dakhma",
+      "name": "Chilpik (Chilpyk Dakhma)",
+      "datasetCoordinates": {
+        "lat": 42.264253,
+        "lng": 60.069767
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "near-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6902/",
+      "sourceCoordinates": {
+        "lat": 42.2640083333,
+        "lng": 60.0695861111
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 31.012,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "The existing pin is near the separately published Chilpik nomination point. No large longitude conflict is established; an entrance point is not certified."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6902/",
+          "reference": "Tentative List 6902",
+          "matchedName": "Chilpik the Tower of Silence",
+          "coordinates": {
+            "lat": 42.2640083333,
+            "lng": 60.0695861111
+          },
+          "latitudeDms": [
+            42,
+            15,
+            50.43
+          ],
+          "longitudeDms": [
+            60,
+            4,
+            10.51
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "02-sulton-uvays-dag-gyaur-qala",
+      "name": "Sulton Uvays Dag Gyaur-qal’a",
+      "datasetCoordinates": {
+        "lat": 42.080556,
+        "lng": 60.275278
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "03-jampik-qala",
+      "name": "Jampik-qal’a",
+      "datasetCoordinates": {
+        "lat": 42.026861,
+        "lng": 60.326019
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 42.0268611111,
+        "lng": 60.3260194444
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.039,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-11",
+          "matchedName": "Jampik-kala",
+          "coordinates": {
+            "lat": 42.0268611111,
+            "lng": 60.3260194444
+          },
+          "latitudeDms": [
+            42,
+            1,
+            36.7
+          ],
+          "longitudeDms": [
+            60,
+            19,
+            33.67
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "04-qizil-qala",
+      "name": "Qizil-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.930028,
+        "lng": 60.784111
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "05-toproq-qala",
+      "name": "Toproq-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.927139,
+        "lng": 60.822917
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.9271388889,
+        "lng": 60.8229166667
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.03,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-06",
+          "matchedName": "Toprak-kala",
+          "coordinates": {
+            "lat": 41.9271388889,
+            "lng": 60.8229166667
+          },
+          "latitudeDms": [
+            41,
+            55,
+            37.7
+          ],
+          "longitudeDms": [
+            60,
+            49,
+            22.5
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "06-akshaxon-qala",
+      "name": "Akshaxon-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.828889,
+        "lng": 60.716917
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.8288888889,
+        "lng": 60.7169166667
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.03,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-01",
+          "matchedName": "Akshakhan-kala",
+          "coordinates": {
+            "lat": 41.8288888889,
+            "lng": 60.7169166667
+          },
+          "latitudeDms": [
+            41,
+            49,
+            44
+          ],
+          "longitudeDms": [
+            60,
+            43,
+            0.9
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "07-ayaz-qala-i",
+      "name": "Ayaz-qal’a I",
+      "datasetCoordinates": {
+        "lat": 42.014186,
+        "lng": 61.028997
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 42.0141861111,
+        "lng": 61.0289972222
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.022,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-02",
+          "matchedName": "Ayaz-kala 1",
+          "coordinates": {
+            "lat": 42.0141861111,
+            "lng": 61.0289972222
+          },
+          "latitudeDms": [
+            42,
+            0,
+            51.07
+          ],
+          "longitudeDms": [
+            61,
+            1,
+            44.39
+          ],
+          "evidenceType": "published-point"
+        }
+      ],
+      "administrativeReview": {
+        "datasetDistrict": "ellikqala",
+        "sourceDistrict": "beruniy",
+        "status": "source-label-disagreement-not-resolved"
+      }
+    },
+    {
+      "destinationId": "08-ayaz-qala-ii",
+      "name": "Ayaz-qal’a II",
+      "datasetCoordinates": {
+        "lat": 42.010836,
+        "lng": 61.027175
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 42.0108361111,
+        "lng": 61.027175
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.012,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-03",
+          "matchedName": "Ayaz-kala 2",
+          "coordinates": {
+            "lat": 42.0108361111,
+            "lng": 61.027175
+          },
+          "latitudeDms": [
+            42,
+            0,
+            39.01
+          ],
+          "longitudeDms": [
+            61,
+            1,
+            37.83
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "09-ayaz-qala-iii",
+      "name": "Ayaz-qal’a III",
+      "datasetCoordinates": {
+        "lat": 42.0055,
+        "lng": 61.030556
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 42.0055,
+        "lng": 61.0305555556
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.037,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-04",
+          "matchedName": "Ayaz-kala 3",
+          "coordinates": {
+            "lat": 42.0055,
+            "lng": 61.0305555556
+          },
+          "latitudeDms": [
+            42,
+            0,
+            19.8
+          ],
+          "longitudeDms": [
+            61,
+            1,
+            50
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "10-katta-qirq-qiz-qala",
+      "name": "Katta Qirq Qiz qal’a",
+      "datasetCoordinates": {
+        "lat": 42.007831,
+        "lng": 61.157581
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 42.0078305556,
+        "lng": 61.1575805556
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.062,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-07",
+          "matchedName": "Great Kirkkiz-kala",
+          "coordinates": {
+            "lat": 42.0078305556,
+            "lng": 61.1575805556
+          },
+          "latitudeDms": [
+            42,
+            0,
+            28.19
+          ],
+          "longitudeDms": [
+            61,
+            9,
+            27.29
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "11-kichik-qirq-qiz-qala",
+      "name": "Kichik Qirq Qiz qal’a",
+      "datasetCoordinates": {
+        "lat": 42.018108,
+        "lng": 61.101056
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 42.0181083333,
+        "lng": 61.1010555556
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.052,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-08",
+          "matchedName": "Small Kirkkiz-kala",
+          "coordinates": {
+            "lat": 42.0181083333,
+            "lng": 61.1010555556
+          },
+          "latitudeDms": [
+            42,
+            1,
+            5.19
+          ],
+          "longitudeDms": [
+            61,
+            6,
+            3.8
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "12-kurgashin-qala",
+      "name": "Kurgashin-qal’a",
+      "datasetCoordinates": {
+        "lat": 42.034167,
+        "lng": 61.321778
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 42.0341666667,
+        "lng": 61.3217777778
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.041,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-09",
+          "matchedName": "Kurgashin-kala",
+          "coordinates": {
+            "lat": 42.0341666667,
+            "lng": 61.3217777778
+          },
+          "latitudeDms": [
+            42,
+            2,
+            3
+          ],
+          "longitudeDms": [
+            61,
+            19,
+            18.4
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "13-bozor-qala",
+      "name": "Bozor-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.823869,
+        "lng": 61.187269
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.8238694444,
+        "lng": 61.1872694444
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.062,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-14",
+          "matchedName": "Bazar-kala",
+          "coordinates": {
+            "lat": 41.8238694444,
+            "lng": 61.1872694444
+          },
+          "latitudeDms": [
+            41,
+            49,
+            25.93
+          ],
+          "longitudeDms": [
+            61,
+            11,
+            14.17
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "14-jonbos-qala-djanbas-kala",
+      "name": "Jonbos-qal’a (Djanbas-kala)",
+      "datasetCoordinates": {
+        "lat": 41.858219,
+        "lng": 61.303608
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.8582194444,
+        "lng": 61.3036083333
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.057,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-12",
+          "matchedName": "Jambas-kala",
+          "coordinates": {
+            "lat": 41.8582194444,
+            "lng": 61.3036083333
+          },
+          "latitudeDms": [
+            41,
+            51,
+            29.59
+          ],
+          "longitudeDms": [
+            61,
+            18,
+            12.99
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "15-qoyqirilgan-qala-koi-krilgan-kala",
+      "name": "Qo‘yqirilgan-qal’a (Koi-Krilgan-kala)",
+      "datasetCoordinates": {
+        "lat": 41.755192,
+        "lng": 61.116969
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.7551916667,
+        "lng": 61.1169694444
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.052,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-13",
+          "matchedName": "Koykrilgan-kala",
+          "coordinates": {
+            "lat": 41.7551916667,
+            "lng": 61.1169694444
+          },
+          "latitudeDms": [
+            41,
+            45,
+            18.69
+          ],
+          "longitudeDms": [
+            61,
+            7,
+            1.09
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "16-angka-qala",
+      "name": "Angka-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.758667,
+        "lng": 61.151167
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.7586666667,
+        "lng": 61.1511666667
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.046,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-16",
+          "matchedName": "Angka-kala",
+          "coordinates": {
+            "lat": 41.7586666667,
+            "lng": 61.1511666667
+          },
+          "latitudeDms": [
+            41,
+            45,
+            31.2
+          ],
+          "longitudeDms": [
+            61,
+            9,
+            4.2
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "17-eres-qala",
+      "name": "Eres-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.667331,
+        "lng": 61.091889
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.6673305556,
+        "lng": 61.0918888889
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.05,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-15",
+          "matchedName": "Eres-kala 1",
+          "coordinates": {
+            "lat": 41.6673305556,
+            "lng": 61.0918888889
+          },
+          "latitudeDms": [
+            41,
+            40,
+            2.39
+          ],
+          "longitudeDms": [
+            61,
+            5,
+            30.8
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "18-katta-guldursun",
+      "name": "Katta Guldursun",
+      "datasetCoordinates": {
+        "lat": 41.693214,
+        "lng": 60.981156
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/5311/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "19-pil-qala",
+      "name": "Pil-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.705,
+        "lng": 60.748611
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/5311/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "20-mizdaxkan-majmuasi",
+      "name": "Mizdaxkan majmuasi",
+      "datasetCoordinates": {
+        "lat": 42.401167,
+        "lng": 59.389333
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "21-mazlumxon-sulu-maqbarasi",
+      "name": "Mazlumxon Sulu maqbarasi",
+      "datasetCoordinates": {
+        "lat": 42.402669,
+        "lng": 59.388194
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.402669,
+        "lng": 59.388194
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 12",
+          "matchedName": "Mazlumxon Sulu",
+          "coordinates": {
+            "lat": 42.402669,
+            "lng": 59.388194
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "22-beleuli-karvonsaroyi",
+      "name": "Beleuli karvonsaroyi",
+      "datasetCoordinates": {
+        "lat": 44.5039,
+        "lng": 57.1156
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "23-kurgancha-davletgirey",
+      "name": "Kurgancha (Davletgirey)",
+      "datasetCoordinates": {
+        "lat": 44.5,
+        "lng": 58.1667
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "24-norinjon-bobo",
+      "name": "Norinjon Bobo",
+      "datasetCoordinates": {
+        "lat": 41.753743,
+        "lng": 60.983448
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 41.753743,
+        "lng": 60.983448
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 8",
+          "matchedName": "Norinjon bobo",
+          "coordinates": {
+            "lat": 41.753743,
+            "lng": 60.983448
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "25-sulton-uvays-bobo",
+      "name": "Sulton Uvays Bobo",
+      "datasetCoordinates": {
+        "lat": 42.010922,
+        "lng": 60.645334
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "published-shared-complex-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.010922,
+        "lng": 60.645334
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee.",
+        "The registry gives identical coordinates to two distinct mausoleums. The individual building and entrance are not distinguished by this point."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 3",
+          "matchedName": "Sulton Uvays bobo",
+          "coordinates": {
+            "lat": 42.010922,
+            "lng": 60.645334
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "26-berkut-qala",
+      "name": "Berkut-qal’a",
+      "datasetCoordinates": {
+        "lat": 41.787917,
+        "lng": 61.055056
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 41.7879166667,
+        "lng": 61.0550555556
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.052,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-05",
+          "matchedName": "Berkut-kala",
+          "coordinates": {
+            "lat": 41.7879166667,
+            "lng": 61.0550555556
+          },
+          "latitudeDms": [
+            41,
+            47,
+            16.5
+          ],
+          "longitudeDms": [
+            61,
+            3,
+            18.2
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "27-puljay",
+      "name": "Puljay",
+      "datasetCoordinates": {
+        "lat": 43.177192,
+        "lng": 58.367806
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6903/",
+      "sourceCoordinates": {
+        "lat": 43.1771916667,
+        "lng": 58.3678055556
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "degrees-minutes-seconds",
+        "secondsDecimalPlaces": 2,
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.052,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Matched by component name. UNESCO publishes the national nomination's point; an entrance or the complete final approach is not established."
+      ],
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6903/",
+          "reference": "UZ-17",
+          "matchedName": "Puljay",
+          "coordinates": {
+            "lat": 43.1771916667,
+            "lng": 58.3678055556
+          },
+          "latitudeDms": [
+            43,
+            10,
+            37.89
+          ],
+          "longitudeDms": [
+            58,
+            22,
+            4.1
+          ],
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "28-imam-iyshan",
+      "name": "Imam Iyshan",
+      "datasetCoordinates": {
+        "lat": 42.638425,
+        "lng": 59.320294
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.638425,
+        "lng": 59.320294
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee.",
+        "This is the rural mausoleum in Aqterek/Qrantau, not the similarly named central Nukus mosque."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 2",
+          "matchedName": "Imam Iyshan",
+          "coordinates": {
+            "lat": 42.638425,
+            "lng": 59.320294
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "29-shorsha-baba-qabristoni",
+      "name": "Shorsha Baba qabristoni",
+      "datasetCoordinates": {
+        "lat": 42.494598,
+        "lng": 59.609568
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.494598060434754,
+        "lng": 59.609567567147074
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.036,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 29",
+          "matchedName": "Shorsha baba",
+          "coordinates": {
+            "lat": 42.494598060434754,
+            "lng": 59.609567567147074
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "30-qusxana-qabristoni",
+      "name": "Qusxana qabristoni",
+      "datasetCoordinates": {
+        "lat": 42.362973,
+        "lng": 59.626968
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.362972941487676,
+        "lng": 59.62696761094265
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0.033,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 30",
+          "matchedName": "Qusxana",
+          "coordinates": {
+            "lat": 42.362972941487676,
+            "lng": 59.62696761094265
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "31-sulton-valiy-ota",
+      "name": "Sulton Valiy Ota",
+      "datasetCoordinates": {
+        "lat": 42.010922,
+        "lng": 60.645334
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "published-shared-complex-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.010922,
+        "lng": 60.645334
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee.",
+        "The registry gives identical coordinates to two distinct mausoleums. The individual building and entrance are not distinguished by this point."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 6",
+          "matchedName": "Sulton Valiy ota",
+          "coordinates": {
+            "lat": 42.010922,
+            "lng": 60.645334
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "32-shayx-abbos-valiy",
+      "name": "Shayx Abbos Valiy",
+      "datasetCoordinates": {
+        "lat": 42.012168,
+        "lng": 60.642818
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.012168,
+        "lng": 60.642818
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee.",
+        "The registry also assigns this point to Shinar bobo, which is not a separate destination in the current catalogue; precise building identity still needs a local check."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 7",
+          "matchedName": "Shayx Abbos Valiy",
+          "coordinates": {
+            "lat": 42.012168,
+            "lng": 60.642818
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "33-kechirmas-bobo",
+      "name": "Kechirmas Bobo",
+      "datasetCoordinates": {
+        "lat": 41.718005,
+        "lng": 60.994346
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 41.718005,
+        "lng": 60.994346
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 4",
+          "matchedName": "Kechirmas bobo",
+          "coordinates": {
+            "lat": 41.718005,
+            "lng": 60.994346
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "34-shamun-nabi",
+      "name": "Shamun Nabi",
+      "datasetCoordinates": {
+        "lat": 42.401576,
+        "lng": 59.388835
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.401576,
+        "lng": 59.388835
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 13",
+          "matchedName": "Shamun Nabiy",
+          "coordinates": {
+            "lat": 42.401576,
+            "lng": 59.388835
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "35-shayx-jalil-bobo",
+      "name": "Shayx Jalil Bobo",
+      "datasetCoordinates": {
+        "lat": 42.159566,
+        "lng": 60.249484
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.159566,
+        "lng": 60.249484
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 21",
+          "matchedName": "Shayx Jalil bobo",
+          "coordinates": {
+            "lat": 42.159566,
+            "lng": 60.249484
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "36-eshim-axun",
+      "name": "Eshim Axun",
+      "datasetCoordinates": {
+        "lat": 42.859587,
+        "lng": 58.905592
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.859587,
+        "lng": 58.905592
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 37",
+          "matchedName": "Eshim axun",
+          "coordinates": {
+            "lat": 42.859587,
+            "lng": 58.905592
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "37-yusuf-eshon-bobo-masjidi",
+      "name": "Yusuf Eshon Bobo masjidi",
+      "datasetCoordinates": {
+        "lat": 42.113009,
+        "lng": 60.058938
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "matches-published-point",
+      "sourceUrl": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+      "sourceCoordinates": {
+        "lat": 42.113009,
+        "lng": 60.058938
+      },
+      "sourceCoordinatePrecision": {
+        "notation": "decimal-degrees-as-published",
+        "accuracyMeters": null
+      },
+      "differenceMeters": 0,
+      "pointPublicationVerified": true,
+      "entranceVerified": false,
+      "notes": [
+        "Name and coordinates match the official tourism registry. Publication precision is not an entrance survey or an accuracy guarantee.",
+        "This is the Mangit mosque; the registry's separate Yusuf iyshan cemetery in Khojeyli has a different point."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+          "reference": "row 33",
+          "matchedName": "Yusuf Eshon Bobo",
+          "coordinates": {
+            "lat": 42.113009,
+            "lng": 60.058938
+          },
+          "evidenceType": "published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "38-orol-dengizi-garbiy-qirgoq",
+      "name": "Orol dengizi (G'arbiy qirg'oq)",
+      "datasetCoordinates": {
+        "lat": 44.85,
+        "lng": 58.9
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "39-aralkum-milliy-tabiat-bogi",
+      "name": "Aralkum milliy tabiat bog‘i",
+      "datasetCoordinates": {
+        "lat": 43.85,
+        "lng": 59.5
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "40-moynoq-kema-qabristoni",
+      "name": "Mo‘ynoq kema qabristoni",
+      "datasetCoordinates": {
+        "lat": 43.790139,
+        "lng": 59.033972
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected.",
+        "The UNESCO/State Tourism project supports site identity but the page inspected supplies no independent point coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://karakalpakstan.travel/museums-and-exhibitions/ship-graveyard/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "41-ustyurt-platosi-ekspeditsiya-markazi",
+      "name": "Ustyurt platosi",
+      "datasetCoordinates": {
+        "lat": 44,
+        "lng": 57.5
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "42-ustyurt-chinklari-va-kanyonlari",
+      "name": "Ustyurt chinklari va kanyonlari",
+      "datasetCoordinates": {
+        "lat": 45.300476,
+        "lng": 58.39856
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "43-aktumsik-burni",
+      "name": "Aktumsik burni",
+      "datasetCoordinates": {
+        "lat": 45.10184,
+        "lng": 58.32894
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "44-barsakelmes-shorxogi",
+      "name": "Barsakelmes sho‘rxogi",
+      "datasetCoordinates": {
+        "lat": 43.25,
+        "lng": 57.666667
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "45-sudochye-kollar-tizimi",
+      "name": "Sudochye ko‘llar tizimi",
+      "datasetCoordinates": {
+        "lat": 43.4828,
+        "lng": 58.5203
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "46-sudochye-akpetki-davlat-buyurtmaxonasi",
+      "name": "Sudochye-Akpetki davlat buyurtmaxonasi",
+      "datasetCoordinates": {
+        "lat": 43.489794,
+        "lng": 58.688965
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "47-jiltirbas-zhyltyrbas-koli",
+      "name": "Jiltirbas (Zhyltyrbas) ko‘li",
+      "datasetCoordinates": {
+        "lat": 43.546514,
+        "lng": 59.807002
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "48-quyi-amudaryo-davlat-biosfera-rezervati",
+      "name": "Quyi Amudaryo davlat biosfera rezervati",
+      "datasetCoordinates": {
+        "lat": 42.08,
+        "lng": 60.2547
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "49-saigachiy-qoriqlanadigan-landshafti",
+      "name": "Saigachiy qo‘riqlanadigan landshafti",
+      "datasetCoordinates": {
+        "lat": 45.150556,
+        "lng": 57.729167
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "50-janubiy-ustyurt-milliy-tabiat-bogi",
+      "name": "Janubiy Ustyurt milliy tabiat bog‘i",
+      "datasetCoordinates": {
+        "lat": 42.081389,
+        "lng": 56.664722
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "51-qizilqum-choli-qoraqalpogiston-qismi",
+      "name": "Qizilqum cho‘li (Qoraqalpog'iston qismi)",
+      "datasetCoordinates": {
+        "lat": 41.95,
+        "lng": 61.4
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "52-amudaryo-deltasi",
+      "name": "Amudaryo deltasi",
+      "datasetCoordinates": {
+        "lat": 43.2,
+        "lng": 59.2
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "53-ayazkol",
+      "name": "Ayazko‘l",
+      "datasetCoordinates": {
+        "lat": 42.0568,
+        "lng": 61.06678
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "54-i-v-savitskiy-nomidagi-qoraqalpogiston-davlat-sanat-muzeyi",
+      "name": "I.V. Savitskiy nomidagi Qoraqalpog‘iston davlat san’at muzeyi",
+      "datasetCoordinates": {
+        "lat": 42.46545,
+        "lng": 59.61301
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected.",
+        "The UNESCO/State Tourism project supports site identity but the page inspected supplies no independent point coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://karakalpakstan.travel/museums-and-exhibitions/savitsky-museum/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "55-qoraqalpogiston-respublikasi-tarixi-va-madaniyati-davlat-muzeyi",
+      "name": "Qoraqalpog‘iston Respublikasi tarixi va madaniyati davlat muzeyi",
+      "datasetCoordinates": {
+        "lat": 42.46227,
+        "lng": 59.61113
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected.",
+        "The UNESCO/State Tourism project supports site identity but the page inspected supplies no independent point coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://karakalpakstan.travel/museums-and-exhibitions/museum-of-regional-studies/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "56-shamuratovlar-oilasi-uy-muzeyi",
+      "name": "Shamuratovlar oilasi uy-muzeyi",
+      "datasetCoordinates": {
+        "lat": 42.467463,
+        "lng": 59.611269
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected.",
+        "The UNESCO/State Tourism project supports site identity but the page inspected supplies no independent point coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://karakalpakstan.travel/museums-and-exhibitions/house-museum-of-shamuratov-family/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "57-berdaq-milliy-muzeyi",
+      "name": "Berdaq milliy muzeyi",
+      "datasetCoordinates": {
+        "lat": 42.45165,
+        "lng": 59.62526
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected.",
+        "The UNESCO/State Tourism project supports site identity but the page inspected supplies no independent point coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://karakalpakstan.travel/museums-and-exhibitions/berdakh-museum/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "58-moynoq-ochiq-osmon-ostidagi-kemalar-qabristoni-muzeyi",
+      "name": "Mo‘ynoq ochiq osmon ostidagi Kemalar qabristoni muzeyi",
+      "datasetCoordinates": {
+        "lat": 43.790139,
+        "lng": 59.033972
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "point-needs-independent-verification",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "The exact flag comes from the existing dataset; independent point evidence was not established in the sources inspected.",
+        "The UNESCO/State Tourism project supports site identity but the page inspected supplies no independent point coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://karakalpakstan.travel/museums-and-exhibitions/ship-graveyard/",
+          "evidenceType": "identity-supported-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "59-moynoq-ekologiya-muzeyi",
+      "name": "Mo‘ynoq ekologiya muzeyi",
+      "datasetCoordinates": {
+        "lat": 43.76633,
+        "lng": 59.02871
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "museum-location-review-required",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Do not merge these two destinations or substitute a relocated museum point without an independent current address/coordinate source.",
+        "The official 4-day itinerary lists the Ecological Museum and Aral Sea History Museum as separate visits; it supplies no coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi-ichki-ziyorat-va-arxeologik-turizm-boyicha-4-kunlik-tur-dasturi/",
+          "evidenceType": "identity-supported-no-published-point"
+        },
+        {
+          "url": "https://gov.uz/oz/moynaq/news/view/83001",
+          "evidenceType": "2018-ecological-museum-reorganization-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "60-azatbay-otarbayev-musiqa-ustaxonasi",
+      "name": "Azatbay Otarbayev musiqa ustaxonasi",
+      "datasetCoordinates": {
+        "lat": 42.461,
+        "lng": 59.615
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "61-orol-dengizi-tarixi-muzeyi",
+      "name": "Orol dengizi tarixi muzeyi",
+      "datasetCoordinates": {
+        "lat": 43.78964,
+        "lng": 59.03242
+      },
+      "declaredCoordinateType": "exact",
+      "declaredApproximate": false,
+      "status": "museum-location-review-required",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Do not merge these two destinations or substitute a relocated museum point without an independent current address/coordinate source.",
+        "The official 4-day itinerary lists the Ecological Museum and Aral Sea History Museum as separate visits; it supplies no coordinates."
+      ],
+      "sources": [
+        {
+          "url": "https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi-ichki-ziyorat-va-arxeologik-turizm-boyicha-4-kunlik-tur-dasturi/",
+          "evidenceType": "identity-supported-no-published-point"
+        },
+        {
+          "url": "https://gov.uz/oz/moynaq/news/view/83001",
+          "evidenceType": "2018-ecological-museum-reorganization-no-published-point"
+        }
+      ]
+    },
+    {
+      "destinationId": "62-adil-tazhimuratov-zargarlik-ustaxonasi",
+      "name": "Adil Tazhimuratov zargarlik ustaxonasi",
+      "datasetCoordinates": {
+        "lat": 42.9425,
+        "lng": 59.771
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "63-qorateran-ekoturizm-kompleksi",
+      "name": "Qorateran ekoturizm kompleksi",
+      "datasetCoordinates": {
+        "lat": 43.317633,
+        "lng": 60.3757
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach.",
+        "The two legacy generators disagree about this destination's district. Verify the administrative location before promoting the representative point."
+      ],
+      "sources": []
+    },
+    {
+      "destinationId": "64-tax-tepa-etno-qishlogi",
+      "name": "Tax-tepa etno qishlog‘i",
+      "datasetCoordinates": {
+        "lat": 43.1775,
+        "lng": 60.466667
+      },
+      "declaredCoordinateType": "representative",
+      "declaredApproximate": true,
+      "status": "representative-point-unverified",
+      "sourceUrl": null,
+      "sourceCoordinates": null,
+      "sourceCoordinatePrecision": null,
+      "differenceMeters": null,
+      "pointPublicationVerified": false,
+      "entranceVerified": false,
+      "notes": [
+        "Representative point retained; it does not identify a verified entrance or a drivable approach.",
+        "The two legacy generators disagree about this destination's district. Verify the administrative location before promoting the representative point."
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+    "researchDate":  "2026-10-21",
+    "scope":  "User-requested cultural media for destinations28,30,31,35,36,60,61,62; sources and honest rights retained",
+    "publicationPolicy":  "User requested all available source-correct photographs including prior rights-restricted candidates. Rights-reserved images are not freely licensed. Satellite overviews show only registered-coordinate surroundings.",
+    "summary":  {
+                    "destinations":  8,
+                    "photographs":  7,
+                    "overviews":  4,
+                    "unlicensedRequestedPhotos":  7,
+                    "licensedOverviews":  4
+                },
+    "records":  [
+                    {
+                        "destinationId":  "28-imam-iyshan",
+                        "sourceUrl":  "https://cloudless.eox.at/",
+                        "status":  "licensed-territory-overview",
+                        "identityNote":  "Registered coordinates 42.638425, 59.320294 published in the national tourism catalogue. Exact ground photograph could not be established after multilingual source research; this is the surrounding territory, not an identified photograph of the shrine.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  true,
+                                           "reuseVerified":  true,
+                                           "publicationRequested":  true,
+                                           "license":  "CC BY-NC-SA 4.0",
+                                           "rightsStatus":  "licensed-noncommercial",
+                                           "kind":  "overview",
+                                           "sourceType":  "eox-sentinel2",
+                                           "localFile":  "assets/images/destinations/research/28-imam-iyshan-eox-2024-overview.jpg",
+                                           "sourceImageUrl":  "https://tiles.maps.eox.at/wms?SERVICE=WMS\u0026VERSION=1.1.1\u0026REQUEST=GetMap\u0026LAYERS=s2cloudless-2024_3857\u0026STYLES=\u0026SRS=EPSG:3857\u0026BBOX=6599504.922,5254597.386,6607504.922,5259597.386\u0026WIDTH=800\u0026HEIGHT=500\u0026FORMAT=image/jpeg",
+                                           "sourceUrl":  "https://cloudless.eox.at/",
+                                           "author":  "EOX IT Services GmbH (modified Copernicus Sentinel data 2024)",
+                                           "licenseUrl":  "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                                           "rightsEvidenceUrl":  "https://cloudless.eox.at/license-non-commercial",
+                                           "captureDate":  "2024",
+                                           "sourceResolutionMeters":  10,
+                                           "bounds":  {
+                                                          "crs":  "EPSG:3857",
+                                                          "bbox":  [
+                                                                       6599504.922,
+                                                                       5254597.386,
+                                                                       6607504.922,
+                                                                       5259597.386
+                                                                   ]
+                                                      },
+                                           "centerCoordinates":  {
+                                                                     "lat":  42.638425,
+                                                                     "lng":  59.320294
+                                                                 },
+                                           "contextVerified":  true,
+                                           "individualStructureVerified":  false,
+                                           "caption":  {
+                                                           "uz":  "Imam Iyshan atrofidagi hududning 2024-yilgi sun’iy yo‘ldosh ko‘rinishi. Markaz — ro‘yxatdagi koordinata; alohida maqbara bu tasvirda aniqlanmagan.",
+                                                           "kaa":  "Imam Iyshan átirapındaǵı aymaqtıń 2024-jılǵı sputnik kórinisi. Orayı — dizimdegi koordinata; jeke maqbara bul súwrette anıqlanbaǵan.",
+                                                           "ru":  "Спутниковый обзор окрестностей Имам Ийшан, мозаика 2024 года. Центр соответствует координате из реестра; отдельный мавзолей на снимке не идентифицирован.",
+                                                           "en":  "2024 satellite overview around Imam Iyshan. Centered on the registered coordinate; the individual shrine is not identified in this image."
+                                                       },
+                                           "identityEvidence":  "Subject verified as coordinate-centered landscape only, not the individual structure. Primary coordinate source: https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                           "visualInspection":  "Real satellite mosaic with fields, roads, settlements and terrain; distinct requested coordinate extent visually inspected. No AI alteration.",
+                                           "requiredAttribution":  [
+                                                                       {
+                                                                           "text":  "EOxCloudless",
+                                                                           "url":  "https://cloudless.eox.at"
+                                                                       },
+                                                                       {
+                                                                           "text":  "by"
+                                                                       },
+                                                                       {
+                                                                           "text":  "EOX IT Services GmbH",
+                                                                           "url":  "https://eox.at"
+                                                                       },
+                                                                       {
+                                                                           "text":  "(Contains modified Copernicus Sentinel data 2024)"
+                                                                       }
+                                                                   ],
+                                           "changes":  "Coordinate-centered WMS JPEG export from2024 annual mosaic; no generative processing or false landmark identification.",
+                                           "sha256":  "8d7f1bb6322395c23ea07b919d39358012d215bace42884ed4d32bc9c5e7c6fa",
+                                           "width":  800,
+                                           "height":  500,
+                                           "bytes":  91641
+                                       }
+                                   ]
+                    },
+                    {
+                        "destinationId":  "30-qusxana-qabristoni",
+                        "sourceUrl":  "https://cloudless.eox.at/",
+                        "status":  "licensed-territory-overview",
+                        "identityNote":  "Registered coordinates 42.362973, 59.626968 published in the national tourism catalogue. Exact ground photograph could not be established after multilingual source research; this is the surrounding territory, not an identified photograph of the shrine.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  true,
+                                           "reuseVerified":  true,
+                                           "publicationRequested":  true,
+                                           "license":  "CC BY-NC-SA 4.0",
+                                           "rightsStatus":  "licensed-noncommercial",
+                                           "kind":  "overview",
+                                           "sourceType":  "eox-sentinel2",
+                                           "localFile":  "assets/images/destinations/research/30-qusxana-qabristoni-eox-2024-overview.jpg",
+                                           "sourceImageUrl":  "https://tiles.maps.eox.at/wms?SERVICE=WMS\u0026VERSION=1.1.1\u0026REQUEST=GetMap\u0026LAYERS=s2cloudless-2024_3857\u0026STYLES=\u0026SRS=EPSG:3857\u0026BBOX=6633643.715,5213007.069,6641643.715,5218007.069\u0026WIDTH=800\u0026HEIGHT=500\u0026FORMAT=image/jpeg",
+                                           "sourceUrl":  "https://cloudless.eox.at/",
+                                           "author":  "EOX IT Services GmbH (modified Copernicus Sentinel data 2024)",
+                                           "licenseUrl":  "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                                           "rightsEvidenceUrl":  "https://cloudless.eox.at/license-non-commercial",
+                                           "captureDate":  "2024",
+                                           "sourceResolutionMeters":  10,
+                                           "bounds":  {
+                                                          "crs":  "EPSG:3857",
+                                                          "bbox":  [
+                                                                       6633643.715,
+                                                                       5213007.069,
+                                                                       6641643.715,
+                                                                       5218007.069
+                                                                   ]
+                                                      },
+                                           "centerCoordinates":  {
+                                                                     "lat":  42.362973,
+                                                                     "lng":  59.626968
+                                                                 },
+                                           "contextVerified":  true,
+                                           "individualStructureVerified":  false,
+                                           "caption":  {
+                                                           "uz":  "Qusxana atrofidagi hududning 2024-yilgi sun’iy yo‘ldosh ko‘rinishi. Markaz — ro‘yxatdagi koordinata; alohida maqbara bu tasvirda aniqlanmagan.",
+                                                           "kaa":  "Qusxana átirapındaǵı aymaqtıń 2024-jılǵı sputnik kórinisi. Orayı — dizimdegi koordinata; jeke maqbara bul súwrette anıqlanbaǵan.",
+                                                           "ru":  "Спутниковый обзор окрестностей Кусхана, мозаика 2024 года. Центр соответствует координате из реестра; отдельный мавзолей на снимке не идентифицирован.",
+                                                           "en":  "2024 satellite overview around Qusxana. Centered on the registered coordinate; the individual shrine is not identified in this image."
+                                                       },
+                                           "identityEvidence":  "Subject verified as coordinate-centered landscape only, not the individual structure. Primary coordinate source: https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                           "visualInspection":  "Real satellite mosaic with fields, roads, settlements and terrain; distinct requested coordinate extent visually inspected. No AI alteration.",
+                                           "requiredAttribution":  [
+                                                                       {
+                                                                           "text":  "EOxCloudless",
+                                                                           "url":  "https://cloudless.eox.at"
+                                                                       },
+                                                                       {
+                                                                           "text":  "by"
+                                                                       },
+                                                                       {
+                                                                           "text":  "EOX IT Services GmbH",
+                                                                           "url":  "https://eox.at"
+                                                                       },
+                                                                       {
+                                                                           "text":  "(Contains modified Copernicus Sentinel data 2024)"
+                                                                       }
+                                                                   ],
+                                           "changes":  "Coordinate-centered WMS JPEG export from2024 annual mosaic; no generative processing or false landmark identification.",
+                                           "sha256":  "9798a058ebcc96bbc970b33473ee51b948a16cd68d5f33b2e4974230b0699f17",
+                                           "width":  800,
+                                           "height":  500,
+                                           "bytes":  89154
+                                       }
+                                   ]
+                    },
+                    {
+                        "destinationId":  "36-eshim-axun",
+                        "sourceUrl":  "https://cloudless.eox.at/",
+                        "status":  "licensed-territory-overview",
+                        "identityNote":  "Registered coordinates 42.859587, 58.905592 published in the national tourism catalogue. Exact ground photograph could not be established after multilingual source research; this is the surrounding territory, not an identified photograph of the shrine.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  true,
+                                           "reuseVerified":  true,
+                                           "publicationRequested":  true,
+                                           "license":  "CC BY-NC-SA 4.0",
+                                           "rightsStatus":  "licensed-noncommercial",
+                                           "kind":  "overview",
+                                           "sourceType":  "eox-sentinel2",
+                                           "localFile":  "assets/images/destinations/research/36-eshim-axun-eox-2024-overview.jpg",
+                                           "sourceImageUrl":  "https://tiles.maps.eox.at/wms?SERVICE=WMS\u0026VERSION=1.1.1\u0026REQUEST=GetMap\u0026LAYERS=s2cloudless-2024_3857\u0026STYLES=\u0026SRS=EPSG:3857\u0026BBOX=6553340.506,5288123.919,6561340.506,5293123.919\u0026WIDTH=800\u0026HEIGHT=500\u0026FORMAT=image/jpeg",
+                                           "sourceUrl":  "https://cloudless.eox.at/",
+                                           "author":  "EOX IT Services GmbH (modified Copernicus Sentinel data 2024)",
+                                           "licenseUrl":  "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                                           "rightsEvidenceUrl":  "https://cloudless.eox.at/license-non-commercial",
+                                           "captureDate":  "2024",
+                                           "sourceResolutionMeters":  10,
+                                           "bounds":  {
+                                                          "crs":  "EPSG:3857",
+                                                          "bbox":  [
+                                                                       6553340.506,
+                                                                       5288123.919,
+                                                                       6561340.506,
+                                                                       5293123.919
+                                                                   ]
+                                                      },
+                                           "centerCoordinates":  {
+                                                                     "lat":  42.859587,
+                                                                     "lng":  58.905592
+                                                                 },
+                                           "contextVerified":  true,
+                                           "individualStructureVerified":  false,
+                                           "caption":  {
+                                                           "uz":  "Eshim Axun atrofidagi hududning 2024-yilgi sun’iy yo‘ldosh ko‘rinishi. Markaz — ro‘yxatdagi koordinata; alohida maqbara bu tasvirda aniqlanmagan.",
+                                                           "kaa":  "Eshim Axun átirapındaǵı aymaqtıń 2024-jılǵı sputnik kórinisi. Orayı — dizimdegi koordinata; jeke maqbara bul súwrette anıqlanbaǵan.",
+                                                           "ru":  "Спутниковый обзор окрестностей Эшим Ахун, мозаика 2024 года. Центр соответствует координате из реестра; отдельный мавзолей на снимке не идентифицирован.",
+                                                           "en":  "2024 satellite overview around Eshim Akhun. Centered on the registered coordinate; the individual shrine is not identified in this image."
+                                                       },
+                                           "identityEvidence":  "Subject verified as coordinate-centered landscape only, not the individual structure. Primary coordinate source: https://uzbekistan.travel/uz/o/qoraqalpogiston-respublikasi/",
+                                           "visualInspection":  "Real satellite mosaic with fields, roads, settlements and terrain; distinct requested coordinate extent visually inspected. No AI alteration.",
+                                           "requiredAttribution":  [
+                                                                       {
+                                                                           "text":  "EOxCloudless",
+                                                                           "url":  "https://cloudless.eox.at"
+                                                                       },
+                                                                       {
+                                                                           "text":  "by"
+                                                                       },
+                                                                       {
+                                                                           "text":  "EOX IT Services GmbH",
+                                                                           "url":  "https://eox.at"
+                                                                       },
+                                                                       {
+                                                                           "text":  "(Contains modified Copernicus Sentinel data 2024)"
+                                                                       }
+                                                                   ],
+                                           "changes":  "Coordinate-centered WMS JPEG export from2024 annual mosaic; no generative processing or false landmark identification.",
+                                           "sha256":  "a00d6bca10072dba0f08099bf0d5b7151401a87cc58e18467078b93c2ed49143",
+                                           "width":  800,
+                                           "height":  500,
+                                           "bytes":  95839
+                                       }
+                                   ]
+                    },
+                    {
+                        "destinationId":  "31-sulton-valiy-ota",
+                        "sourceUrl":  "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_%D0%92%D0%B0%D0%B8%D1%81_%D0%91%D0%BE%D0%B1%D0%BE9.jpg",
+                        "status":  "licensed-shared-complex-overview",
+                        "identityNote":  "Valiy Ota is a separate mausoleum within the shared Sulton Uvays cemetery complex. This panorama documents the shared complex only; it does not identify Valiy Ota\u0027s individual mausoleum.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  true,
+                                           "reuseVerified":  true,
+                                           "publicationRequested":  true,
+                                           "license":  "CC BY-SA 4.0",
+                                           "rightsStatus":  "licensed",
+                                           "kind":  "overview",
+                                           "sourceType":  "commons",
+                                           "localFile":  "assets/images/destinations/research/31-sulton-valiy-shared-complex-overview-candidate.jpg",
+                                           "sourceImageUrl":  "https://upload.wikimedia.org/wikipedia/commons/2/26/%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_%D0%92%D0%B0%D0%B8%D1%81_%D0%91%D0%BE%D0%B1%D0%BE9.jpg",
+                                           "sourceUrl":  "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_%D0%92%D0%B0%D0%B8%D1%81_%D0%91%D0%BE%D0%B1%D0%BE9.jpg",
+                                           "author":  "Ashirbek14",
+                                           "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0/",
+                                           "captureDate":  "2021-07-27",
+                                           "contextVerified":  true,
+                                           "individualStructureVerified":  false,
+                                           "caption":  {
+                                                           "uz":  "Valiy Ota yodgorligi joylashgan Sulton Uvays umumiy qabriston majmuasi. Surat alohida Valiy Ota maqbarasini ko‘rsatmaydi.",
+                                                           "kaa":  "Valiy Ata esteligi jaylasqan Sultan Wáyiys ulıwma qoyımshılıq kompleksi. Súwrette jeke Valiy Ata maqbarası anıqlanbaǵan.",
+                                                           "ru":  "Общий некрополь Султан-Увайс, где находится памятник Вали-ата. Отдельный мавзолей Вали-ата на фотографии не идентифицирован.",
+                                                           "en":  "The shared Sulton Uvays cemetery complex containing Valiy Ota\u0027s monument. Valiy Ota\u0027s individual mausoleum is not identified in this photograph."
+                                                       },
+                                           "identityEvidence":  "Commons creator identifies Sulton Uvays Bobo complex; national tourism catalogue places Valiy Ota within shared cemetery. Source rechecked and panorama visually inspected.",
+                                           "changes":  "Original JPEG unchanged; no AI processing.",
+                                           "sha256":  "853dc18ecb80d52bd2deee7f6adf3d23ea9d3abb75e80e6cca9c478678f7c149",
+                                           "width":  800,
+                                           "height":  556,
+                                           "bytes":  59941
+                                       }
+                                   ]
+                    },
+                    {
+                        "destinationId":  "35-shayx-jalil-bobo",
+                        "sourceUrl":  "https://qaraozek-edu.uz/kk/archives/383",
+                        "status":  "requested-source-photos",
+                        "identityNote":  "Qaraózek district education department\u0027s exact-titled11March2024 article places Shayx Jalil Bobo at Qoybaq; embedded photo depicts shrine entrance and dome.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  false,
+                                           "reuseVerified":  false,
+                                           "publicationRequested":  true,
+                                           "license":  "All rights reserved — publisher permission required",
+                                           "rightsStatus":  "permission-required",
+                                           "kind":  "photo",
+                                           "sourceType":  "requested-public-source",
+                                           "localFile":  "assets/images/destinations/research/35-shayx-jalil-qaraozek-education-2024.jpg",
+                                           "sourceImageUrl":  "https://qaraozek-edu.uz/wp-content/uploads/2024/03/44444.jpg",
+                                           "sourceUrl":  "https://qaraozek-edu.uz/kk/archives/383",
+                                           "author":  "Qaraózek district preschool and school education department (publisher; photographer not named)",
+                                           "licenseUrl":  "https://qaraozek-edu.uz/kk/archives/383",
+                                           "sourcePublishedOn":  "2024-03-11",
+                                           "caption":  {
+                                                           "uz":  "Shayx Jalil Bobo maqbarasi — Qorao‘zak tumani ta’lim bo‘limining 2024-yil 11-martdagi xabarida berilgan surat.",
+                                                           "kaa":  "Shayx Jalil Baba maqbarası — Qaraózek rayonı bilimlendiriw bóliminiń 2024-jıl 11-marttaǵı xabarındaǵı súwret.",
+                                                           "ru":  "Мавзолей Шайх Джалил-бобо — фотография из публикации отдела образования Караузякского района от 11 марта 2024 года.",
+                                                           "en":  "Shayx Jalil Bobo mausoleum, photographed in the Qaraózek district education department report of 11 March 2024."
+                                                       },
+                                           "identityEvidence":  "WordPress attachment384 embedded in exact-subject district department article; article\u0027s Qoybaq address matches registered destination. Inspected brick entrance, dome and trees.",
+                                           "rightsEvidence":  "Publisher footer asserts copyright©2021 www.korauzak-edu.uz. No reusable photo licence or specific photographer credit found.",
+                                           "changes":  "Original publisher JPEG retained; architecture unchanged; no AI processing.",
+                                           "sha256":  "f07478603b8af689240817c6842b4a51e93cd65911b0cc2519649f9ccc04dac8",
+                                           "width":  956,
+                                           "height":  635,
+                                           "bytes":  236268
+                                       }
+                                   ]
+                    },
+                    {
+                        "destinationId":  "60-azatbay-otarbayev-musiqa-ustaxonasi",
+                        "sourceUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                        "status":  "requested-source-photos",
+                        "identityNote":  "Official regional tourism gallery specifically identifies Nukus workshop. Four distinct photos show maker, teaching and instruments; product shots captioned as instruments, not a building.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  false,
+                                           "reuseVerified":  false,
+                                           "publicationRequested":  true,
+                                           "license":  "All rights reserved — publisher permission required",
+                                           "rightsStatus":  "permission-required",
+                                           "kind":  "photo",
+                                           "sourceType":  "requested-public-source",
+                                           "preferredOrder":  1,
+                                           "localFile":  "assets/images/destinations/research/60-azatbay-otarbayev-regional-candidate-04.jpg",
+                                           "sourceImageUrl":  "https://karakalpakstan.travel/data/uploads/21-muzei/09-masterskaja-azatbaja-otarbaeva/04.jpg",
+                                           "sourceUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "author":  "Makhmudova Muhayyo",
+                                           "authorEvidence":  "Visible photographer copyright watermark preserved.",
+                                           "licenseUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "caption":  {
+                                                           "uz":  "Azatbay Otarbayev cholg‘u yasash jarayonida.",
+                                                           "kaa":  "Azatbay Otarbayev saz ásbabın jasaw barısında.",
+                                                           "ru":  "Азатбай Отарбаев за изготовлением музыкального инструмента.",
+                                                           "en":  "Azatbay Otarbayev making a traditional musical instrument."
+                                                       },
+                                           "identityEvidence":  "Distinct photo in official article specifically naming workshop; visually inspected.",
+                                           "rightsEvidence":  "Publisher footer reserves all rights and requires administration permission for texts and/or photos.",
+                                           "changes":  "Original JPEG unchanged; author watermarks preserved; no AI processing.",
+                                           "sha256":  "2b2f74544fa8c1832f84ddb158e5510016757673927fac7f530dcf8bc73587a9",
+                                           "width":  1000,
+                                           "height":  625,
+                                           "bytes":  133221
+                                       },
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  false,
+                                           "reuseVerified":  false,
+                                           "publicationRequested":  true,
+                                           "license":  "All rights reserved — publisher permission required",
+                                           "rightsStatus":  "permission-required",
+                                           "kind":  "photo",
+                                           "sourceType":  "requested-public-source",
+                                           "preferredOrder":  2,
+                                           "localFile":  "assets/images/destinations/research/60-azatbay-otarbayev-regional-candidate-03.jpg",
+                                           "sourceImageUrl":  "https://karakalpakstan.travel/data/uploads/21-muzei/09-masterskaja-azatbaja-otarbaeva/03.jpg",
+                                           "sourceUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "author":  "Makhmudova Muhayyo",
+                                           "authorEvidence":  "Visible photographer copyright watermark preserved.",
+                                           "licenseUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "caption":  {
+                                                           "uz":  "Azatbay Otarbayev ustaxonasida cholg‘u yasash bo‘yicha amaliy mashg‘ulot.",
+                                                           "kaa":  "Azatbay Otarbayev ustaxanasında saz ásbabın jasaw boyınsha ámeliy sabaq.",
+                                                           "ru":  "Практическое занятие по изготовлению инструментов в мастерской Азатбая Отарбаева.",
+                                                           "en":  "Instrument-making training at Azatbay Otarbayev\u0027s workshop."
+                                                       },
+                                           "identityEvidence":  "Distinct photo in official article specifically naming workshop; visually inspected.",
+                                           "rightsEvidence":  "Publisher footer reserves all rights and requires administration permission for texts and/or photos.",
+                                           "changes":  "Original JPEG unchanged; author watermarks preserved; no AI processing.",
+                                           "sha256":  "6fae6cbf057da3b466caafed2cfd6fea356e64491c948031a636c826e1230fd5",
+                                           "width":  1000,
+                                           "height":  625,
+                                           "bytes":  160621
+                                       },
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  false,
+                                           "reuseVerified":  false,
+                                           "publicationRequested":  true,
+                                           "license":  "All rights reserved — publisher permission required",
+                                           "rightsStatus":  "permission-required",
+                                           "kind":  "photo",
+                                           "sourceType":  "requested-public-source",
+                                           "preferredOrder":  3,
+                                           "localFile":  "assets/images/destinations/research/60-azatbay-otarbayev-regional-candidate-01.jpg",
+                                           "sourceImageUrl":  "https://karakalpakstan.travel/data/uploads/21-muzei/09-masterskaja-azatbaja-otarbaeva/01.jpg",
+                                           "sourceUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "author":  "Makhmudova Muhayyo",
+                                           "authorEvidence":  "Visible photographer copyright watermark preserved.",
+                                           "licenseUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "caption":  {
+                                                           "uz":  "Azatbay Otarbayev ustaxonasi galereyasidagi an’anaviy kamonli cholg‘u.",
+                                                           "kaa":  "Azatbay Otarbayev ustaxanası galereyasındaǵı dástúriy ıshqılı saz ásbabı.",
+                                                           "ru":  "Традиционный смычковый инструмент из галереи мастерской Азатбая Отарбаева.",
+                                                           "en":  "Traditional bowed instrument from Azatbay Otarbayev\u0027s workshop gallery."
+                                                       },
+                                           "identityEvidence":  "Distinct photo in official article specifically naming workshop; visually inspected.",
+                                           "rightsEvidence":  "Publisher footer reserves all rights and requires administration permission for texts and/or photos.",
+                                           "changes":  "Original JPEG unchanged; author watermarks preserved; no AI processing.",
+                                           "sha256":  "9f1b1a9dba528ff4f59473efe0815fe93d71fbed9f2b388d9f23d305ed81040c",
+                                           "width":  1000,
+                                           "height":  625,
+                                           "bytes":  31028
+                                       },
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  false,
+                                           "reuseVerified":  false,
+                                           "publicationRequested":  true,
+                                           "license":  "All rights reserved — publisher permission required",
+                                           "rightsStatus":  "permission-required",
+                                           "kind":  "photo",
+                                           "sourceType":  "requested-public-source",
+                                           "preferredOrder":  4,
+                                           "localFile":  "assets/images/destinations/research/60-azatbay-otarbayev-regional-candidate-02.jpg",
+                                           "sourceImageUrl":  "https://karakalpakstan.travel/data/uploads/21-muzei/09-masterskaja-azatbaja-otarbaeva/02.jpg",
+                                           "sourceUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "author":  "Karakalpakstan.travel (publisher; photographer not named)",
+                                           "authorEvidence":  "Photographer not credited; publisher named instead.",
+                                           "licenseUrl":  "https://karakalpakstan.travel/museums-and-exhibitions/azatbay-otarbayev-musical-workshop/",
+                                           "caption":  {
+                                                           "uz":  "Ustaxona galereyasidagi ikkita an’anaviy zarbli cholg‘u.",
+                                                           "kaa":  "Ustaxana galereyasındaǵı eki dástúriy urma saz ásbabı.",
+                                                           "ru":  "Два традиционных ударных инструмента из галереи мастерской.",
+                                                           "en":  "Two traditional percussion instruments in the workshop gallery."
+                                                       },
+                                           "identityEvidence":  "Distinct photo in official article specifically naming workshop; visually inspected.",
+                                           "rightsEvidence":  "Publisher footer reserves all rights and requires administration permission for texts and/or photos.",
+                                           "changes":  "Original JPEG unchanged; author watermarks preserved; no AI processing.",
+                                           "sha256":  "f5a79b05ed4e032f5bb137a890ccfe27d6ba225ac9df5b84e4bbaa0afc911e15",
+                                           "width":  1000,
+                                           "height":  625,
+                                           "bytes":  85357
+                                       }
+                                   ]
+                    },
+                    {
+                        "destinationId":  "61-orol-dengizi-tarixi-muzeyi",
+                        "sourceUrl":  "https://xs.uz/uz/96608",
+                        "status":  "requested-source-photos",
+                        "identityNote":  "Museum entrance sign reads ARAL TEŃIZI TARIYXI MUZEYI. Article describes the museum by ship graveyard; official tourism register separately identifies coordinates. Distinct from older Muynak ecology museum.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  false,
+                                           "reuseVerified":  false,
+                                           "publicationRequested":  true,
+                                           "license":  "All rights reserved — publisher permission required",
+                                           "rightsStatus":  "rights-reserved-no-reuse-grant",
+                                           "kind":  "photo",
+                                           "sourceType":  "requested-public-source",
+                                           "localFile":  "assets/images/destinations/research/61-aral-history-xs-2023.jpg",
+                                           "sourceImageUrl":  "https://xs.uz/archive-upload/06/%D0%9E%D1%80%D0%BE%D0%BB%20%D0%B4%D0%B5%D0%BD%D0%B3%D0%B8%D0%B7%D0%B8/5c48e1e348bfe74d8a09a29bf4e316340428.jpg",
+                                           "sourceUrl":  "https://xs.uz/uz/96608",
+                                           "author":  "Xalq So‘zi (publisher; photographer not named)",
+                                           "licenseUrl":  "https://xs.uz/uz/96608",
+                                           "sourcePublishedOn":  "2023-04-28",
+                                           "caption":  {
+                                                           "uz":  "Mo‘ynoqdagi Orol dengizi tarixi muzeyining kirish qismi. Xalq So‘zi nashri, 2023-yil 28-aprel.",
+                                                           "kaa":  "Moynaqtaǵı Aral teńizi tariyxı muzeyiniń kiriw bólimi. Xalq So‘zi basılımı, 2023-jıl 28-aprel.",
+                                                           "ru":  "Вход в Музей истории Аральского моря в Муйнаке. Публикация Xalq So‘zi от 28 апреля 2023 года.",
+                                                           "en":  "Entrance to the Museum of the History of the Aral Sea in Muynak. Xalq So‘zi publication, 28 April 2023."
+                                                       },
+                                           "identityEvidence":  "Readable exact museum entrance sign visually inspected. Photo embedded in exact article; current migrated site retains /upload paths in body while active /archive-upload serves documented filename.",
+                                           "rightsEvidence":  "Current article JSON-LD identifies Xalq So‘zi as copyrightHolder and copyrightYear2023; footer reserves all rights. No photographer or reusable photo licence found.",
+                                           "changes":  "Original publisher JPEG retained; no AI restoration. Publication copy may be downscaled without crop.",
+                                           "sha256":  "99681981d7ecfe5c3ed9bf900dce115b6a4c6c33f0fc7ef8ea81b08ec820a0b1",
+                                           "width":  2000,
+                                           "height":  1333,
+                                           "bytes":  236383
+                                       }
+                                   ]
+                    },
+                    {
+                        "destinationId":  "62-adil-tazhimuratov-zargarlik-ustaxonasi",
+                        "sourceUrl":  "https://uza.uz/en/posts/jeweler-from-chimboy_523793",
+                        "status":  "requested-source-photos",
+                        "identityNote":  "UzA exact jeweler profile names Odilboy/Adil Tojimuratov and credits Maqsad Khabibullayev. Photo shows him using a flame at his jewelry bench.",
+                        "photos":  [
+                                       {
+                                           "preferred":  true,
+                                           "subjectVerified":  true,
+                                           "licenseVerified":  false,
+                                           "reuseVerified":  false,
+                                           "publicationRequested":  true,
+                                           "license":  "All rights reserved — publisher permission required",
+                                           "rightsStatus":  "written-permission-required",
+                                           "kind":  "photo",
+                                           "sourceType":  "requested-public-source",
+                                           "localFile":  "assets/images/destinations/research/62-adil-tazhimuratov-uza-2023-candidate.jpg",
+                                           "sourceImageUrl":  "https://cdn.uza.uz/2023/09/27/08/01/0GMiRf7yJnhV2z5sVr1KCfLO1BIjTY5s_normal.jpg",
+                                           "sourceUrl":  "https://uza.uz/en/posts/jeweler-from-chimboy_523793",
+                                           "author":  "Maqsad Khabibullayev / UzA",
+                                           "authorEvidence":  "Explicit article photo credit and visible watermark.",
+                                           "licenseUrl":  "https://uza.uz/en/posts/jeweler-from-chimboy_523793",
+                                           "sourcePublishedOn":  "2023-09-28",
+                                           "caption":  {
+                                                           "uz":  "Chimboylik zargar Adil (Odilboy) Tojimuratov ish ustida. Maqsad Xabibullayev / O‘zA, 2023.",
+                                                           "kaa":  "Shımbaylı zerger Ádil (Odilboy) Tájimuratov jumıs ústinde. Maqsad Xabibullayev / ÓzA, 2023.",
+                                                           "ru":  "Чимбайский ювелир Адил (Одилбой) Тоджимурадов за работой. Максад Хабибуллаев / УзА, 2023.",
+                                                           "en":  "Chimboy jeweler Adil (Odilboy) Tojimuratov at work. Maqsad Khabibullayev / UzA, 2023."
+                                                       },
+                                           "identityEvidence":  "Exact primary report names jeweler and father Dariboy; inspected bench photo and watermarked photographer credit.",
+                                           "rightsEvidence":  "UzA requires prior written editorial permission; no open photo reuse licence or project-specific permission established. User explicitly requested this use; no free licence claimed.",
+                                           "changes":  "Original JPEG unchanged; photographer and UzA watermarks preserved; no AI processing.",
+                                           "sha256":  "8419b00b17ccf53b36eb97451c10d4dead9dd1e5ac0af065a8b54798c3eb9777",
+                                           "width":  1024,
+                                           "height":  682,
+                                           "bytes":  84874
+                                       }
+                                   ]
+                    }
+                ],
+    "reviewNotes":  [
+                        "No unrelated same-name mosque used for Imam Iyshan, Qusxana or Eshim Axun.",
+                        "Official government register https://api-portal.gov.uz/uploads/146/2025/07/31/4b26a905-64c6-48d9-8c27-ae907ac02a8d_media_.pdf has very small approximately71px thumbnails; better source photos used.",
+                        "EOX is2024 annual mosaic; exact acquisition dates vary. Actual shrines not identified within satellite overviews.",
+                        "No active catalogue/UI changes or application/server/browser/tests run by this research task."
+                    ]
+}

@@ -1,0 +1,17 @@
+# Local source archives and duplicate downloads are not website assets.
+*.zip
+assets/extracted_batch1/
+assets/images/destinations/research/
+test_thumb.jpg
+data/generated/
+_site/
+dist/
+node_modules/
+.env
+.env.*
+!.env.example
+*.media-tmp
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
