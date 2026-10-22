@@ -95,4 +95,4 @@ GitHub Pages uchun `node scripts/prepare-pages.js` `_site/`ga faqat faol kod/ma�
 
 Keyingi nashr uchun repository’da **Settings → Pages → Source → GitHub Actions** tanlanadi. `.github/workflows/pages.yml` keyingi `main` push yoki qo‘lda workflow boshlash orqali yig‘ilmani nashr qiladi. [GitHub Pages workflow hujjati](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
-Test yozilmadi yoki bajarilmadi; avtomatlashtirilgan brauzer tekshiruvi qilinmadi. Manba/rasm tahlili, ma’lumotlar va fayllar mosligi, Drive metadata qayta o‘qilishi hamda JavaScript/PowerShell sintaksisi ko‘rildi. Mahalliy preview foydalanuvchi talabi bilan ochilgan. **GitHub’ga push va ommaviy nashr bajarilmagan.**
+Test yozilmadi yoki bajarilmadi; avtomatlashtirilgan brauzer tekshiruvi qilinmadi. Manba/rasm tahlili, ma’lumotlar va fayllar mosligi, Drive metadata qayta o‘qilishi hamda JavaScript/PowerShell sintaksisi ko‘rildi. Mahalliy preview foydalanuvchi talabi bilan ochilgan. GitHub Pages nashrini repository egasi **Settings → Pages → GitHub Actions** orqali yoqadi va workflow’ni boshlaydi.
