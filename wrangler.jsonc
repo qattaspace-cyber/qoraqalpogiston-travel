@@ -1,6 +1,7 @@
 {
   "name": "qoraqalpogiston-travel",
   "compatibility_date": "2026-11-01",
+  "workers_dev": true,
   "routes": [
     {
       "pattern": "discoverkarakalpakstan.uz",
