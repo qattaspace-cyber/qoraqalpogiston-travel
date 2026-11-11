@@ -21,6 +21,8 @@ request handler. It runs the assembly command and publishes only `_site/`.
 - Static assets directory: `./_site`, declared in `wrangler.jsonc`.
 - Missing paths: serve `404.html` with HTTP 404, as configured by `not_found_handling`.
 - Canonical custom domain: `discoverkarakalpakstan.uz`, declared in `wrangler.jsonc` routes.
+- The `www.discoverkarakalpakstan.uz` alias is also attached to the same static assets.
+  Both hostnames serve the site; its canonical URL remains the apex domain.
 
 Once connected, Cloudflare builds and deploys updates pushed to `main`.
 Commit source files, including the build script and public media; do not commit `_site/`,

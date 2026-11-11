@@ -6,6 +6,10 @@
     {
       "pattern": "discoverkarakalpakstan.uz",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.discoverkarakalpakstan.uz",
+      "custom_domain": true
     }
   ],
   "build": {
