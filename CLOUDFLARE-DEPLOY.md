@@ -20,6 +20,7 @@ request handler. It runs the assembly command and publishes only `_site/`.
 - Deploy command: `npx wrangler deploy`.
 - Static assets directory: `./_site`, declared in `wrangler.jsonc`.
 - Missing paths: serve `404.html` with HTTP 404, as configured by `not_found_handling`.
+- Canonical custom domain: `discoverkarakalpakstan.uz`, declared in `wrangler.jsonc` routes.
 
 Once connected, Cloudflare builds and deploys updates pushed to `main`.
 Commit source files, including the build script and public media; do not commit `_site/`,
@@ -47,7 +48,8 @@ In the same Cloudflare account, add the zone `discoverkarakalpakstan.uz`, select
 and copy the two assigned nameservers into the domain settings at Sayt.uz.
 The actual nameserver names are account-specific: do not guess them.
 
-Once the zone is active, add `discoverkarakalpakstan.uz` in the Worker's Settings → Domains & Routes → Add → Custom Domain.
+The apex custom domain is declared in `wrangler.jsonc`; deployments keep that mapping
+associated with the Worker. Its dashboard location is Settings → Domains & Routes.
 If using `www`, add `www.discoverkarakalpakstan.uz` there too. Configure the `www`
 redirect in the domain zone's Redirect Rules after DNS and HTTPS work: match hostname
 `www.discoverkarakalpakstan.uz`, redirect with status 301 to

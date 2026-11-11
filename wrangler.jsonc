@@ -1,6 +1,12 @@
 {
   "name": "qoraqalpogiston-travel",
   "compatibility_date": "2026-11-01",
+  "routes": [
+    {
+      "pattern": "discoverkarakalpakstan.uz",
+      "custom_domain": true
+    }
+  ],
   "build": {
     "command": "node scripts/prepare-pages.js"
   },
