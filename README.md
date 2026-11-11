@@ -1,19 +1,20 @@
 # DiscoverKarakalpakstan
 
-## Asosiy nashr: Cloudflare Pages
+## Asosiy nashr: Cloudflare Workers Static Assets
 
 Ommaviy brend: **DiscoverKarakalpakstan**. Asosiy (canonical) manzil: **https://discoverkarakalpakstan.uz/**.
 Moslashtirilgan manba repositorysi: [qattaspace-cyber/qoraqalpogiston-travel](https://github.com/qattaspace-cyber/qoraqalpogiston-travel).
 Repository mavjudligi sayt Cloudflare’da nashr qilinganini bildirmaydi; nashr va domen ulanishi alohida tekshiriladi.
 
-Asosiy nashr usuli — **Cloudflare Pages → Git Integration**, `main` tarmog‘i:
+Cloudflare’da yaratilgan `qoraqalpogiston-travel` Worker’i `main` tarmog‘iga ulanadi:
 
-- Framework preset: **None**.
 - Root directory: bo‘sh qoldiriladi (repository ildizi).
-- Build command: `node scripts/prepare-pages.js`.
-- Build output directory: `_site`.
+- Build command: bo‘sh qoldirish mumkin; yig‘ish `wrangler.jsonc` orqali boshqariladi.
+- Deploy command: `npx wrangler deploy`.
+- `wrangler.jsonc` avval `node scripts/prepare-pages.js` ni bajaradi va faqat `_site` fayllarini nashr qiladi.
+- Backend Worker kodi ishlatilmaydi; noma’lum manzillar `404.html` bilan 404 javobini qaytaradi.
 
-Cloudflare’ga repository ulangach, `main` yangilanishlari Pages yig‘ilmasini avtomatik boshlaydi.
+Cloudflare’ga repository ulangach, `main` yangilanishlari avtomatik yig‘ish va nashrni boshlaydi.
 Eski GitHub Pages workflow’i faqat qo‘lda ishga tushadi; `push` uni boshlamaydi.
 Domen, DNS va Google Search Console qadamlari: [CLOUDFLARE-DEPLOY.md](CLOUDFLARE-DEPLOY.md).
 
@@ -110,7 +111,7 @@ Tadqiqot rasmlari `research/`da qoladi va Git/Pages’ga kiritilmaydi. Yangi/leg
 
 Dastlabki bosqich qaydida foydalanuvchi so‘rovi bilan mahalliy server [http://127.0.0.1:3000/](http://127.0.0.1:3000/) manzilida ochilgani ko‘rsatilgan. Bu hozir server ishlayotganini bildirmaydi. Mahalliy ko‘rish alohida so‘ralsa, loyiha papkasidan `node server.js` bilan boshlash mumkin; u faqat `127.0.0.1`ga ulanadi.
 
-Cloudflare Pages uchun `node scripts/prepare-pages.js` `_site/`ga faqat faol kod/ma’lumotlar, katalogga kiritilgan media va 64 aktiv yo‘l geometriyasini yig‘adi. Eski katalog/uslublar, tadqiqot fayllari, server, ZIPlar va ortiqcha geometriyalar kiritilmaydi. Bu buyruq ilovani ishga tushirmaydi. `_site/` Git’ga kiritilmaydi; Cloudflare uni manbadan yig‘adi.
+Cloudflare uchun `node scripts/prepare-pages.js` `_site/`ga faqat faol kod/ma’lumotlar, katalogga kiritilgan media va 64 aktiv yo‘l geometriyasini yig‘adi. Eski katalog/uslublar, tadqiqot fayllari, server, ZIPlar va ortiqcha geometriyalar kiritilmaydi. Bu buyruq ilovani ishga tushirmaydi. `_site/` Git’ga kiritilmaydi; Cloudflare uni manbadan yig‘adi.
 
 Joriy nashr yo‘li yuqoridagi Cloudflare Pages Git Integration sozlamalaridir. `.github/workflows/pages.yml` faqat qo‘lda boshlanadigan eski GitHub Pages varianti sifatida saqlangan; u `main` push’larida ishlamaydi va Cloudflare uchun kerak emas. GitHub Pages’ga alohida nashr so‘ralgandagina uning sozlamalari va qo‘lda workflow ishga tushirilishi ko‘rib chiqiladi. [GitHub Pages workflow hujjati](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 

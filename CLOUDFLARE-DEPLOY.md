@@ -7,22 +7,24 @@ Source repository: https://github.com/qattaspace-cyber/qoraqalpogiston-travel
 The source fork exists. Cloudflare connection, domain activation and Search Console
 submission must be confirmed separately; repository creation alone does not publish the site.
 
-## Primary deployment: Cloudflare Pages Git integration
+## Primary deployment: Cloudflare Workers Static Assets with Git integration
 
-Connect the source GitHub repository to Cloudflare Pages using Git integration.
-Authorize the Cloudflare GitHub app to access
-that repository. Use a separate Pages project, preferably named `discoverkarakalpakstan`.
+The dashboard project `qoraqalpogiston-travel` uses Workers and the deploy command
+`npx wrangler deploy`. Connect it to the source repository and production branch `main`.
+The committed `wrangler.jsonc` makes this an assets-only deployment without a Worker
+request handler. It runs the assembly command and publishes only `_site/`.
 
 - Production branch: `main`.
-- Framework preset: `None`.
 - Root directory: leave empty (the repository root).
-- Build command: `node scripts/prepare-pages.js`.
-- Build output directory: `_site`.
+- Dashboard build command: can be empty; Wrangler runs `node scripts/prepare-pages.js`.
+- Deploy command: `npx wrangler deploy`.
+- Static assets directory: `./_site`, declared in `wrangler.jsonc`.
+- Missing paths: serve `404.html` with HTTP 404, as configured by `not_found_handling`.
 
 Once connected, Cloudflare builds and deploys updates pushed to `main`.
 Commit source files, including the build script and public media; do not commit `_site/`,
-release ZIPs, credentials or local configuration. No separate GitHub Actions deployment
-workflow or Cloudflare API token is required for this Git integration.
+release ZIPs, credentials or local configuration. The existing Cloudflare Git integration
+manages its deployment credentials; do not add credentials to this repository.
 
 The copied `.github/workflows/pages.yml` is a **manual legacy GitHub Pages** workflow.
 Its only trigger is `workflow_dispatch`; pushing to `main` does not start it.
@@ -45,14 +47,29 @@ In the same Cloudflare account, add the zone `discoverkarakalpakstan.uz`, select
 and copy the two assigned nameservers into the domain settings at Sayt.uz.
 The actual nameserver names are account-specific: do not guess them.
 
-Once the zone is active, add `discoverkarakalpakstan.uz` in the Pages project's Custom domains.
-If using `www`, add `www.discoverkarakalpakstan.uz` there too. The included `_redirects`
-then redirects `www` to the main domain. Keep other existing mail/DNS records if any.
+Once the zone is active, add `discoverkarakalpakstan.uz` in the Worker's Settings → Domains & Routes → Add → Custom Domain.
+If using `www`, add `www.discoverkarakalpakstan.uz` there too. Configure the `www`
+redirect in the domain zone's Redirect Rules after DNS and HTTPS work: match hostname
+`www.discoverkarakalpakstan.uz`, redirect with status 301 to
+`concat("https://discoverkarakalpakstan.uz", http.request.uri.path)`, and enable
+Preserve query string. Keep other existing mail/DNS records if any.
 
-After the custom domain works, redirect the production `PROJECT.pages.dev` hostname
-to the main domain using Cloudflare's documented Bulk Redirect setup. Preserve paths
-and query strings. Do not guess the generated Pages hostname or add a redirect to
-an unconfigured domain before checking its HTTPS certificate.
+The asset `_redirects` format accepts paths as sources, not domain names. Do not put
+a hostname-specific `www` rule in that file or replace it with a catch-all redirect
+to the main domain: a catch-all would also redirect the main domain to itself.
+
+After the custom domain works, use it as the public address. The HTML canonical and
+sitemap already point there. Record the actual `*.workers.dev` deployment URL when
+verifying the release; do not guess that hostname. Any extra hostname redirect must
+be configured for that specific hostname and preserve paths and query strings.
+
+## Alternative: Cloudflare Pages Git integration
+
+Pages is a separate project type. If using it instead, select framework `None`,
+build command `node scripts/prepare-pages.js` and output directory `_site` in its Git
+import. It does not use the Workers deploy command. The current `wrangler.jsonc` is
+for the existing Worker, not a Pages configuration; review that configuration before
+changing project type. Do not deploy both products accidentally.
 
 ## Google Search Console
 
@@ -83,6 +100,12 @@ do not guarantee indexing, a particular result title, or the first search positi
 - https://developers.cloudflare.com/pages/get-started/direct-upload/
 - https://developers.cloudflare.com/pages/configuration/custom-domains/
 - https://developers.cloudflare.com/pages/how-to/redirect-to-custom-domain/
+- https://developers.cloudflare.com/pages/configuration/redirects/
+- https://developers.cloudflare.com/workers/static-assets/redirects/
+- https://developers.cloudflare.com/workers/static-assets/routing/static-site-generation/
+- https://developers.cloudflare.com/workers/wrangler/configuration/
+- https://developers.cloudflare.com/workers/configuration/routing/custom-domains/
+- https://developers.cloudflare.com/fundamentals/manage-domains/redirect-domain/
 - https://support.google.com/webmasters/answer/9008080
 - https://developers.google.com/search/docs/appearance/site-names
 - https://developers.google.com/search/docs/fundamentals/seo-starter-guide
