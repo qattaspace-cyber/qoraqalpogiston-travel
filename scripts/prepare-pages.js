@@ -5,7 +5,8 @@ const path = require('path');
 const root = fs.realpathSync(path.join(__dirname, '..'));
 const output = path.join(root, '_site');
 const files = new Set([
-  'index.html', '.nojekyll', 'css/app.css',
+  'index.html', '404.html', '.nojekyll', 'favicon.svg', 'robots.txt', 'sitemap.xml',
+  '_redirects', 'css/app.css',
   'js/app.js', 'js/favorites.js', 'js/filters.js', 'js/i18n.js', 'js/map.js',
   'js/media.js', 'js/routing.js', 'js/search.js', 'js/ui.js',
   'data/destinations.json', 'data/categories.json', 'data/districts.json',

@@ -1,8 +1,8 @@
-name: Publish tourism map to GitHub Pages
+name: Manual legacy GitHub Pages publishing
 
+# Cloudflare Pages Git integration is the primary deployment path.
+# This legacy workflow runs only when explicitly started from GitHub Actions.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:

@@ -1,6 +1,25 @@
-# Qoraqalpog‘iston Travel
+# DiscoverKarakalpakstan
 
-Qoraqalpog‘istonning turistik obyektlari uchun statik HTML/CSS/JavaScript xarita. Loyiha GitHub Pages uchun tayyorlangan; foydalanuvchi hisobi va alohida backend talab qilmaydi. Media nusxalari Google Drive’da, ochiq sahifa uchun rasmlar va kichik ko‘rish nusxalari loyiha fayllarida saqlanadi.
+## Asosiy nashr: Cloudflare Pages
+
+Ommaviy brend: **DiscoverKarakalpakstan**. Asosiy (canonical) manzil: **https://discoverkarakalpakstan.uz/**.
+Moslashtirilgan manba repositorysi: [qattaspace-cyber/qoraqalpogiston-travel](https://github.com/qattaspace-cyber/qoraqalpogiston-travel).
+Repository mavjudligi sayt Cloudflare’da nashr qilinganini bildirmaydi; nashr va domen ulanishi alohida tekshiriladi.
+
+Asosiy nashr usuli — **Cloudflare Pages → Git Integration**, `main` tarmog‘i:
+
+- Framework preset: **None**.
+- Root directory: bo‘sh qoldiriladi (repository ildizi).
+- Build command: `node scripts/prepare-pages.js`.
+- Build output directory: `_site`.
+
+Cloudflare’ga repository ulangach, `main` yangilanishlari Pages yig‘ilmasini avtomatik boshlaydi.
+Eski GitHub Pages workflow’i faqat qo‘lda ishga tushadi; `push` uni boshlamaydi.
+Domen, DNS va Google Search Console qadamlari: [CLOUDFLARE-DEPLOY.md](CLOUDFLARE-DEPLOY.md).
+
+## Loyiha haqida
+
+Qoraqalpog‘istonning turistik obyektlari uchun statik HTML/CSS/JavaScript xarita. Loyiha dastlab **Qoraqalpog‘iston Travel** nomi bilan GitHub Pages uchun tayyorlangan; foydalanuvchi hisobi va alohida backend talab qilmaydi. Media nusxalari Google Drive’da, ochiq sahifa uchun rasmlar va kichik ko‘rish nusxalari loyiha fayllarida saqlanadi.
 
 ## Hozirgi imkoniyatlar
 
@@ -87,12 +106,12 @@ Kelajakda mos HTTPS provayder sozlansa, maxfiy kalit frontendga joylanmaydi; omm
 
 Tadqiqot rasmlari `research/`da qoladi va Git/Pages’ga kiritilmaydi. Yangi/legacy generatorlar faol katalog, mavjud media va koordinatalarni avtomatik almashtirmaydi.
 
-## Mahalliy ko‘rish va keyingi nashr
+## Avvalgi mahalliy ko‘rish va joriy nashr yo‘li
 
-Foydalanuvchi localhost ko‘rishni so‘ragach mahalliy server ishga tushirilgan. Manzil: [http://127.0.0.1:3000/](http://127.0.0.1:3000/). Serverni keyingi safar loyiha papkasidan `node server.js` bilan boshlash mumkin; u faqat `127.0.0.1`ga ulanadi.
+Dastlabki bosqich qaydida foydalanuvchi so‘rovi bilan mahalliy server [http://127.0.0.1:3000/](http://127.0.0.1:3000/) manzilida ochilgani ko‘rsatilgan. Bu hozir server ishlayotganini bildirmaydi. Mahalliy ko‘rish alohida so‘ralsa, loyiha papkasidan `node server.js` bilan boshlash mumkin; u faqat `127.0.0.1`ga ulanadi.
 
-GitHub Pages uchun `node scripts/prepare-pages.js` `_site/`ga faqat faol kod/ma’lumotlar, katalogga kiritilgan media va 64 aktiv yo‘l geometriyasini yig‘adi. Eski katalog/uslublar, tadqiqot fayllari, server, ZIPlar va ortiqcha geometriyalar kiritilmaydi. Bu buyruq ilovani ishga tushirmaydi.
+Cloudflare Pages uchun `node scripts/prepare-pages.js` `_site/`ga faqat faol kod/ma’lumotlar, katalogga kiritilgan media va 64 aktiv yo‘l geometriyasini yig‘adi. Eski katalog/uslublar, tadqiqot fayllari, server, ZIPlar va ortiqcha geometriyalar kiritilmaydi. Bu buyruq ilovani ishga tushirmaydi. `_site/` Git’ga kiritilmaydi; Cloudflare uni manbadan yig‘adi.
 
-Keyingi nashr uchun repository’da **Settings → Pages → Source → GitHub Actions** tanlanadi. `.github/workflows/pages.yml` keyingi `main` push yoki qo‘lda workflow boshlash orqali yig‘ilmani nashr qiladi. [GitHub Pages workflow hujjati](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+Joriy nashr yo‘li yuqoridagi Cloudflare Pages Git Integration sozlamalaridir. `.github/workflows/pages.yml` faqat qo‘lda boshlanadigan eski GitHub Pages varianti sifatida saqlangan; u `main` push’larida ishlamaydi va Cloudflare uchun kerak emas. GitHub Pages’ga alohida nashr so‘ralgandagina uning sozlamalari va qo‘lda workflow ishga tushirilishi ko‘rib chiqiladi. [GitHub Pages workflow hujjati](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
-Test yozilmadi yoki bajarilmadi; avtomatlashtirilgan brauzer tekshiruvi qilinmadi. Manba/rasm tahlili, ma’lumotlar va fayllar mosligi, Drive metadata qayta o‘qilishi hamda JavaScript/PowerShell sintaksisi ko‘rildi. Mahalliy preview foydalanuvchi talabi bilan ochilgan. GitHub Pages nashrini repository egasi **Settings → Pages → GitHub Actions** orqali yoqadi va workflow’ni boshlaydi.
+Dastlabki bosqich qaydiga ko‘ra test yozilmagan yoki bajarilmagan; avtomatlashtirilgan brauzer tekshiruvi qilinmagan. Manba/rasm tahlili, ma’lumotlar va fayllar mosligi, Drive metadata qayta o‘qilishi hamda JavaScript/PowerShell sintaksisi ko‘rilgan. Keyingi nashr va uning tekshiruv holati alohida qayd etiladi.

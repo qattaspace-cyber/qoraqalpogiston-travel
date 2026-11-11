@@ -10,7 +10,7 @@ let currentLang = SUPPORTED_LANGUAGES.includes(storedLang) ? storedLang : "uz";
 // A complete Uzbek dictionary keeps every control usable if locale requests fail.
 // This source copy mirrors data/locales/uz.json and must retain all UI keys.
 const FALLBACK_LOCALE_DICTIONARY = Object.freeze({
-  "siteTitle": "Qoraqalpog'iston Travel",
+  "siteTitle": "DiscoverKarakalpakstan",
   "siteSubtitle": "Kashf etishga arziydigan diyor",
   "siteTagline": "Tabiat • Tarix • Madaniyat • Odamlar",
   "headerQuote": "Buyuk meros, cheksiz imkoniyatlar — Qoraqalpog'iston kashfiyotlar yurti!",
@@ -42,7 +42,7 @@ const FALLBACK_LOCALE_DICTIONARY = Object.freeze({
   "all": "Barchasi",
   "objectsFound": "ta obyekt topildi",
   "realPhotoBadge": "Haqiqiy foto",
-  "footerSlogan": "QORAQALPOG'ISTON — BARCHA SAYYOHLAR UCHUN OCHIQ",
+  "footerSlogan": "DiscoverKarakalpakstan — Qoraqalpog‘iston barcha sayyohlar uchun ochiq",
   "allDestinationsTitle": "Turistik obyektlar",
   "noResults": "Bu filtrlarga mos joy topilmadi.",
   "loading": "Ma'lumotlar yuklanmoqda…",
@@ -115,8 +115,9 @@ const FALLBACK_LOCALE_DICTIONARY = Object.freeze({
   "coordinatesUnverified": "Manzil koordinatasi hali mustaqil manbadan tasdiqlanmagan",
   "coordinateSource": "Koordinata manbasi",
   "favoritesOnlyActive": "Faqat saqlangan joylar ko‘rsatilmoqda",
-  "pageTitle": "Qoraqalpog‘iston Travel — Madaniyat va sayohat atlasi",
-  "brandRegion": "Qoraqalpog‘iston",
+  "pageTitle": "DiscoverKarakalpakstan — Qoraqalpog‘iston sayohat atlasi",
+  "pageDescription": "DiscoverKarakalpakstan — Qoraqalpog‘iston bo‘ylab sayohat: 64 turistik maskan, interaktiv xarita, qal’alar, muzeylar va Nukusdan boshlanadigan yo‘nalishlar.",
+  "brandRegion": "DiscoverKarakalpakstan",
   "atlasLabel": "Madaniyat va sayohat atlasi",
   "skipToMap": "Xaritaga o‘tish",
   "navigationLabel": "Asosiy navigatsiya",
@@ -125,7 +126,7 @@ const FALLBACK_LOCALE_DICTIONARY = Object.freeze({
   "heroEyebrow": "O‘zbekiston · Orolbo‘yi",
   "heroTitle": "Qadimiy meros.",
   "heroTitleAccent": "Yangi kashfiyotlar.",
-  "heroDescription": "Cho‘l qal’alari, Orolbo‘yi manzaralari va tirik an’analar. Qoraqalpog‘istonni joylar, hikoyalar va yo‘llar orqali kashf eting.",
+  "heroDescription": "Cho‘l qal’alari, Orolbo‘yi manzaralari va tirik an’analar. DiscoverKarakalpakstan bilan Qoraqalpog‘istonni joylar, hikoyalar va yo‘llar orqali kashf eting.",
   "heroMapAction": "Xaritadan boshlash",
   "heroRoutesAction": "Marshrutlarni ko‘rish",
   "heroPhotoPlace": "Ayaz-qal’a I",
@@ -209,7 +210,21 @@ async function loadLocale(lang) {
 }
 
 function applyTranslations() {
-  document.title = t("pageTitle");
+  const pageTitle = t("pageTitle");
+  const pageDescription = t("pageDescription");
+  document.title = pageTitle;
+  for (const selector of ['meta[property="og:title"]', 'meta[name="twitter:title"]']) {
+    const meta = document.querySelector(selector);
+    if (meta) meta.content = pageTitle;
+  }
+  for (const selector of ['meta[name="description"]', 'meta[property="og:description"]', 'meta[name="twitter:description"]']) {
+    const meta = document.querySelector(selector);
+    if (meta) meta.content = pageDescription;
+  }
+  for (const selector of ['meta[property="og:image:alt"]', 'meta[name="twitter:image:alt"]']) {
+    const meta = document.querySelector(selector);
+    if (meta) meta.content = `${t("heroPhotoPlace")} — Bgag · CC0`;
+  }
   document.querySelectorAll("[data-i18n]").forEach((el) => {
     const key = el.getAttribute("data-i18n");
     if (localeDictionary[key] !== undefined) {
